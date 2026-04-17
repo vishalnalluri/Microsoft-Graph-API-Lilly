@@ -1,5 +1,5 @@
 # Business Analyst Perspective
-
+![A diagram](images/Business_Analyst_Perspective/image1.png)
 ![A diagram of a document AI-generated content may be incorrect.](images/Business Analyst Perspective/image1.png){width="6.5in" height="4.585416666666666in"}
 
 **Business Analyst Perspective: Complaint Submission Dashboard**
