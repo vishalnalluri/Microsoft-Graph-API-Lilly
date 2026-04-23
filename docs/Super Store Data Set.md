@@ -4,7 +4,7 @@
 
 ![A blue cube with black background
 
-AI-generated content may be incorrect.](C:\Users\VISHAL~1\AppData\Local\Temp\conv_se4ypzoa\media/ppt/media/image1.png "Picture 5")
+AI-generated content may be incorrect.](docs/images/Super Store Data Set/image1.png "Picture 5")
 
 Superstore Sales Hypothesis Testing
 
