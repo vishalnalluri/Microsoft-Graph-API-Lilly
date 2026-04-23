@@ -4,7 +4,7 @@
 
 ![A blue cube with black background
 
-AI-generated content may be incorrect.](![A blue cube with black background](docs/images/Super%20Store%20Data%20Set/image1.png "Picture 5")
+AI-generated content may be incorrect.]![Picture 5](docs/images/Super%20Store%20Data%20Set/image1.png "Picture 5"
 
 Superstore Sales Hypothesis Testing
 
