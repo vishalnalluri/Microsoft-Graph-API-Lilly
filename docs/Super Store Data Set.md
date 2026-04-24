@@ -13,7 +13,7 @@ Date:04/02/2025
 
 ![A graphic of a question mark and a question mark
 
-AI-generated content may be incorrect.](C:\Users\VISHAL~1\AppData\Local\Temp\conv_se4ypzoa\media/ppt/media/image2.png "Picture 21")
+![A diagram of a document AI-generated content may be incorrect.](<images/image2.png>)
 
 ## Slide 2
 
