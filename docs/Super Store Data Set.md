@@ -17,7 +17,7 @@ Date:04/02/2025
 
 ![A blue cube with black background
 
-![A diagram of a document AI-generated content may be incorrect.](<images/ppt/media/image2.png>)
+![A diagram of a document AI-generated content may be incorrect.](images/ppt/media/image2.png)
 
 Task Completed and Deliverables
 
