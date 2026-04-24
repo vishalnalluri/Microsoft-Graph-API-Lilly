@@ -67,7 +67,7 @@ AI-generated content may be incorrect.](C:\Users\VISHAL~1\AppData\Local\Temp\con
 
 Super   Store Raw Cleansed Data Set 
 
-![](C:\Users\VISHAL~1\AppData\Local\Temp\conv_se4ypzoa\media/ppt/media/image5.png "Picture 8")
+![A diagram of a document AI-generated content may be incorrect.](<images/Super Store Data Set/image5.png>)
 
 Some of   the Data Fields:
 
