@@ -17,7 +17,7 @@ Date:04/02/2025
 
 ![A blue cube with black background
 
-![A diagram of a document AI-generated content may be incorrect.](<images/ppt/media/image2.png>)
+![A diagram of a document AI-generated content may be incorrect.](<images/Super Store Data Set/image2.png>)
 
 Task Completed and Deliverables
 
@@ -57,7 +57,7 @@ Do different segments respond differently to discounts?
 
 ![A group of people sitting at a table looking at papers
 
-AI-generated content may be incorrect.](C:\Users\VISHAL~1\AppData\Local\Temp\conv_se4ypzoa\media/ppt/media/image4.png "Picture 14")
+AI-generated content may be incorrect.](<images/Super Store Data Set/image4.png)
 
 ## Slide 4
 
