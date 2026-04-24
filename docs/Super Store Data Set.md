@@ -11,8 +11,6 @@ Vishal Kumar  Nalluri
 
 Date:04/02/2025  
 
-![A graphic of a question mark and a question mark
-
 ![A diagram of a document AI-generated content may be incorrect.](<images/ppt/media/image2.png>)
 
 ## Slide 2
