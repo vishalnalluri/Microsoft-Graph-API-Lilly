@@ -31,6 +31,7 @@ Task Completed and Deliverables
 ![A person walking towards a trophy
 
 AI-generated content may be incorrect.](C:\Users\VISHAL~1\AppData\Local\Temp\conv_se4ypzoa\media/ppt/media/image3.jpg "Picture 9")
+![A diagram of a document AI-generated content may be incorrect.](<images/Super Store Data Set/image3.jpg>)
 
 ## Slide 3
 
