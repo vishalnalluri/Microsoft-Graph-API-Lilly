@@ -11,7 +11,7 @@ Vishal Kumar  Nalluri
 
 Date:04/02/2025  
 
-![A diagram of a document AI-generated content may be incorrect.](images/ppt/media/image2.png)
+![alt text](<images/Super Store Data Set/image1.png>)
 
 ## Slide 2
 
