@@ -17,7 +17,7 @@ Date:04/02/2025
 
 ![A blue cube with black background
 
-AI-generated content may be incorrect.](C:\Users\VISHAL~1\AppData\Local\Temp\conv_se4ypzoa\media/ppt/media/image1.png "Picture 5")
+![A diagram of a document AI-generated content may be incorrect.](<images/ppt/media/image2.png>)
 
 Task Completed and Deliverables
 
