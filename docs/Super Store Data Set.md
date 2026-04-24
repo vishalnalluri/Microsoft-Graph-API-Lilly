@@ -11,7 +11,7 @@ Vishal Kumar  Nalluri
 
 Date:04/02/2025  
 
-![alt text](<images/Super Store Data Set/image1.png>)
+![alt text](<images/ppt/media/image2.png>)
 
 ## Slide 2
 
