@@ -2,7 +2,7 @@
 
 ## Slide 1
 
-![A diagram of a document AI-generated content may be incorrect.](images/Super Store Data Set/image1.png)
+![A diagram of a document AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 Superstore Sales Hypothesis Testing
 
 Presented By:
