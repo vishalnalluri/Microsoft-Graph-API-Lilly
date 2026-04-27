@@ -26,9 +26,7 @@ BI (Business Intelligence) tools help convert data into reports and dashboards s
 
                                 reports, dashboards & sharing
 
-![A black background with white text
-
-Description automatically generated](<images/BI Tools Intro PPT/image7.png>)
+![A black background with white text Description automatically generated](<images/BI Tools Intro PPT/image7.png>)
 
 ![Power BI Logo, symbol, meaning, history, PNG, brand](<images/BI Tools Intro PPT/image8.png>)
 
@@ -160,9 +158,7 @@ Questions?
 
 ## Slide 10
 
-![A computer generated image of several buildings
-
-Description automatically generated](<images/BI Tools Intro PPT/image10.png>)
+![A computer generated image of several buildings Description automatically generated](<images/BI Tools Intro PPT/image10.png>)
 
 Address
 
