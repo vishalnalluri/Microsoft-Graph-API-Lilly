@@ -2,7 +2,9 @@
 
 ## Slide 1
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Superstore Sales Hypothesis Testing
 
@@ -12,7 +14,15 @@ Vishal Kumar  Nalluri
 
 Date:04/02/2025  
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![A graphic of a question mark and a question mark
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image2.png>)
+
+## Slide 2
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Task Completed and Deliverables
 
@@ -23,7 +33,15 @@ Task Completed and Deliverables
 | Aravinth |                   100% | SQL ER  Diag  , DDL scripted  |
 |  |  |  |
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![A person walking towards a trophy
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image3.jpg>)
+
+## Slide 3
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Introduction & Objective
 
@@ -41,11 +59,39 @@ Which cities have high revenue but low profit margins?
 
 Do different segments respond differently to discounts?
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![A group of people sitting at a table looking at papers
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image4.png>)
+
+## Slide 4
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Super   Store Raw Cleansed Data Set 
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![](<images/Super Store Data Set/image5.png>)
+
+Some of   the Data Fields:
+
+- Order Date
+- Sales & Profit
+- Discount
+- Shipping Mode
+- Customer Segment
+- Product Name & Sub-Category
+- City & Region
+
+![A person spraying a computer
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image6.png>)
+
+## Slide 5
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Data Analysis & Hypothesis Testing
 
@@ -53,7 +99,19 @@ Data Analysis & Hypothesis Testing
 
 Total Sum Of Sales for each Month of 2024
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![](<images/Super Store Data Set/image7.png>)
+
+![](<images/Super Store Data Set/image8.png>)
+
+![A black friday sale banner
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image9.png>)
+
+## Slide 6
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Data Analysis & Hypothesis Testing
 
@@ -62,7 +120,17 @@ Data Analysis & Hypothesis Testing
 - Grouped profits by Product Name
 - ANOVA
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![](<images/Super Store Data Set/image10.png>)
+
+![Stacks of coins with graph behind them
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image11.png>)
+
+## Slide 7
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Data Analysis & Hypothesis Testing
 
@@ -73,7 +141,17 @@ Method:
 - Classified orders as High/Low based on median Sales
 - Used Chi-Square Test in Python
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![](<images/Super Store Data Set/image12.png>)
+
+![A person and person sitting on a couch with a box
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image13.png>)
+
+## Slide 8
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 4. Which cities have high revenue but low profit margins?
 
@@ -83,7 +161,19 @@ Method:
 - Calculated average profit margins
 - Used ANOVA to test for significance
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![](<images/Super Store Data Set/image14.png>)
+
+Data Analysis & Hypothesis Testing
+
+![A person looking at a graph
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image15.png>)
+
+## Slide 9
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 5.Do different segments respond differently to discounts?
 
@@ -92,7 +182,19 @@ Method:
 - Grouped discount data by segment
 - ANOVA test
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![](<images/Super Store Data Set/image16.png>)
+
+Data Analysis & Hypothesis Testing
+
+![A isometric view of a shopping center
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image17.png>)
+
+## Slide 10
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 1. Monthly Sales Trend
 
@@ -116,13 +218,51 @@ No statistically significant difference in discount response among Consumer, Cor
 
 Conclusion:
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![A hand writing on a whiteboard
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image18.png>)
+
+## Slide 11
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Questions?
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+![A person standing in a circle with arrows pointing to the top
 
-![image1.png](<images/Super Store Data Set/image1.png>)
+AI-generated content may be incorrect.](<images/Super Store Data Set/image19.png>)
+
+## Slide 12
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+
+![](<images/Super Store Data Set/image20.png>)
+
+Address
+
+1119 Keystone Way #302
+
+Carmel, IN 46032
+
+Phone & Email
+
+317-456-7560 info@radcube.com
+
+Thank You!
+
+![A person giving a thumbs up
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image21.png>)
+
+## Slide 13
+
+![A blue cube with black background
+
+AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 | Groups    | Count | Sum      | Average  | Variance |
 |-----------|-------|----------|----------|----------|
