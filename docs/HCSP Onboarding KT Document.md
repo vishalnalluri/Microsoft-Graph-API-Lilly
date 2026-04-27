@@ -28,18 +28,18 @@ Delete old Survey from onboarding-list-creation-data - \> Input.
 
 Upload New Survey in onboarding-list-creation-data - \> Input.
 
-<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_68sqi5ya\media/media/image1.png" style="width:7.1212in;height:1.58096in" />
+<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_52zh_l3v\media/media/image1.png" style="width:7.1212in;height:1.58096in" />
 
-<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_68sqi5ya\media/media/image2.png" style="width:6.73021in;height:0.67719in" />
+<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_52zh_l3v\media/media/image2.png" style="width:6.73021in;height:0.67719in" />
 
 Group Code Creation Lambda Function:\
 **Group-Code-Creation**
 
 Once we get Group Code, we need to recheck if it is unique:
 
-<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_68sqi5ya\media/media/image3.png" style="width:6.05293in;height:0.42714in" />
+<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_52zh_l3v\media/media/image3.png" style="width:6.05293in;height:0.42714in" />
 
-<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_68sqi5ya\media/media/image4.png" style="width:5.17781in;height:0.40631in" />
+<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_52zh_l3v\media/media/image4.png" style="width:5.17781in;height:0.40631in" />
 
 **Send Emails to Providers:**
 
