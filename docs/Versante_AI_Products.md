@@ -20,7 +20,117 @@ VersanteConnect
 
 Case management and population health intelligence platform for providers and public health teams.
 
-![image11.png](<images/Versante_AI_Products/image11.png>)
+![preencoded.png](<images/Versante_AI_Products/image1.png>)
+
+## Slide 2
+
+PRODUCT 01
+
+OSMe Buddy
+
+LIVE PILOT DEPLO/YMENTS
+
+What It Is
+
+AI-powered digital health companion enabling individuals to access anonymous, stigma-free screening, health education, and support through conversational AI. Designed to improve early detection, outreach, and linkage to care across public health ecosystems.
+
+5 SCREENING DOMAINS
+
+Oral
+
+Health
+
+Sexual
+
+Health
+
+Mental
+
+Health
+
+Behavioral
+
+Risk
+
+Preventive
+
+Care
+
+Wellness
+
+& Prevention
+
+Key Capabilities
+
+![preencoded.png](<images/Versante_AI_Products/image2.png>)
+
+Conversational Health Screening
+
+Chat-based assessments guide users through risk evaluation across all screening domains
+
+![preencoded.png](<images/Versante_AI_Products/image3.png>)
+
+Anonymous & Private Access
+
+Users engage without sharing personal identity — no login, no stigma
+
+![preencoded.png](<images/Versante_AI_Products/image4.png>)
+
+Chance Score Risk Assessment
+
+Dynamic risk scoring engine that identifies potential health concerns and flags priority follow-up
+
+![preencoded.png](<images/Versante_AI_Products/image5.png>)
+
+Resource & Testing Navigation
+
+Links users to testing services, care providers, and community health programs
+
+Output: Personalized health insights, risk indicators, and recommended next actions — while organizations gain aggregate risk intelligence for outreach and intervention planning.
+
+## Slide 3
+
+PRODUCT 02
+
+VersanteConnect
+
+IN DEVELOPMENT
+
+What It Is
+
+A public health intelligence and case management platform enabling organizations to monitor risk signals, coordinate care, and manage outreach efforts — powered by insights from OSMe Buddy interactions.
+
+![preencoded.png](<images/Versante_AI_Products/image6.png>)
+
+Role-Based Access
+
+Case manager, clinician, administrator, and analyst roles with distinct permissions and workflows
+
+![preencoded.png](<images/Versante_AI_Products/image7.png>)
+
+Population Health Dashboard
+
+Aggregated insights from community interactions and screening activity across OSMe Buddy
+
+![preencoded.png](<images/Versante_AI_Products/image8.png>)
+
+Risk Monitoring
+
+Identify trends and potential intervention points across populations in real time
+
+![preencoded.png](<images/Versante_AI_Products/image9.png>)
+
+Care Coordination
+
+Manage outreach, referrals, and follow-ups across community health programs
+
+![preencoded.png](<images/Versante_AI_Products/image10.png>)
+
+Integrated Data Intelligence
+
+Combines AI screening insights from OSMe Buddy with organizational workflows and data
+
+![preencoded.png](<images/Versante_AI_Products/image11.png>)
 
 Outcome Reporting
 
