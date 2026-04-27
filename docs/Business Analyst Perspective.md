@@ -1,6 +1,6 @@
 # Business Analyst Perspective
 
-<img src="C:\Users\VISHAL~1\AppData\Local\Temp\conv_jd48npxc\media/media/image1.png" style="width:6.5in;height:4.58542in" alt="A diagram of a document AI-generated content may be incorrect." />
+![A diagram of a document AI-generated content may be incorrect.](<images/Business Analyst Perspective/image1.png>)
 
 **Business Analyst Perspective: Complaint Submission Dashboard**
 
