@@ -2,9 +2,7 @@
 
 ## Slide 1
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Superstore Sales Hypothesis Testing
 
@@ -14,15 +12,11 @@ Vishal Kumar  Nalluri
 
 Date:04/02/2025  
 
-![A graphic of a question mark and a question mark
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image2.png>)
+![A graphic of a question mark and a question mark AI-generated content may be incorrect.](<images/Super Store Data Set/image2.png>)
 
 ## Slide 2
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Task Completed and Deliverables
 
@@ -33,15 +27,11 @@ Task Completed and Deliverables
 | Aravinth |                   100% | SQL ER  Diag  , DDL scripted  |
 |  |  |  |
 
-![A person walking towards a trophy
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image3.jpg>)
+![A person walking towards a trophy AI-generated content may be incorrect.](<images/Super Store Data Set/image3.jpg>)
 
 ## Slide 3
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Introduction & Objective
 
@@ -59,15 +49,11 @@ Which cities have high revenue but low profit margins?
 
 Do different segments respond differently to discounts?
 
-![A group of people sitting at a table looking at papers
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image4.png>)
+![A group of people sitting at a table looking at papers AI-generated content may be incorrect.](<images/Super Store Data Set/image4.png>)
 
 ## Slide 4
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Super   Store Raw Cleansed Data Set 
 
@@ -83,15 +69,11 @@ Some of   the Data Fields:
 - Product Name & Sub-Category
 - City & Region
 
-![A person spraying a computer
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image6.png>)
+![A person spraying a computer AI-generated content may be incorrect.](<images/Super Store Data Set/image6.png>)
 
 ## Slide 5
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Data Analysis & Hypothesis Testing
 
@@ -103,15 +85,11 @@ Total Sum Of Sales for each Month of 2024
 
 ![](<images/Super Store Data Set/image8.png>)
 
-![A black friday sale banner
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image9.png>)
+![A black friday sale banner AI-generated content may be incorrect.](<images/Super Store Data Set/image9.png>)
 
 ## Slide 6
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Data Analysis & Hypothesis Testing
 
@@ -122,15 +100,11 @@ Data Analysis & Hypothesis Testing
 
 ![](<images/Super Store Data Set/image10.png>)
 
-![Stacks of coins with graph behind them
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image11.png>)
+![Stacks of coins with graph behind them AI-generated content may be incorrect.](<images/Super Store Data Set/image11.png>)
 
 ## Slide 7
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Data Analysis & Hypothesis Testing
 
@@ -143,15 +117,11 @@ Method:
 
 ![](<images/Super Store Data Set/image12.png>)
 
-![A person and person sitting on a couch with a box
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image13.png>)
+![A person and person sitting on a couch with a box AI-generated content may be incorrect.](<images/Super Store Data Set/image13.png>)
 
 ## Slide 8
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 4. Which cities have high revenue but low profit margins?
 
@@ -165,15 +135,11 @@ Method:
 
 Data Analysis & Hypothesis Testing
 
-![A person looking at a graph
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image15.png>)
+![A person looking at a graph AI-generated content may be incorrect.](<images/Super Store Data Set/image15.png>)
 
 ## Slide 9
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 5.Do different segments respond differently to discounts?
 
@@ -186,15 +152,11 @@ Method:
 
 Data Analysis & Hypothesis Testing
 
-![A isometric view of a shopping center
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image17.png>)
+![A isometric view of a shopping center AI-generated content may be incorrect.](<images/Super Store Data Set/image17.png>)
 
 ## Slide 10
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 1. Monthly Sales Trend
 
@@ -218,27 +180,19 @@ No statistically significant difference in discount response among Consumer, Cor
 
 Conclusion:
 
-![A hand writing on a whiteboard
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image18.png>)
+![A hand writing on a whiteboard AI-generated content may be incorrect.](<images/Super Store Data Set/image18.png>)
 
 ## Slide 11
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 Questions?
 
-![A person standing in a circle with arrows pointing to the top
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image19.png>)
+![A person standing in a circle with arrows pointing to the top AI-generated content may be incorrect.](<images/Super Store Data Set/image19.png>)
 
 ## Slide 12
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 ![](<images/Super Store Data Set/image20.png>)
 
@@ -254,15 +208,11 @@ Phone & Email
 
 Thank You!
 
-![A person giving a thumbs up
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image21.png>)
+![A person giving a thumbs up AI-generated content may be incorrect.](<images/Super Store Data Set/image21.png>)
 
 ## Slide 13
 
-![A blue cube with black background
-
-AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
+![A blue cube with black background AI-generated content may be incorrect.](<images/Super Store Data Set/image1.png>)
 
 | Groups    | Count | Sum      | Average  | Variance |
 |-----------|-------|----------|----------|----------|
