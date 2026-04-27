@@ -6,9 +6,7 @@ Monthly User Analytics & Provider Insights
 
 February 2026 Report
 
-![A black background with white text and blue and green letters
-
-AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image1.png>)
+![A black background with white text and blue and green letters AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image1.png>)
 
 ## Slide 2
 
@@ -77,9 +75,7 @@ Low Activity Hours
 
 Minimal usage from midnight to 6 AM and during typical meal times (12-1 PM has exceptions)
 
-![A screenshot of a calendar
-
-AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image2.png>)
+![A screenshot of a calendar AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image2.png>)
 
 ## Slide 6
 
@@ -105,9 +101,7 @@ Key Demographic Insights
 
 Language
 
-![A green and grey pie chart
-
-AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image3.png>)
+![A green and grey pie chart AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image3.png>)
 
 ## Slide 7
 
@@ -122,9 +116,7 @@ Understanding User Mood Across Age Groups
 - 43+ age group shows highest 'Chill' state (31 users)
 - Young adults (22-33) show more anxiety (7) and curiosity (7)
 
-![A screenshot of a computer
-
-AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image4.png>)
+![A screenshot of a computer AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image4.png>)
 
 ## Slide 8
 
@@ -136,9 +128,7 @@ Provider Category Insights
 - Substance Use Disorder & Behavioral Health is second priority (6 inquiries, 16.2%)
 - Basic needs (Food, Housing) represent 21.6% combined, indicating Social Determinants of Health importance
 
-![A screenshot of a computer
-
-AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image5.png>)
+![A screenshot of a computer AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image5.png>)
 
 ## Slide 9
 
@@ -171,6 +161,4 @@ Key Takeaways
 - Peak Engagement:  Weekday   (Tuesday)  evenings
 - Geographic Focus:  Illinois/ Chicago and trust in local CBO's
 
-![A diagram of a flight schedule
-
-AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image6.png>)
+![A diagram of a flight schedule AI-generated content may be incorrect.](<images/CQL_V_Feb_Deck/image6.png>)
