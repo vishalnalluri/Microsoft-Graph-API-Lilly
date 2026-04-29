@@ -27,3 +27,38 @@ Visual dashboards for insights
 Reduce manual work using automation
 
 ![Automation.png](<images/professional_realistic_ppt/image4.png>)
+
+
+---
+
+## Additional Content
+
+### Slide 1
+
+Operations Excellence Strategy
+
+Improved Visual Presentation
+
+### Slide 2
+
+AI in Operations
+
+AI helps automate decisions and improve efficiency
+
+### Slide 3
+
+Cloud Optimization
+
+Flexible and scalable cloud systems
+
+### Slide 4
+
+Data Analytics
+
+Visual dashboards for insights
+
+### Slide 5
+
+Automation
+
+Reduce manual work using automation
