@@ -1,6 +1,6 @@
 # All Dashboards Summaries
 
-**1.Medicaid Claims — Dashboard Summary**
+**1.Medicaid Claims — all dashboard Dashboard Summary**
 
 Illinois \| Indiana \| Kentucky • Apr–Oct 2025
 
@@ -29,3 +29,5 @@ The DCS Foster Care Funding Dashboard (Power BI) covers funding sources and cost
 United States • MEPS HC-243 • Power BI
 
 The AHRQ Dashboard (Power BI) is based on the MEPS HC-243 survey and covers general demographics, health status, and disease-related expenditures across the United States. The General dashboard shows that 87.52% of interviews were conducted in English, White Non-Hispanic is the largest racial group (1,413 females, 1,294 males), and High School Diploma holders are the most common education level (1,332 born in the USA); employed respondents overwhelmingly hold private insurance (1,704), while those not in the labor force rely more heavily on public insurance (698), and key health indicators show 6.96% uninsured, 15.7% with mental health needs, 5.4% with a long COVID rate, and 10.3% with activity limitations. The Diseases and Status dashboard reveals total healthcare expenditure of \$37.03M across all regions, with the South generating the highest spend (\$12.49M) and the Northeast the lowest (\$6.53M); nearly 50% of respondents (2.5K) do not have hypertension, while 29.88% (1.49K) do, and the majority of emergency room visits are single visits (45.11%), though a small number of individuals account for as many as 14 visits. Married respondents have the highest food stamp receipt counts, followed by never-married individuals, highlighting the intersection of social support needs and health spending across different population segments.
+
+Weather the file checksum is changing or not we have to check that s
