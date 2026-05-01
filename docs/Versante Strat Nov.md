@@ -1,89 +1,37 @@
 # Versante Strat Nov
 
-## Versante Strategy  Status Update
+## Slide 1
 
-November 2025
+![Slide 1](<images/Versante Strat Nov/slide_1.png>)
 
-## Current Partners
+## Slide 2
 
-Deals we can close now if we do that - Put the \$\$\$ value
+![Slide 2](<images/Versante Strat Nov/slide_2.png>)
 
-The T.R.U.T.H. Project – HTX
+## Slide 3
 
-Maps of current partners in each country: US, India, Africa - where we can start making money
+![Slide 3](<images/Versante Strat Nov/slide_3.png>)
 
-![A map of the united states AI-generated content may be incorrect.](<images/Versante Strat Nov/image1.png>)
+## Slide 4
 
-![A map of india with purple areas AI-generated content may be incorrect.](<images/Versante Strat Nov/image2.png>)
+![Slide 4](<images/Versante Strat Nov/slide_4.png>)
 
-![A map of africa with a blue spot AI-generated content may be incorrect.](<images/Versante Strat Nov/image3.png>)
+## Slide 5
 
-## Evolving Business Model
+![Slide 5](<images/Versante Strat Nov/slide_5.png>)
 
-versante  will use providers as marketing??? 
+## Slide 6
 
-how we'll make money (monthly subscription costs only as opposed to what we have now) 
+![Slide 6](<images/Versante Strat Nov/slide_6.png>)
 
-## Grindr Business Model
+## Slide 7
 
-grindr  uses users as marketing -\> lets get tested before hooking up
-
-Built in self testing or testing location finder in app
-
-## Features Released So Far 
-
-🌍  Multi-Language Agent Support           
-
-🧠  Context-Aware Responses
-
-🤝  Provider Referrals                  
-
-💬  Free Chat – More Freedom
-
-📊  Smart Demography Collection (Non-PII)      
-
-⚡  Easy Feature Accessibility
-
-📝  Summarization
-
-🔢  Token Calculation                  
-
-📁  History Storage
-
-📈  Wide Range KPI Collection
-
-## Upcoming features in Pipeline
-
-🎯 Chance Score Optimization
-
-Transitioned from a single, fixed core-question screening to  dynamic, condition-specific screenings  (Prostate, Cervical, Breast, Oral).
-
-Introduced  disease-agnostic intelligent mapping  — screenings adapt automatically based on provider type and context.
-
- 
-
-Speech to Text
-
-Dictate (Text to Speech) 
-
-🎭 Client  Persona-Based Responses      
-
- Self Service  Versante  Connect  Platfrom  (Case Management Lite)
-
-## Release Cycle Being Followed
-
-- First Friday of Every Month – UAT Release
-- 1 Week of UAT Testing 
-- Second Friday of Every Month – Prod Release
-- Quick smoke testing after prod release  - Number of releases (5) Aug 29th , Sep 5 , Sep 19 , Oct 10 Next – Nov 15  - OPS  readinees  
-- Cost optimization 
+![Slide 7](<images/Versante Strat Nov/slide_7.png>)
 
 ## Slide 8
 
-Where we are with development
+![Slide 8](<images/Versante Strat Nov/slide_8.png>)
 
 ## Slide 9
 
-Key differentiators from what we have now vs. our intended MVP
-
-What it will take to build chance score for MVP
+![Slide 9](<images/Versante Strat Nov/slide_9.png>)
