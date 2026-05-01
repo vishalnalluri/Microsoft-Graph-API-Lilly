@@ -1,29 +1,21 @@
 # professional realistic ppt
 
-## Operations Excellence Strategy
+## Slide 1
 
-Improved Visual Presentation
+![Slide 1](<images/professional_realistic_ppt/slide_1.png>)
 
-## AI in Operations
+## Slide 2
 
-AI helps automate decisions and improve efficiency
+![Slide 2](<images/professional_realistic_ppt/slide_2.png>)
 
-![AI_Engine.png](<images/professional_realistic_ppt/image1.png>)
+## Slide 3
 
-## Cloud Optimization
+![Slide 3](<images/professional_realistic_ppt/slide_3.png>)
 
-Flexible and scalable cloud systems
+## Slide 4
 
-![Cloud_System.png](<images/professional_realistic_ppt/image2.png>)
+![Slide 4](<images/professional_realistic_ppt/slide_4.png>)
 
-## Data Analytics
+## Slide 5
 
-Visual dashboards for insights
-
-![Analytics.png](<images/professional_realistic_ppt/image3.png>)
-
-## Automation
-
-Reduce manual work using automation
-
-![Automation.png](<images/professional_realistic_ppt/image4.png>)
+![Slide 5](<images/professional_realistic_ppt/slide_5.png>)
