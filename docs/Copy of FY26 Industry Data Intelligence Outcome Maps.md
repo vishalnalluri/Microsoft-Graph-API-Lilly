@@ -1,812 +1,48 @@
 # Copy of FY26 Industry Data Intelligence Outcome Maps
 
-**==> picture [203 x 33] intentionally omitted <==**
-
-FY26 Data Intelligence Outcome Maps 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-**1** 
-
-# FS Data Intelligence Outcome Maps _Banking Capital Markets Insurance_ 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-2 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Banking 
-
-## _**Drive Growth**_ 
-
-_**Protect the Firm**_ 
-
-Hyper Personalization & Lead Mgmt 
-
-Loans & Personal Investment 
-
-Fraud Prevention 
-
-Risk Management 
-
-CFO & Treasury Call Center & Channel Optimization 
-
-Card & Payments Innovation 
-
-Regulatory Compliance Cybersecurity 
-
-Back- / Middle- office Automation 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-3 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Capital Markets 
-
-_**Drive Growth Protect the Firm**_ Investment Analytics Risk Management Investment Advisory Cybersecurity Trading Analytics Fraud Prevention Regulatory Compliance 
-
-**==> picture [302 x 202] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Be More Efficient<br>CFO & Treasury<br>Back - Middle Automation<br>**----- End of picture text -----**<br>
-
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-4 
-
-## Data Intelligence Outcome Maps 
-
-Insurance 
-
-_**Drive Growth**_ 
-
-Distribution Optimization 
-
-Underwriting & Actuarial 
-
-Hyper- Personalization & Lead Management Product Innovation 
-
-_**Protect the Firm**_ Risk Management Cybersecurity Claims & Fraud Prevention Regulatory Compliance 
-
-CFO and  FP&A Back - Middle Automation Channel Optimization 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-5 
-
-## **Outcome Map** 
-
-Banking & Payments 
-
-## Drive Growth 
-
-## Protect the Firm 
-
-## 
-
-**==> picture [948 x 293] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Business Hyper Card & Payments Loans & Personal Regulatory Call center & Back - Middle<br>Personalization & Fraud Prevention Cybersecurity Risk Management CFO & Treasury Channel<br>Objective Lead Mgmt innovation Investment Compliance Optimization offce automation<br>● Prospecting  ● Open Banking  ● Mortgage/loan  ● Transaction  ● User & Entity  ● AML / KYC ● Dynamic pricing ● Financial  ● Branch network  ● Documents<br>campaigns  Integration origination Fraud Behavior  ● IFRS 9 / CECL ● Credit  Projections &  optimization Analysis<br>● developmentHyper  ● Partners offers & rewards ● SMB & Corporate  ● Application Fraud ● AnalyticsThreat Hunting  ● Model Risk Management ● decisioningCredit line  ● ReportingOperational  ● Complaint management ● Customer onboarding<br>personalized banking ● Transaction Enrichment ● Banking innoM&A evaluation  ● Identity Theft & Advanced Detection ● ESG / CSRD increase ● dashboardingALM ● Intelligent IVR / Chatbots ● (AML/KYC)Workforce<br>● Debt collection<br>Use cases ● Cross sell & up sell ● Data monetization & integration ● Network Analysis &  ● CCAR optimization ● FP&A Analytics<br>● Churn  Inventory<br>prediction &  ● Phishing & Email<br>segmentation Security<br>● SIEM<br>Augmentation<br>Industry KPIs Net Interest Margin, % portfolio Balance % Cust. acquisition cost (CAC) Loss from Fraudulent activities ratio Risk Weighted assets Fines NPL & Net charge offs Efficiency ratio, CIR ROE, RONE Efficiency ratio<br>**----- End of picture text -----**<br>
-
-
-**==> picture [948 x 114] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-$40-65M  $100s of millions  30-40% loan  $25-40M  $44M in SIEM cost  $110-160M  $80-100M in  Near  $10-15M  50-60% of tasks<br>revenue uplift in new revenue growth  through  annualized value avoidance, and a  efficiency savings revenue uplift  instantaneous  cost reduction automated,<br>through  through data  pre-auth (KYC) and  due to reduced  5x  increase in  by reducing cost to  by gaining more  c-suite insights by optimizing  reducing<br>Impact  personalization products automation loss from Fraud operational query  comply and creditworthy  contact center processing costs<br>Potential performance  future fines customers by many millions<br>with more<br>cross-selling<br>**----- End of picture text -----**<br>
-
-
-## **Outcome Map** 
-
-Capital Markets 
-
-## Drive Growth 
-
-## Protect the Firm 
-
-## 
-
-- **Back - Middle Back - Middle** 
-
-- Business **Investment Investment Trading Risk Fraud Regulatory Cybersecurity CFO & TrOffceasury Offce** 
-
-- Objective **Analytics Advisory Analytics Management Prevention Compliance Automation Automation** ● Market ● Personalized ● Real-Time Market ● Market Risk ● User & Entity ● Card Transaction ● Transaction ●● Intelligent Financial ●● Financial Intelligent Intelligence Investment Analysis ● Credit Risk Behavior Fraud Prevention monitoring Document Projections & PrD **o** jectiocume **n** s & t 
-
-- ● Backtesting Advice ● Transaction Cost ● Counterparty Analytics ● Application Fraud ● Screening (KYC) ProcessingReporting ReportingProcessing ● Portfolio ● Sales & Trading Analysis (TCA) Risk ● Threat Hunting & ● Identity Theft ● Credit ●● Customer Operational ●● Operational Customer 
-
-- Functions construction & Intelligences ● Predictive Advanced Recognition Onboarding Dashboarding DashboardingOnboarding & Use Optimization ● M&A Automation Analytics and Detection (CECL) ● (AML/KYC)Performance ● Performance (AML/KYC) cases ● Alternative Data & ESG Analytics and Integration ● ForecastingAlgorithmic ● Network Analysis & Inventory ● Model Risk Management ● Workforce Analyticsreporting and analysis ● reporting and analysisWorkforce Analytics Trading ● Phishing & Email ● Expense and ● Expense and Security Cost Cost management management 
-
-- ● SIEM Augmentation 
-
-- Maximize Alpha Satisfaction & Profit Factor Risk per Trade Ratio Mean Time to Detect Profit Factor Profit Factor Profit Factor 
-
-- Industry KPIs Optimize Risk-Adjusted Retention Rates Sharpe Ratio Sharpe Ratio (MTTD) Sharpe Ratio Sharpe Ratio Sharpe Ratio Returns Win Ratio Max. Drawdown % Patch Compliance Ratio Win Ratio Win Ratio Win Ratio 
-
-**==> picture [940 x 107] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-$10 - 20M  $10 - 50M  Prevention of  $44M in SIEM cost  $25-40M  $35M annual value Near instantaneous  50-60% of tasks<br>annualized value annualized value “London Whale”  avoidance, and a  annualized value from avoided  c-suite insights automated,<br>Impact  due to portfolio  due to personalized  event happening  5x  increase in  due to reduced  regulatory fines reducing processing<br>Potential construction  investment advisory twice operational query  loss from Fraud costs by many<br>recommendation performance millions<br>**----- End of picture text -----**<br>
-
-
-## **Outcome Map** 
-
-Insurance 
-
-## Drive Growth 
-
-## Protect the Firm 
-
-## 
-
-**==> picture [948 x 272] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-ObjectiveBusiness  OptimizationDistribution Underwriting &Actuarial Personalization& Lead MgmtHyper InnovationProduct ComplianceRegulatory ManagementRisk PreventionClaims &Fraud Cybersecurity CFO & FP&A Back/MiddleAutomationOffce OptimizationChannel<br>● Distribution  ● Policy/ ● Customer  ● Microinsurance  ● Data Protection  ● Regulatory Risk  ● Claims Ingestion ● User & Entity  ● Financial  ● Intelligent  ● Branch Network<br>Platform  Exposure  segmentation for online  and Privacy Data  ● Smart Claims  Behavior  Projections &  Document  Optimization<br>Accelerator Ingestion ● Prospecting &  purchases ● Risk  Management  Triage Analytics Reporting Processing ● Complaint<br>Functions & Use  ●● Producer AnalysisClient New/Lost Business ●● Smart Underwriting TriageReporting ● CampaignsHyper- personalized insurance ● On-demand insurance for electronic devices ● Management and ReportingCustomer Protection and  ●● (Integrated Risk and Finance)Risk Modeling & Analytics ●●● Claims AnalyticsFraud ModelsFrequency /  ●● Threat Hunting & Advanced DetectionNetwork Analysis  ●● Operational DashboardingPerformance reporting and  ●● Customer OnboardingWorkforce analytics ●● managementIntelligent IVR / ChatbotsContact Center<br>cases ● Carrier Market  ● Cross Sell and  ● Behavior-based insurance Transparency ● Risk & Capital  Severity of Losses & Inventory analysis AI<br>Analysis Up Sell  ● Regulator  Planning  ● Phishing & Email  ● Expense and<br>● Churn Prediction  ● Usage-based  Engagement and  (LDTI/IFRS17,  ● Subrogation &  Security Cost<br>insurance (UBI) Updates CECL/IFRS9) Litigation Models ● SIEM  management<br>● Parametric  ● Investment Risk  Augmentation<br>insurance Analytics<br>Sales Uplift,  Processing times,<br>Loss Ratio, Earned  TTM, Market  Loss Ratio CSAT, Retention<br>Industry KPIs Premiums Campaign ROI.  Penetration Expense Ratio Expense Ratio Payout Accuracy,  Expense Ratio Expense Ratio Rate<br>Retention Rate Reduced Fraud<br>**----- End of picture text -----**<br>
-
-
-**$50M+** in 33% increase in $40-65M **3pp ~ 6pp** $110-160M in **$8M+** in business **$24-44M $24M in SIEM** 4pp ~ 8pp 3pp ~ 6pp 90% client business value policy origination revenue uplift **improvement in** efficiency savings value from risk **savings** by **costs, and a 5x** improvement by improvement by retention Impact from business thru better **market share** by reducing cost management proactively increase in reducing reducing losses optimization personalization to comply identifying Fraud operational query expenses Potential Waste & Abuse performance 
-
-Big Book of Insurance Use Cases 
-
-## HLS Data Intelligence Outcome Maps _Life Sciences Healthcare_ 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-9 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Life Sciences 
-
-_**Increase R&D Productivity**_ Accelerate Drug Discovery Streamline Clinical Development Build a FAIR Data Platform 
-
-_**Optimize Supply Chain & Manufacturing**_ Create E2E Supply Chain Visibility 
-
-Implement Smart Manufacturing 
-
-_**Improve Commercial Effectiveness**_ Generate Real World Evidence Deliver Provider Next-Best-Action Personalize Patient Engagement 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-10 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Healthcare 
-
-_**Streamline Operations**_ Implement Interoperability Automate Clinical Note Review Improve Operating Efficiency 
-
-_**Improve Provider Quality & Network Management**_ Drive Quality of Care Optimize Network & Referrals 
-
-_**Deliver Better Patient Outcomes & Experience**_ Predict Disease Risk Personalize Engagement Improve Retention 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-11 
-
-## **Outcome Map** 
-
-Life Sciences 
-
-**==> picture [948 x 326] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Increase R&D Productivity Optimize Production Improve Commercial Effectiveness<br>Business  Accelerate Drug Streamline Clinical Build a FAIR Data Create E2E  Supply Implement Smart Generate Real Deliver Provider Personalize Patient<br>Objective Discovery Development Platform Chain Visibility Manufacturing World Evidence Next-Best-Action Engagement<br>● Genetic Target  ● Clinical Trial Protocol  ● Knowledge Graphs  ● Automate Reporting  ● Digital Twins ● Data Standardization  ● Global Customer  ● Deliver Digital Health<br>Identification Design for R&D (eg., OTIF) ● Overall Equipment  with OMOP 360 Applications (eg.,<br>Continuous Glucose<br>● QSAR Modeling  ● Clinical Trial Site  ● Medical Image  ● Inventory  Effectiveness ● Patient Cohorting &  ● Brand Analytics (eg.<br>Monitoring)<br>(Quantitative  Selection Processing &  Management ● Predictive  Propensity Score  Provider<br>Structure Activity  ● Drug Repurposing Management (Pixels  ● Demand Forecasting Maintenance Matching  Segmentation. Sales  ● Support Patient<br>Use cases ● Relationship)Geneformer Modeling (Gene  ● Automate QA of Clinical Data ● for DICOM)Omics Data Management ● Distribution Optimization ●● Comparative EffectivenessClinical Data  ● ForecastingSales Rep / Medical Science Assistant ● Services (eg., Scheduling, Chatbot)Automate Adherence<br>Expressions &  ● Modernize Clinical  ● Research Assistant  Abstraction ● Next-Best-Action  Reminders<br>● Network Biology)Image Classification  Data Repository  ● BioMedical Information Retrieval ● Pharmacovigilance (Drug Safety &  Recommendations / Omnichannel ● Digital Patient 360<br>(eg. Digital Path.)<br>Adverse Event<br>● Chromatography  Detection)<br>Insights<br>Target Identification  Clinical Trial Enrollment  Time Saved in Data  Time to Insights,  Patient Adherence Rate<br>Success Rate, R&D Cost  On-Time In-Full (OTIF) Batch Rejection Rate, HCP Engagement Uplift,<br>Industry KPIs per Successful  Rate, Trial Time  Retrieval and  Inventory Turns  Deviation Reduction Reduction in Adverse  Prescription Growth Conversion Rates,<br>Molecule Reduction Processing Events Patient Sat Scores<br>**----- End of picture text -----**<br>
-
-
-**$10M - $25M** in value **$70-80M** in added **$40M - $100M** in **$10M - $15M** in value **$5M - $10M** in value from predictive Impact value by accelerating profitability from more from faster medical from automated maintenance and Potential large-scale genomic efficient target image processing and reporting, inventory equipment data analysis identification more efficient research management effectiveness 
-
-**$5M - $15M** in value **$10M - $40M** in value **$10M - $80M** in value from propensity score from digital health from global customer matching, applications, automated 360, Sales Rep Agent, pharmacovigilance,, adherence reminders, Provider NBA Agents and chart abstraction digital patient 360 
-
-¹ Validated customer projections or realized benefits used for these ranges wherever possible. Average customer size assumed to be $20B in annual revenue with net margins of 7% for use in McKinsey projections where customer results were not. 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-## **Outcome Map** 
-
-Healthcare 
-
-**==> picture [948 x 322] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Improve Provider Quality  Deliver Better Patient Outcomes<br>Streamline Operations<br>& Network Management & Experience<br>Business  Implement Automate Clinical Improve Operating Drive Quality of Optimize Network & Personalize<br>Predict Disease Risk Improve Retention<br>Objective Interoperability Note Review Effciency Care Referrals Engagement<br>● Automate Reporting  ● Reimbursement: ● Automate Prior  ● Improve HEDIS  ● Analyze Price  ● Reduce Hospital  ● Deliver Digital Health  ● Predict Member<br>(eg., NEDOCS for Emergency Dept Wait Times) ●● Coding & ApprovalsMedicare Risk  ● AuthorizationModernize Underwriting:  ● ScoresImprove Star Ratings (Medicare) ● Transparency for Network RatesNearest Neighbor for  ● ReadmissionsPredict Disease Onset & Progression Applications (eg., Continuous Glucose Monitoring) ● ChurnCall Center Analytics (eg., Sentiment<br>● Predict Patient Throughput (eg., ICU  ● AdjustmentDe-Identify  Forecast Utilization & Accelerate Bids ● Improve Nurse Handoffs for  Provider Referrals ● Identify Probability of Next Clinical Event ● Support Patient Services (eg.,  ● Analysis)Predict Propensity to<br>Use cases ● Capacity Planning)Automate Clinical  ● Unstructured DataAI-Assisted Data  ● Detect Fraud, Waste, & Abuse (i.e.  Continuity of Care ● Polygenic Risk  ● Scheduling, Chatbot)Automate  Engage with Social Determinants<br>Data Pipelines with  Curation (Patient  Payment Integrity) Scoring Adherence<br>FHIR Registry & Research) ● Improve Revenue  Reminders<br>● Support DICOM  Cycle Mgmt<br>(standard for<br>● Optimize Supply<br>medical images)<br>Chain<br>Increased Clinical  Increased Clinical  Reduced Claims Denial  HEDIS/CMS Star Rating  In-network Referral  Reduced Readmissions,  Improved Med<br>Reduced Network<br>Industry KPIs Admin Productivity,  Admin Productivity,  Rates, Reduced Prior  Increase, Reduced  Rate, Ave Time to  Early Intervention Rate  Adherence, Reduced<br>Leakage/Member Churn<br>Reduced Latency Reduced Coding Errors Auth Processing Time Readmissions Schedule Appt.  for High-Risk Patients Appt No Show Rate<br>**----- End of picture text -----**<br>
-
-
-**$5M - $15M** in annual benefits from Impact improvement in left Potential¹ before treatment complete (LBTC) rates 
-
-**$1M - $5M** in annual **$20M - $40M** in cost **$20M - $40M** savings **$5M - $15M** in annual **$20M - $40M** savings **$20M - $40M** in annual benefits from 50%+ savings from from improved clinical **$5M - $15M** savings benefits from from improved benefit from better more efficient clinical automated prior auth outcomes through ICU increased in-network detection rate and from improved contact member/patient note/document and rev cycle denial management, better referrals early interventions center ops retention processing management RN handoffs 
-
-¹ Validated customer projections or realized benefits used for these ranges wherever possible. Average customer size assumed to be $750M - $1B in annual revenue for use in McKinsey projections where customer results were not. 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-## RCG Data Intelligence Outcome Maps _Consumer Goods Retail_ 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-14 
-
-## Data Intelligence Outcome Maps 
-
-Retail 
-
-_**Personalize & Monetize CX Improve Employee Productivity**_ Customer Data Management Employee 360 Customer Insights & Activation Agentic Workforce Retail Media Networks 
-
-_**Build Supply Chain Resiliency**_ Supply Chain Risk Management Demand & Inventory Optimization Supplier Collaboration 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-15 
-
-## Data Intelligence Outcome Maps 
-
-Consumer Goods 
-
-_**Improve Market Intelligence**_ 
-
-Shopper Insights 
-
-Brand Insights 
-
-Retailer Insights 
-
-_**Improve Employee Productivity**_ Employee 360 
-
-Agentic Workforce 
-
-_**Build Supply Chain Resiliency**_ 
-
-Supply Chain Risk Revenue Growth Management Management Demand & Inventory Portfolio Optimization & Optimization Innovation Supplier Collaboration 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-16 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-**==> picture [217 x 70] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Travel & Hospitality<br>**----- End of picture text -----**<br>
-
-
-**==> picture [921 x 335] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Personalize CX Employee Productivity Operations Revenue<br>Customer Data  Call Center Operations Dynamic Pricing &<br>Employee 360<br>Management Promotion<br>Customer Insights &<br>Agentic Workforce<br>Activation<br>**----- End of picture text -----**<br>
-
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-©2025 Databricks Inc. — All rights reserved 
-
-17 
-
-## **Outcome Map** 
-
-Retail 
-
-**==> picture [633 x 406] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Improve Employee<br>Personalize & Monetize CX<br>Productivity<br>Business  Customer Data Customer Insights & Retail Media Employee<br>Employee Lifecycle<br>Objective Management Activation Networks Productivity<br>● Customer Data  ● Customer Insights ● Data sharing and  ● Candidate Screening ● Onboarding and<br>Enrichment ● Recommendation clean rooms ● Workforce  knowledge mgmt<br>● Identity Resolution ● Activation (Content &  ● Closed loop  Scheduling &  ● Internal knowledge<br>Functions  ● Customer Data  Audience attribution Onboarding agents<br>& Use  Management ● Content Generation ● Employee Self  ● AI driven BI<br>Service HR<br>cases ● Promotions ● IT augmentation/<br>● Employee Lifecycle automation<br>Employee acquisition<br>Customer Acquisition  CLV,<br>Revenue Growth $,  cost, Employee turnover  Labor cost reduction,<br>Industry KPIs Cost, ROI, Revenue Growth,  Margin % Rate, Labor Cost  Error reduction<br>Compliance Cost Ad Spend ROI<br>Percentage<br>2-5x ROI on campaigns<br>Impact  Reduced avg. customer onboarding by 29 days<br>30-40% contribution margin return<br>Potential ($1.6M)<br>5% increase in basket size ($50-70M+)<br>**----- End of picture text -----**<br>
-
-
-## Build Supply Chains Resiliency 
-
-**==> picture [325 x 245] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Supply Chain Risk Demand & Inventory Supplier<br>Management Optimization Collaboration<br>● Supplier Risk  ● Demand forecasting  ● Supplier data sharing<br>monitoring & planning & collaboration<br>● Logistics & Transport  ● Inventory control &  ● Data sharing &<br>Risk optimization monetization<br>● Network simulation ● SAP Collaboration ● Supplier<br>Collaborative<br>● Regulatory<br>Planning<br>compliance<br>Business Risk Value,  Perfect Order Rate, Fill<br>Supplier Risk Score,  Rate, Item Availability,  Supplier Quality<br>Value at Risk, Freight  Inventory Days of Supply,  Performance<br>Cost per Unit Cash Conversion Cycle<br>**----- End of picture text -----**<br>
-
-
-Reduced avg. customer onboarding by 29 days 5-7% reduction in fresh food waste ($300-500M for the major grocers) ($1.6M) 
-
-©2024 Databricks Inc. — All rights reserved 
-
-## **Outcome Map** 
-
-Consumer Goods 
-
-**==> picture [950 x 311] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Improve Employee  Profitable Volume<br>Improve Market Intelligence Build Supply Chain Resiliency<br>Productivity Growth<br>Demand & Portfolio<br>Business  Employee Employee Supply Chain Risk Retailer Dynamic Pricing &<br>Shopper Insights Brand Insights Retailer Insights Inventory Optimization &<br>Objective Lifecycle Productivity Management Optimization Collaboration Promotion Innovation<br>● Behavioral  ● Brand Equity ● Collaborative  ● Candidate  ● Onboarding and  ● Supplier Risk  ● Demand  ● Supplier data  ● Price analytics ● SKU<br>Functions  ● analyticsTrend monitoring ●● Marketing MixCompetitive  ● performance managementRMN  ● ScreeningWorkforce Scheduling &  ● knowledge management.Internal  ● monitoringLogistics & Transport Risk ● forecasting & planningInventory  ● sharing & collaborationData sharing &  ● Promotion optimization ● rationalizationPrice pack architecture<br>& Use  ● Shopper insights Intelligence  effectiveness  Onboarding knowledge  ● Network  control &  monetization ● Assortment<br>cases ● Customer data  ● Employee Self  agents simulation optimization ● Elevate Data  optimization<br>management  Service HR ● AI driven BI ● Regulatory  ● SAP Collaboration Sharing Alliance<br>● Employee  ● IT  compliance<br>Lifecycle augmentation/<br>automation<br>Perfect Order Rate,<br>Employee  Business Risk<br>Customer  Fill Rate, Item<br>CLV,  acquisition cost,  Labor cost  Value, Supplier Risk<br>Acquisition Cost,  Revenue Growth $,  Availability,  Supplier Quality  Revenue growth,  Revenue growth,<br>Industry KPIs ROI, Revenue Growth, Ad Spend ROI Margin % Employee turnover Rate, Labor Cost  reduction, Error reduction Risk, Freight Cost Score, Value at  Inventory Days of  Performance Profit Margin Profit Margin<br>Compliance Cost Supply, Cash<br>Percentage per Unit<br>Conversion Cycle<br>**----- End of picture text -----**<br>
-
-
-**==> picture [329 x 73] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Impact  2-5x ROI on campaigns<br>Potential 30-40% contribution margin return<br>**----- End of picture text -----**<br>
-
-
-Reduced avg. customer onboarding by 29 days ($1.6M) 
-
-2% COGS reduction for every 1% improvement in forecast accuracy ($200M+ for major CPG) 
-
-1% price increase helping to drive 5-10% in revenue 
-
-©2024 Databricks Inc. — All rights reserved 
-
-Mfg & Energy Data Intelligence Outcome Maps _Manufacturing Energy: Oil & Gas Energy: Power & Utilities Aviation_ 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-20 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Manufacturing 
-
-**==> picture [911 x 335] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Boost Revenue Growth Improve Industrial Productivity Build Resilience<br>Connected Products Industrial AI CFO & FP&A<br>Customer Experience Digital Supply Chain Cybersecurity<br>Engineering & R&D<br>Transformation<br>**----- End of picture text -----**<br>
-
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-21 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Energy & Utilities 
-
-**==> picture [298 x 33] intentionally omitted <==**
-
-_**Optimize Operations**_ 
-
-Asset Management and Safety Process and Operations Efficiency 
-
-_**Streamline Functions**_ Enterprise Business Intelligence 
-
-Compliance Management and Reporting 
-
-_**Collaborate and Protect Data/IP**_ 
-
-Customer Experience Cybersecurity 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-22 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## **Outcome Map** 
-
-Manufacturing 
-
-**==> picture [948 x 312] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Boost Revenue Growth Improve Industrial Productivity Build Resilience<br>Business  Connected Customer Supply Chain Engineering & R&D<br>Industrial AI CFO & FP&A Cybersecurity<br>Objective Products Experience Visibility Transformation<br>● Predictive Maintenance ● Customer 360 ● Predictive Maintenance ● Integrated Business ● Design Space  ● Financial Analytics &  ● SIEM Augmentation<br>● Product Feature Usage  ● Marketing Analytics:  ● Defect Detection Planning Exploration Reporting ● Incident classification<br>Functions  ● AnalyticsWarranty Cost Optimization ● CLV, Churn/RetentionService Campaign Measurement ●● Production MonitoringProduction Scheduling ●● Order Processing AutomationInventory Optimization ●● Production Performance OptimizationProprietary Coding  ●● Working Capital / Cash Flow OptimizationScenario Modeling and  ● Infrastructure monitoring<br>& Use  ● Predictive Field Service ● Next Best Commercial  ● Safety Risk  ● Logistics Control Tower Assistants Business Simulation<br>cases ● Quality Event Forensics Offer ● IdentificationEnergy Efficiency ● Demand Forecasting ● Pre-Competitive IP Research ● Automated Reporting<br>● Decarbonization<br>● Field Issue Triaging<br>● Pricing Analytics ● Regulatory Risk ID<br>Services Growth, Customer<br>Downtime and OEE On-Time In-Full (OTIF) Product Dev Cycle Time ROIC<br>Support TAT, Technician  Customer Churn,  Security Audit Compliance<br>Industry KPIs Cost of Poor Quality Inventory Turns Engineering Productivity Cash Conversion<br>Productivity & Warranty  Cross-sell and Upsell,  Cyber Incident Rate<br>Admin Costs Manufacturing Yield Energy Use Regulatory Compliance Gross Profit Margin<br>**----- End of picture text -----**<br>
-
-
-**==> picture [204 x 73] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-$50-60M  in new revenue<br>Impact  from connected vehicle<br>Potential<br>data & intelligent offers<br>**----- End of picture text -----**<br>
-
-
-Direct improvements in **$30-40M** thru Predictive NPS, Ancillary Revenue and Maintenance & Production CSAT Monitoring (ASML) 
-
-Increased demand accuracy **saving $35M+** in inventory carrying costs 
-
-Up to **30X Reduction in design cycles** through GenAI drive design 
-
-**$25M+** in annual value **$15-25M** in SIEM costs, through improvements in and a 5x increase in procurement savings, operational query automation efficiencies performance and, warranty savings 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-23 
-
-©2025 Databricks Inc. — All rights reserved 
-
-**Outcome Map** Energy & Utilities 
-
-## Optimize Operations 
-
-## Streamline Functions 
-
-## Collaborate and Protect Data/IP 
-
-Business **Asset Management Process and Operations Compliance Enterprise Business Management and** Objective **and Safety Efficiency Reporting Intelligence** 
-
-**Customer Cybersecurity Experience** 
-
-**==> picture [933 x 256] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-● Workplace Safety Fossil Energy Renewables & Alternatives ● Sustainability reports  ● Supply Chain ● Data providers /  ● Data Sovereignty and<br>● Location and Condition Tracking of  ●●● SubsurfaceField DevelopmentMining/ Drilling & Completions ● Design Innovation (gas/wind turbines, solar panels, H2 electrolyzers) (incl. Scope 1, 2 and 3) ● Functions (HR, FInance, Legal,  Marketplace / Energy Platforms Privacy (linked to confidentiality)<br>Installed Base ● Production Optimization ● Solar/Wind Optimization  ● Regulation and  Contracts, IT) ● Contract  ● Industrial Control<br>Functions  ● Predictive Maintenance for Uptime and Cost  ●●● Well Abandonment CO2 Capture, EOR* and StorageH2 Production and Storage ●● (angle/pitch/weather forecast) H2 Electrolysis Optimization (T, P, Density)Nuclear Safety ● Compliance managementInternal and external  ● Real-time Demand-Supply Dynamics and risk  ● managementCustomer 360 (incl. customer journey  Systems Security (linked to Safety and Asset Integrity)<br>& Use  (CAPEX and OPEX)  ● Asset end-of-life management filings management analytics and billing<br>cases Optimization ● Transaction  accuracy)<br>● Asset Lifecycle  Utilities and Infrastructure Field Operations Management ● Contact Center Automation<br>Management ● Load Balancing/Smart Metering ● Skill-based scheduling<br>● Wildfire Protection ● Field / Onsite Operations Assistance<br>● Grid Modernization / Simulation  ● Toolkit /Spare parts planning<br>(incl. EV network planning) ● Multi-stop route planning<br>● Energy Mix management<br>(integration of renewables)<br>FE: e.g. CO2 per unit of activity Carbon Intensity<br>Asset Uptime / MTBF* Automation %/Time Saving User Adoption Rate<br>Industry KPIs Asset Turnover RatioRepair Time / MTTR* U&I: e.g. $ / MWh or $ /BoeR&A: e.g. Grid Reliability Capacity Factor (EIA*)Renewable Energy Mix Inventory Levels ($)Daily P&L Net Promoter ScoreTime to Resolution Cross-Border Data TransferMTTD* / MTTR*<br>FO: e.g. Utilization Rate (Work hrs/Total hrs) Utility Reliability (EIA)<br>**----- End of picture text -----**<br>
-
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-24 
-
-©2025 Databricks Inc. — All rights reserved 
-
-# CME Data Intelligence Outcome Maps _Media & Advertising Communications Gaming_ 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-25 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Media & Advertising 
-
-_**Know Your Audience**_ 
-
-Identity & Customer 360 
-
-_**Grow & Retain Your Audience Monetize Your Audience & Content**_ Marketing Monetization Customer Experience Content Supply Chain 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-26 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Communications 
-
-_**Protect Telecom and Customers Enhance CX to drive revenue Operations Reduce Threats & risk**_ Consumer &  Customer Network Operations Fraud Prevention Experience SMB & Enterprise Experience Field Operations Regulatory Compliance Service Delivery Cybersecurity 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-27 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## Data Intelligence Outcome Maps 
-
-Gaming 
-
-_**Player Centric Experience**_ 
-
-_**Player Centric Experience Build Great Games**_ Know the Player De-risk Development Grow the Playerbase Effective Live Operations Grow Your Revenue 
-
-Optimize Operations Democratize Your Data 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-28 
-
-©2025 Databricks Inc. — All rights reserved 
-
-**Outcome Map** Media & Advertising 
-
-Know Your Audience 
-
-**Business Identity & Customer 360 Objective** 
-
-- Client Event Ingestion 
-
-- ● ID Spine: 1P, 3P, “Combined” ● Household Device Graphing ● Audience  Profiling 
-
-Functions Functions & Use 
-
-- Audience Segmentation 
-
-- ● Audience Activation ● CDP 
-
-& Use cases 
-
-cases 
-
-Increase in Advertising CPM & Industry KPIs Inventory Yield Subscriber Churn Reduction 
-
-**50%+ increase in identity coverage of digital experiences 45-50% revenue increase** per campaign through better C360 
-
-Impact Potential 
-
-Grow & Retain Your Audience 
-
-Monetize Your Audience & Content 
-
-**Customer Experience** 
-
-**Monetization** 
-
-**Content Supply Chain** 
-
-**Marketing** 
-
-- Pricing, Inventory, Forecasting, Yield & Analytics 
-
- Pricing, Inventory, Forecasting, ● Automated Content Metadata Yield & Analytics Generation ● Ad Portfolio Planning, Decisioning ● Content Localization & Optimization ● Closed Captioning ● Measurement & Attribution ● Editorial & Writer’s Room Assistant ● Audience Onboarding ● Content Repacking ● Contextual Targeting ● Ad Creative Generation ● Personalization & Localization ● Ad Experience Personalization ● Content Planning & Investment ● Content Distribution & Licensing ● Player / Performer Performance 
-
-   - Personalization 
-
-   - ● Search & Discovery ● Content Recommendations ● Quality of Experience ● Customer Care 
-
-- Life Cycle Marketing 
-
-- ● Campaign Planning & Optimization ● Media Mix Modeling ● Measurement & Attribution 
-
-- Experimentation & Causal Analysis 
-
-- Market Research 
-
-- Subscriber Life Cycle: Churn, Win Backs 
-
-Increase audience engagement, proactively predict & esolve experiential problems, increase customer retention. 
-
-effectiveness with superior planning, prediction, 
-
-Increase revenue per minute of time spent engaging with content 
-
-Reduce time to market for new content 
-
-**10% - 40% increase in revenue** through improved personalization and **45-50% revenue increase** better retention (10-40% improvement potential) 
-
-**30% increase in CLV** by leveraging AI to enhance all elements of customer lifecycle 
-
-**Increase** content engagement, discoverability while reducing costs. 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-29 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## **Outcome Map** 
-
-Communications 
-
-**==> picture [948 x 344] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Protect the Telecom and Customers<br>Efficiency: Network &<br>Enhance CX to drive revenue<br>Field Operations reduce threats & risk<br>Consumer &<br>Business  SMB & Enterprise Network Regulatory<br>Customer Service Delivery Field Operations Fraud Prevention Cybersecurity<br>Objective Experience Operations Compliance<br>Experience<br>● Predictive Scripts –  ● Pricing/quoting of new  ● Order entry ● Network / service  ● Natural language  ● Fraud detection ● Data Privacy  ● Network Anomaly<br>contact center - first  connections (Frontier  ● Activation performance monitoring Interface for Field ● Autonomous monitoring  Compliance:  Detection<br>point resolution broadband) ● Anomaly detection ● Retrieve customer  for Denial of Service and  GDPR/CCPA compliance ● Threat Intelligence<br>Functions Functions & Use cases ●●● Churn Prediction and customer retentionIntelligent Bill AnalysisCustomer Onboarding ●●● Processing of Moves, Adds and ChangesOrder tracking and updatesProactive Offers for SMB  ●●● ProvisioningAssuranceManaged Mobile Reports (new paid services) ●● Predictive demand changesSLA/managed network reporting ● insights and  network diagrams before site visitsProvide prior repair summaries ●●● Robo-callingBrute force attacksBot detectionSim swap prevention ●● Network Security and ResilienceAnti-Money Laundering (AML) and Know Your Customer (KYC) ●● IntegrationAutomated Incident ResponseIoT Security Monitoring<br>& Use  ● Contract Buyout customers  ● Network Slicing ● Voice/video updates  ● Quality of Service (QoS)<br>cases ● Hyper Personalized  ● Billing audits ● Capacity tracking  following site visit Reporting<br>Offers/Campaign  w/proactive offers ● Procure to Pay ● Employee Offboarding<br>Development<br>● Fiber footprint updates  ● Onboarding and  ● ESG<br>with AI<br>Offboarding employees<br>● Asset Management ● Predictive Maintenance<br>● Monetize network data<br>and assets<br>Serv. Level Agreement Issue  Order Accuracy  Incidents rates<br>Net Promoter Score Average  Network Experience Score,  First-time Fix rate, Fraud Detection Rate,  GDPR/CCPA<br>Industry KPIs Resolution Time  Order-to-Cash Cycle  Mean Time to Detect Patch<br>Handling Time Churn Rate Asset Utilization rate  Average Response Time  SIM swap fraud % Request Time<br>Quote-to-Cash Cycle Service Activation Time  Management<br>**----- End of picture text -----**<br>
-
-
-**==> picture [929 x 109] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Reduced Operating<br>Care Cost Reduction,  Improved response<br>Impact  improved handling time 20% increase logo sales for SMB  in new  20% improvement ‘order to provisioning’  in  time to network issues Increased efficiency 20%  by optimizing  80% reduction  in fraud  energy consumption Reduced network  customer trust. Est. > cost and improved<br>Potential $235m Cost reduction  customers cycle time $100M  dispatch through ML detection $33m annual savings $100M<br>20% increase in NPS cost avoidance<br>productivity<br>©2025 Databricks Inc. — All rights reserved 30<br>**----- End of picture text -----**<br>
-
-
-## **Outcome Map** 
-
-Gaming 
-
-Player Centric Experience 
-
-Build Great Games 
-
-## 
-
-**==> picture [559 x 267] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Business  De-risk-riskrisk<br>Know the Player Grow the Playerbase Grow Your Revenue<br>Objective Development<br>● Player360 ● Cohort Analysis ● Next Best Offer ● Game Balance<br>● Player Metrics ● (Multi-Touch)  ● Purchase Optimization ● Game Build Analytics<br>Ads Attribution<br>● Segmentation ● Fraud Detection ● Feedback Analytics<br>● Ads Network<br>Functions  ● Churn Mitigation ● Localization<br>Optimization<br>& Use  ● Personalization ● Content Treadmill<br>● UA + Remarketing<br>cases ● Identity Resolution Personalization ● Living NPCs<br>● Player Journey Analytics ● Focused Advertising<br>● Ads Creative Generation<br>Return on Ad Spend, Avg Revenue per Daily  Milestone completion rate,<br>Player Lifetime Value,<br>Industry KPIs Cost per Mille,  Active User, Bug resolution rate,<br>Player Retention<br>Cost per Install Customer Lifetime Value Build Time<br>**----- End of picture text -----**<br>
-
-
-**De-risk-riskrisk Effective Live Development Operations** Game Balance ● Game Health and Metrics 
-
-**Democratize Your Data** 
-
-**Optimize Operations** 
-
-   - Self Service Analytics 
-
-- Empower Your Team 
-
-- Strategic Initiatives 
-
-   - AI Powered Analytics 
-
-   - ● Data Discovery 
-
-- AB Testing 
-
-   - Financial Reporting 
-
-- Toxicity 
-
-   - Cross Publisher Data ● Data Sharing Sharing ● Data Governance 
-
-- Anti-Cheat 
-
-- Community Support 
-
-- Community Safety 
-
-● Game Server Operations ● Content Impact Analysis User Review Scores, Content ROI, Time to Insight, Server Uptime, Customer Acquisition Cost Data Security Risk Meantime to Resolution 
-
-**==> picture [450 x 116] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-5% increase in 40M pre-registered 2.5X increased yield<br>customer retention players tracked with From recommendations<br>Validated full analytics<br>Impact<br>2X ROAS through<br>personalized<br>marketing efforts<br>©2025 Databricks Inc. — All rights reserved<br>**----- End of picture text -----**<br>
-
-
-**Data to Insight 400% faster Systematic data 2,000 employees to < 15 minutes feature launches governance ensures generate insight from sensitive data is over 40 services Game devs can now Increased cLTV accessible only to authorized groups leverage 20PB of data by increasing annual to inform decisions experiments from 10 to 50** 
-
-31 
-
-# Key Horizontal Solutions _Marketing Cybersecurity Digital Natives_ 
-
-**==> picture [16 x 16] intentionally omitted <==**
-
-32 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## **Outcome Map Marketing Solutions** 
-
-## Marketing Solutions 
-
-Business **Customer 360** Objective 
-
-- Customer Data Platform 
-
-   - Data Collection 
-
-   - Consent Management 
-
-   - Identity & Data Enrichment 
-
-Functions 
-
-   - Privacy & Governance 
-
-- & Use cases 
-
-   - Customer Modeling 
-
-   - Activation 
-
-- Marketplaces & Commerce Media Networks 
-
-- Customer Insights 
-
-- Customer Experiences 
-
-Impact Potential 
-
-Drive Customer Engagement, Retention, and LTV 
-
-**Campaign Management** 
-
-- Campaign Planning 
-
-   - AI-Driven Content & Copy Creation 
-
-   - Overlap Analysis 
-
-- Campaign Measurement 
-
-   - Campaign Perf. Monitoring 
-
-   - Attribution 
-
-   - Closed Loop Measurement 
-
-- Campaign Optimization 
-
-   - Media Mix Modeling 
-
-   - Experimentation 
-
-Increase Return On Ad Spend Drive Engagement, Retention, and LTV 
-
-**Brand Management** 
-
-- Market Research 
-
-   - ○ Synthetic Market Analysis 
-
-- Brand Health & Reputation Management 
-
-   - Social Listening 
-
-   - Product Reviews 
-
-   - NPS Tracking 
-
-   - Customer Support Monitoring 
-
-   - Share of Voice 
-
-   - Earned Media Value Measurement 
-
-Increase Brand Equity, CSAT, and NPS 
-
-33 
-
-©2025 Databricks Inc. — All rights reserved 
-
-## **business objective Digital Natives** 
-
-**==> picture [938 x 244] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Unified Data and AI Data and Intelligence for Everyone Open Ecosystem Approach<br>Business  Low Latency  Accelerate Production  Data Sharing and  Innovative Product<br>Real-Time Apps and  Democratized Analytics Customer 360<br>Objective ML/AI Collaboration Development<br>Analytics<br>Data Platform Teams Data Platform Teams Data Platform Teams Data Platform Teams Data Platform Teams<br>Data Platform Teams +ML/Data Science Teams +All Teams +GTM Teams + IT Teams + Product Teams<br>● Customer Data Enrichment<br>● Next-Best-Action Models ● Natural Language Insights ● Behavioral Segmentation ● Data Marketplace ● Data Sharing<br>● Identity Resolution<br>● Ad Spend ROI  ● Quality Data Assurance ● Lifetime Value Modeling ● Data Governance ● Embedded Analytics<br>Functions &  ● Real-time Personalization ● Campaign Optimization ● Metrics Standardization ● Retention Optimization ● BI Dashboards ● Personalized UX<br>Use cases ● Resource Optimization<br>● Demand Forecasting ● Notebook Development ● Campaign Attribution ● Data Integrations ● Cybersecurity<br>**----- End of picture text -----**<br>
-
-
-**==> picture [363 x 78] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-● Increased data/eng team  ● Accelerated time to<br>productivity market<br>Industry KPIs<br>● Reduced data processing  ● Increased incremental<br>costs revenue<br>**----- End of picture text -----**<br>
-
-
-**==> picture [581 x 78] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-● Accelerated new customer<br>● Improved collaboration ● Accelerated insights ● Accelerated innovation<br>growth<br>● Increase self-service; reduce  ● Increased customer  ● Met governance and  ● Met openness &<br>eng reliance engagement portability mandates<br>privacy mandates<br>**----- End of picture text -----**<br>
-
-
-**→** 99%+ reduction in processing time 
-
-**→** What used to take weeks to do 3-4 years ago, now you can do in a day. Validated **→** A unified platform for real-time Impact streaming and analytics, improved performance 70% and reduced costs 40%. 
-
-**→** accelerate Gen AI. deployment 
-
-by 20x 
-
-**→** 10x performance improvement in LLM inference acceleration. 
-
-©2024 Databricks Inc. — All rights reserved 
-
-**→** Millions of gigabytes of data to their dev and eng for faster insights and data democratization. 
-
-**→** Scaled ML-powered features for millions of users daily.. 
-
-**→** 65% improved mktg execution **→** 50% adoption rate of AI-powered campaign optimization 
-
-**→** 2PB of data managed and governed. 
-
-→  We built an NLP model on the Databricks Data Intelligence Platform that enabled our platform to be more efficient 
-
-**→** $37M+ from improved vehicle reliability, improved battery and charging system efficiency and faster delivery of autonomous driving features. **→** 3+ petabytes efficiently stored and processed into actionable insights. 
-
-34 
-
-
+©2025 Databricks Inc. — All rights reserved
+1
+# FY26
+# Data Intelligence
+# Outcome Maps
 
 ![image1.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image1.jpeg>)
 
 ![image2.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image2.jpeg>)
 
 ![image3.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image3.jpeg>)
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+2
+FS Data Intelligence Outcome Maps
+Banking
+Capital Markets
+Insurance
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+3
+# Data Intelligence Outcome Maps
+Card & Payments Innovation
+Hyper Personalization
+& Lead Mgmt
+**Protect the Firm**
+Loans & Personal Investment
+Regulatory Compliance
+Risk Management
+Cybersecurity
+Back- / Middle- ofﬁce
+Automation
+CFO & Treasury
+Call Center & Channel
+Optimization
+**Drive Growth**
+Fraud Prevention
+**Be More Efﬁcient**
+Banking
 
 ![image4.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image4.jpeg>)
 
@@ -838,6 +74,25 @@ by 20x
 
 ![image18.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image18.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+4
+# Data Intelligence Outcome Maps
+Trading Analytics
+Investment Analytics
+**Protect the Firm**
+Investment Advisory
+Fraud Prevention
+Cybersecurity
+Regulatory Compliance
+CFO & Treasury
+Back - Middle Automation
+**Drive Growth**
+Risk Management
+**Be More Efﬁcient**
+Capital Markets
+
 ![image19.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image19.jpeg>)
 
 ![image20.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image20.jpeg>)
@@ -861,6 +116,28 @@ by 20x
 ![image29.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image29.jpeg>)
 
 ![image30.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image30.jpeg>)
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+5
+# Data Intelligence Outcome Maps
+Hyper- Personalization
+& Lead Management
+Distribution Optimization
+**Protect the Firm**
+Underwriting & Actuarial
+Claims & Fraud Prevention
+Cybersecurity
+Regulatory Compliance
+CFO and  FP&A
+Back - Middle Automation
+**Drive Growth**
+Risk Management
+**Be More Efﬁcient**
+Insurance
+Product Innovation
+Channel Optimization
 
 ![image31.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image31.jpeg>)
 
@@ -889,6 +166,168 @@ by 20x
 ![image43.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image43.jpeg>)
 
 ![image44.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image44.jpeg>)
+
+---
+
+## Drive Growth
+## Protect the Firm
+## Be More efﬁcient
+**Back - Middle**
+**ofﬁce automation**
+**CFO & Treasury**
+● Documents
+Analysis
+● Customer
+onboarding
+(AML/KYC)
+● Workforce
+Analytics
+**50-60% of tasks**
+**automated,**
+reducing
+processing costs
+by many millions
+**Fraud Prevention**
+**Regulatory**
+**Compliance**
+**Cybersecurity**
+**Loans & Personal**
+**Investment**
+**Risk Management**
+**Card & Payments**
+**innovation**
+**Hyper**
+**Personalization &**
+**Lead Mgmt**
+● Mortgage/loan
+origination
+● SMB &
+Corporate
+Banking inno
+● M&A evaluation
+& integration
+**$25-40M**
+**annualized value**
+due to reduced
+loss from Fraud
+**$80-100M in**
+**revenue uplift**
+by gaining more
+creditworthy
+customers
+with more
+cross-selling
+**$110-160M**
+**efﬁciency savings**
+by reducing cost to
+comply and
+future ﬁnes
+**$40-65M**
+through
+personalization
+**Call center &**
+**Channel**
+**Optimization**
+● Open Banking
+Integration
+● Partners offers
+& rewards
+● Transaction
+Enrichment
+● Data
+monetization
+● Prospecting
+campaigns
+development
+● Hyper
+personalized
+banking
+● Cross sell & up
+sell
+● Churn
+prediction &
+segmentation
+Fraud
+● Application
+● Identity Theft
+● User & Entity
+Behavior
+● Threat Hunting
+& Advanced
+Detection
+● Network
+Analysis &
+Inventory
+● Phishing & Email
+Security
+● SIEM
+Augmentation
+● AML / KYC
+● IFRS 9 / CECL
+● Model Risk
+Management
+● ESG / CSRD
+● CCAR
+● Dynamic pricing
+● Credit
+decisioning
+● Credit line
+increase
+● Debt collection
+optimization
+● Financial
+Projections &
+Reporting
+● Operational
+dashboarding
+● ALM
+● FP&A
+● Branch network
+● Complaint
+management
+● Intelligent IVR /
+Chatbots
+**$10-15M**
+**cost reduction**
+by optimizing
+contact center
+**$100s of millions**
+**in new revenue**
+through data
+products
+Business
+Objective
+Impact
+Potential
+**$44M in SIEM cost**
+**avoidance, and a**
+**5x increase in**
+operational query
+performance
+Use cases
+Industry KPIs
+Efﬁciency ratio, CIR
+ROE, RONE
+Loss from Fraudulent
+activities ratio
+Risk Weighted assets
+Fines
+NPL & Net charge offs
+Net Interest Margin, %
+portfolio
+Balance %
+Cust. acquisition cost
+(CAC)
+Efﬁciency ratio
+**30-40% loan**
+**growth through**
+pre-auth (KYC) and
+automation
+# Outcome Map
+## Banking & Payments
+**Near**
+**instantaneous**
+**c-suite insights**
 
 ![image45.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image45.jpeg>)
 
@@ -971,6 +410,145 @@ by 20x
 ![image84.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image84.jpeg>)
 
 ![image85.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image85.jpeg>)
+
+---
+
+**Back - Middle**
+**Ofﬁce**
+**Automation**
+Business
+Objective
+Functions
+& Use
+cases
+**Regulatory**
+**Compliance**
+**Risk**
+**Management**
+**Investment**
+**Analytics**
+**Advisory**
+**Trading**
+## Drive Growth
+## Protect the Firm
+## Be More efﬁcient
+Industry KPIs
+Impact
+Potential
+**Cybersecurity**
+**Fraud**
+**Prevention**
+Maximize Alpha
+Optimize Risk-Adjusted
+Returns
+**$10 - 20M**
+**annualized value**
+due to portfolio
+construction
+recommendation
+**$10 - 50M**
+due to personalized
+investment advisory
+Prevention of
+“London Whale”
+event happening
+twice
+**$35M annual value**
+from avoided
+regulatory ﬁnes
+● Market
+Intelligence
+● Backtesting
+● Portfolio
+construction &
+Optimization
+● Alternative Data
+& ESG Analytics
+● Personalized
+Advice
+● Sales & Trading
+Intelligences
+● M&A Automation
+and Integration
+Satisfaction &
+Retention Rates
+● Real-Time Market
+Analysis
+● Transaction Cost
+Analysis (TCA)
+● Predictive
+Analytics and
+Forecasting
+● Algorithmic
+Proﬁt Factor
+Sharpe Ratio
+Win Ratio
+● Market Risk
+● Credit Risk
+● Counterparty
+● User & Entity
+Behavior
+● Threat Hunting &
+Advanced
+Detection
+● Network Analysis
+& Inventory
+● Phishing & Email
+Security
+● SIEM
+Augmentation
+● Card Transaction
+Fraud Prevention
+● Application Fraud
+● Identity Theft
+● Transaction
+monitoring
+● Screening (KYC)
+● Credit
+Recognition
+(CECL)
+● Model Risk
+● Intelligent
+Document
+Processing
+● Customer
+Onboarding
+(AML/KYC)
+● Workforce
+● Financial
+Projections &
+Reporting
+● Operational
+Dashboarding
+● Performance
+reporting and
+analysis
+● Expense and
+Cost
+management
+Risk per Trade Ratio
+Max. Drawdown %
+Mean Time to Detect
+(MTTD)
+Patch Compliance Ratio
+**50-60% of tasks**
+**automated,**
+reducing processing
+costs by many
+millions
+**CFO & Treasury**
+**Near instantaneous**
+**c-suite insights**
+# Outcome Map
+## Capital Markets
+**$44M in SIEM cost**
+**avoidance, and a**
+**5x increase in**
+operational query
+performance
+**$25-40M**
+due to reduced
+loss from Fraud
 
 ![image86.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image86.jpeg>)
 
@@ -1102,6 +680,194 @@ by 20x
 
 ![image150.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image150.jpeg>)
 
+---
+
+## Drive Growth
+## Protect the Firm
+## Be More Efﬁcient
+Big Book of Insurance Use Cases
+## Business
+## Objective
+## Functions
+## & Use
+## cases
+## Impact
+## Potential
+## Industry KPIs
+# Outcome Map
+## Insurance
+**Distribution**
+**Optimization**
+**Underwriting &**
+**Actuarial**
+**Hyper**
+**Personalization**
+**& Lead Mgmt**
+**Product**
+**Innovation**
+**Regulatory**
+**Compliance**
+**Risk**
+**Management**
+**Claims &**
+**Fraud**
+**Prevention**
+**Cybersecurity**
+**CFO &**
+**FP&A**
+**Back/Middle**
+**Ofﬁce**
+**Automation**
+**Channel**
+● Distribution
+Platform
+Accelerator
+● Producer
+Analysis
+● Client New/Lost
+● Carrier Market
+● Policy/
+Exposure
+Ingestion
+● Smart
+Underwriting
+Triage
+● Reporting
+**$50M+ in**
+business value
+from business
+optimization
+Loss Ratio, Earned
+Premiums
+33% increase in
+policy origination
+● Customer
+segmentation
+● Prospecting &
+Campaigns
+● Hyper-
+personalized
+insurance
+● Cross Sell and
+Up Sell
+● Churn Prediction
+Sales Uplift,
+Campaign ROI.
+Retention Rate
+$40-65M
+revenue uplift
+thru better
+personalization
+● Microinsurance
+for online
+purchases
+● On-demand
+insurance for
+electronic
+devices
+● Behavior-based
+● Usage-based
+insurance (UBI)
+● Parametric
+TTM, Market
+Penetration
+**3pp ~ 6pp**
+**improvement in**
+**market share**
+● Data Protection
+and Privacy
+● Risk
+and Reporting
+Protection and
+Transparency
+● Regulator
+Engagement and
+Updates
+Expense Ratio
+$110-160M in
+efﬁciency savings
+by reducing cost
+to comply
+● Regulatory Risk
+Data
+● (Integrated Risk
+and Finance)
+● Risk Modeling &
+Analytics
+● Risk & Capital
+Planning
+(LDTI/IFRS17,
+CECL/IFRS9)
+● Investment Risk
+**$8M+ in business**
+value from risk
+management
+● Claims Ingestion
+● Smart Claims
+● Claims Analytics
+● Fraud Models
+● Frequency /
+Severity of
+Losses
+● Subrogation &
+Litigation Models
+Processing times,
+Payout Accuracy,
+Reduced Fraud
+**$24-44M**
+**savings by**
+proactively
+identifying Fraud
+Waste & Abuse
+● User & Entity
+Behavior
+● Threat Hunting &
+Advanced
+Detection
+● Network Analysis
+& Inventory
+● Phishing & Email
+Security
+● SIEM
+Augmentation
+**$24M in SIEM**
+**costs, and a 5x**
+increase in
+operational query
+performance
+● Financial
+Projections &
+Reporting
+● Operational
+Dashboarding
+● Performance
+reporting and
+analysis
+● Expense and
+Cost
+Loss Ratio
+4pp ~ 8pp
+improvement by
+reducing
+expenses
+● Intelligent
+Document
+Processing
+Onboarding
+● Workforce
+analytics
+reducing losses
+● Branch Network
+● Complaint
+● Intelligent IVR /
+Chatbots
+● Contact Center
+AI
+CSAT, Retention
+Rate
+90% client
+retention
+
 ![image151.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image151.jpeg>)
 
 ![image152.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image152.jpeg>)
@@ -1192,6 +958,35 @@ by 20x
 
 ![image195.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image195.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+9
+HLS Data Intelligence Outcome Maps
+Life Sciences
+Healthcare
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+10
+# Data Intelligence Outcome Maps
+Build a FAIR Data Platform
+Accelerate Drug Discovery
+**Optimize Supply Chain &**
+**Manufacturing**
+Streamline Clinical Development
+Implement Smart Manufacturing
+Generate Real World Evidence
+Deliver Provider
+Next-Best-Action
+**Increase R&D Productivity**
+Create E2E Supply Chain
+Visibility
+**Improve Commercial Effectiveness**
+Personalize Patient Engagement
+Life Sciences
+
 ![image196.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image196.jpeg>)
 
 ![image197.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image197.jpeg>)
@@ -1214,6 +1009,26 @@ by 20x
 
 ![image206.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image206.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+11
+# Data Intelligence Outcome Maps
+Improve Operating Efﬁciency
+Implement Interoperability
+**Improve Provider Quality**
+**& Network Management**
+Automate Clinical Note Review
+Optimize Network & Referrals
+Predict Disease Risk
+Personalize Engagement
+**Streamline Operations**
+Drive Quality of Care
+**Deliver Better Patient Outcomes &**
+**Experience**
+Improve Retention
+Healthcare
+
 ![image207.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image207.jpeg>)
 
 ![image208.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image208.jpeg>)
@@ -1235,6 +1050,174 @@ by 20x
 ![image216.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image216.jpeg>)
 
 ![image217.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image217.jpeg>)
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+## Increase R&D Productivity
+**Build a FAIR Data**
+**Platform**
+**Create E2E  Supply**
+**Chain Visibility**
+**Generate Real**
+**World Evidence**
+**Implement Smart**
+**Manufacturing**
+Business
+Objective
+Use cases
+## Optimize Production
+## Improve Commercial Effectiveness
+**Deliver Provider**
+**Next-Best-Action**
+**Personalize Patient**
+**Engagement**
+**Accelerate Drug**
+**Discovery**
+**Streamline Clinical**
+**Development**
+● Genetic Target
+Identiﬁcation
+● QSAR Modeling
+(Quantitative
+Structure Activity
+Relationship)
+● Geneformer
+Modeling (Gene
+Expressions &
+Network Biology)
+● Image Classiﬁcation
+(eg. Digital Path.)
+● Chromatography
+Insights
+● Clinical Trial Protocol
+Design
+● Clinical Trial Site
+Selection
+● Drug Repurposing
+● Automate QA of
+Clinical Data
+● Modernize Clinical
+Data Repository
+● Knowledge Graphs
+for R&D
+● Medical Image
+Processing &
+Management (Pixels
+for DICOM)
+● Omics Data
+Management
+● Research Assistant
+● BioMedical
+Information Retrieval
+● Data Standardization
+with OMOP
+● Patient Cohorting &
+Propensity Score
+Matching
+● Comparative
+Effectiveness
+● Clinical Data
+Abstraction
+● Pharmacovigilance
+(Drug Safety &
+Adverse Event
+Detection)
+● Automate Reporting
+(eg., OTIF)
+● Inventory
+● Demand Forecasting
+● Distribution
+Optimization
+● Digital Twins
+● Overall Equipment
+● Predictive
+Maintenance
+● Global Customer
+360
+● Brand Analytics (eg.
+Provider
+Segmentation. Sales
+Forecasting
+● Sales Rep / Medical
+Science Assistant
+● Next-Best-Action
+Recommendations /
+Omnichannel
+● Deliver Digital Health
+Applications (eg.,
+Continuous Glucose
+Monitoring)
+● Support Patient
+Services (eg.,
+Scheduling, Chatbot)
+● Automate Adherence
+Reminders
+● Digital Patient 360
+Impact
+Potential
+**$10M - $15M in value**
+from faster medical
+image processing and
+more efﬁcient research
+**$5M - $10M in value**
+from automated
+reporting, inventory
+management
+**$5M - $15M in value**
+from propensity score
+matching,
+pharmacovigilance,,
+and chart abstraction
+**$10M - $25M in value**
+from predictive
+maintenance and
+equipment
+effectiveness
+**$10M - $80M in value**
+from global customer
+360, Sales Rep Agent,
+Provider NBA Agents
+**$10M - $40M in value**
+from digital health
+applications, automated
+adherence reminders,
+digital patient 360
+**$70-80M in added**
+value by accelerating
+large-scale genomic
+data analysis
+**$40M - $100M in**
+proﬁtability from more
+efﬁcient target
+identiﬁcation
+Industry KPIs
+On-Time In-Full (OTIF)
+Inventory Turns
+Time to Insights,
+Reduction in Adverse
+Events
+Batch Rejection Rate,
+Deviation Reduction
+HCP Engagement Uplift,
+Prescription Growth
+Patient Adherence Rate
+Conversion Rates,
+Patient Sat Scores
+Target Identiﬁcation
+Success Rate, R&D Cost
+per Successful
+Molecule
+Clinical Trial Enrollment
+Rate, Trial Time
+Reduction
+Time Saved in Data
+Retrieval and
+Processing
+¹ Validated customer projections or realized beneﬁts used for these ranges wherever possible. Average customer size assumed to be $20B in
+annual revenue with net margins of 7% for use in McKinsey projections where customer results were not.
+# Outcome Map
+## Life Sciences
 
 ![image218.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image218.jpeg>)
 
@@ -1304,6 +1287,164 @@ by 20x
 
 ![image251.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image251.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+## Streamline Operations
+**Improve Operating**
+**Efﬁciency**
+**Drive Quality of**
+**Care**
+**Predict Disease Risk**
+**Optimize Network &**
+**Referrals**
+Business
+Objective
+Use cases
+## Improve Provider Quality
+## & Network Management
+## Deliver Better Patient Outcomes
+## & Experience
+**Personalize**
+**Engagement**
+**Improve Retention**
+**Implement**
+**Interoperability**
+**Automate Clinical**
+**Note Review**
+● Automate Reporting
+(eg., NEDOCS for
+Emergency Dept
+Wait Times)
+● Predict Patient
+Throughput (eg., ICU
+Capacity Planning)
+● Automate Clinical
+Data Pipelines with
+FHIR
+● Support DICOM
+(standard for
+medical images)
+● Reimbursement:
+● Coding & Approvals
+● Medicare Risk
+Adjustment
+● De-Identify
+Unstructured Data
+● AI-Assisted Data
+Curation (Patient
+Registry & Research)
+● Automate Prior
+Authorization
+● Modernize
+Underwriting:
+Forecast Utilization &
+Accelerate Bids
+● Detect Fraud, Waste,
+& Abuse (i.e.
+Payment Integrity)
+● Improve Revenue
+Cycle Mgmt
+● Optimize Supply
+Chain
+● Reduce Hospital
+Readmissions
+● Predict Disease
+Onset & Progression
+● Identify Probability
+of Next Clinical Event
+● Polygenic Risk
+Scoring
+● Improve HEDIS
+Scores
+● Improve Star Ratings
+(Medicare)
+● Improve Nurse
+Handoffs for
+Continuity of Care
+● Analyze Price
+Transparency for
+Network Rates
+● Nearest Neighbor for
+Provider Referrals
+● Deliver Digital Health
+Applications (eg.,
+Continuous Glucose
+Monitoring)
+● Support Patient
+Services (eg.,
+Scheduling, Chatbot)
+● Automate
+Adherence
+Reminders
+● Predict Member
+Churn
+● Call Center Analytics
+(eg., Sentiment
+Analysis)
+● Predict Propensity to
+Engage with Social
+Determinants
+Industry KPIs
+Impact
+Potential¹
+**$20M - $40M in cost**
+savings from
+automated prior auth
+and rev cycle denial
+management
+**$20M - $40M savings**
+from improved clinical
+outcomes through ICU
+management, better
+RN handoffs
+from improved
+detection rate and
+early interventions
+**$5M - $15M in annual**
+beneﬁts from
+increased in-network
+referrals
+**$5M - $15M savings**
+from improved contact
+center ops
+**$20M - $40M in annual**
+beneﬁt from better
+member/patient
+retention
+improvement in left
+before treatment
+complete (LBTC) rates
+**$1M - $5M in annual**
+beneﬁts from 50%+
+more efﬁcient clinical
+note/document
+processing
+Increased Clinical
+Admin Productivity,
+Reduced Latency
+Reduced Coding Errors
+Reduced Claims Denial
+Rates, Reduced Prior
+Auth Processing Time
+HEDIS/CMS Star Rating
+Increase, Reduced
+In-network Referral
+Rate, Ave Time to
+Schedule Appt.
+Reduced Readmissions,
+Early Intervention Rate
+for High-Risk Patients
+Improved Med
+Adherence, Reduced
+Appt No Show Rate
+Reduced Network
+Leakage/Member Churn
+¹ Validated customer projections or realized beneﬁts used for these ranges wherever possible. Average customer size assumed to be $750M -
+$1B in annual revenue for use in McKinsey projections where customer results were not.
+# Outcome Map
+## Healthcare
+
 ![image252.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image252.jpeg>)
 
 ![image253.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image253.jpeg>)
@@ -1370,6 +1511,33 @@ by 20x
 
 ![image284.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image284.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+14
+RCG Data Intelligence Outcome Maps
+Consumer Goods
+Retail
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+15
+# Data Intelligence Outcome Maps
+Retail Media Networks
+Customer Data Management
+**Improve Employee Productivity**
+Customer Insights & Activation
+Agentic Workforce
+Supply Chain Risk Management
+Demand & Inventory
+Optimization
+**Personalize & Monetize CX**
+Employee 360
+**Build Supply Chain Resiliency**
+Supplier Collaboration
+Retail
+
 ![image285.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image285.jpeg>)
 
 ![image286.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image286.jpeg>)
@@ -1391,6 +1559,33 @@ by 20x
 ![image294.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image294.jpeg>)
 
 ![image295.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image295.jpeg>)
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+16
+# Data Intelligence Outcome Maps
+Retailer Insights
+Shopper Insights
+**Improve Employee**
+**Productivity**
+Brand Insights
+Agentic Workforce
+Supply Chain Risk
+Management
+Demand & Inventory
+Optimization
+**Improve Market**
+**Intelligence**
+Employee 360
+**Build Supply Chain**
+**Resiliency**
+Supplier Collaboration
+Consumer Goods
+Revenue Growth
+Portfolio Optimization &
+Innovation
+**Proﬁtable Volume Growth**
 
 ![image296.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image296.jpeg>)
 
@@ -1418,6 +1613,26 @@ by 20x
 
 ![image308.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image308.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+17
+# Data Intelligence Outcome Maps
+Customer Data
+Management
+**Employee Productivity**
+Customer Insights &
+Activation
+Agentic Workforce
+Call Center Operations
+**Personalize CX**
+Employee 360
+**Operations**
+Travel & Hospitality
+Dynamic Pricing &
+Promotion
+**Revenue**
+
 ![image309.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image309.jpeg>)
 
 ![image310.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image310.jpeg>)
@@ -1435,6 +1650,113 @@ by 20x
 ![image316.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image316.jpeg>)
 
 ![image317.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image317.jpeg>)
+
+---
+
+©2024 Databricks Inc. — All rights reserved
+Business Risk Value,
+Supplier Risk Score,
+Value at Risk, Freight
+Cost per Unit
+## Personalize & Monetize CX
+**Employee Lifecycle**
+**Employee**
+**Productivity**
+# Outcome Map
+## Retail
+Business
+Objective
+## Improve Employee
+## Build Supply Chains Resiliency
+**Supply Chain Risk**
+**Management**
+**Demand & Inventory**
+**Optimization**
+**Supplier**
+**Collaboration**
+**Customer Data**
+**Customer Insights &**
+**Activation**
+**Retail Media**
+**Networks**
+● Customer Data
+Enrichment
+● Identity Resolution
+● Customer Insights
+● Recommendation
+● Activation (Content &
+Audience
+● Content Generation
+● Promotions
+● Data sharing and
+clean rooms
+● Closed loop
+attribution
+● Candidate Screening
+● Workforce
+Scheduling &
+Onboarding
+● Employee Self
+Service HR
+● Employee Lifecycle
+● Onboarding and
+knowledge mgmt
+● Internal knowledge
+agents
+● AI driven BI
+● IT augmentation/
+automation
+● Supplier Risk
+monitoring
+● Logistics & Transport
+Risk
+● Network simulation
+● Regulatory
+compliance
+● Demand forecasting
+& planning
+● Inventory control &
+optimization
+● SAP Collaboration
+● Supplier data sharing
+& collaboration
+● Data sharing &
+monetization
+● Supplier
+Collaborative
+Planning
+Impact
+Potential
+Functions
+& Use
+cases
+Industry KPIs
+Customer Acquisition
+Cost, ROI,
+Compliance Cost
+CLV,
+Revenue Growth,
+Ad Spend ROI
+Revenue Growth $,
+Margin %
+Employee acquisition
+cost, Employee turnover
+Rate, Labor Cost
+Percentage
+Labor cost reduction,
+Error reduction
+Perfect Order Rate, Fill
+Rate, Item Availability,
+Inventory Days of Supply,
+Cash Conversion Cycle
+Supplier Quality
+Performance
+Reduced avg. customer onboarding by 29 days
+($1.6M)
+5-7% reduction in fresh food waste ($300-500M for the major grocers)
+2-5x ROI on campaigns
+30-40% contribution margin return
+5% increase in basket size ($50-70M+)
 
 ![image318.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image318.jpeg>)
 
@@ -1491,6 +1813,142 @@ by 20x
 ![image344.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image344.jpeg>)
 
 ![image345.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image345.jpeg>)
+
+---
+
+©2024 Databricks Inc. — All rights reserved
+## Improve Market Intelligence
+**Employee**
+**Lifecycle**
+**Productivity**
+# Outcome Map
+## Consumer Goods
+## Improve Employee
+## Build Supply Chain Resiliency
+**Supply Chain Risk**
+**Management**
+**Demand &**
+**Inventory**
+**Optimization**
+**Retailer**
+**Collaboration**
+**Shopper Insights**
+**Brand Insights**
+**Retailer Insights**
+**Dynamic Pricing &**
+**Promotion**
+**Portfolio**
+**Optimization &**
+**Innovation**
+## Proﬁtable Volume
+## Growth
+Business
+Objective
+Functions
+& Use
+cases
+● Candidate
+Screening
+● Workforce
+Scheduling &
+Onboarding
+● Employee Self
+Service HR
+● Employee
+● Onboarding and
+knowledge
+management.
+● Internal
+agents
+● AI driven BI
+● IT
+augmentation/
+automation
+● Supplier Risk
+monitoring
+● Logistics &
+Transport Risk
+● Network
+simulation
+● Regulatory
+compliance
+● Demand
+forecasting &
+planning
+● Inventory
+control &
+optimization
+● SAP
+● Supplier data
+sharing &
+collaboration
+● Data sharing &
+monetization
+● Elevate Data
+Sharing Alliance
+● Behavioral
+analytics
+● Trend
+● Shopper insights
+● Customer data
+management
+● Brand Equity
+● Marketing Mix
+● Competitive
+Intelligence
+● Collaborative
+performance
+● RMN
+effectiveness
+● Price analytics
+● Promotion
+● SKU
+rationalization
+● Price pack
+architecture
+● Assortment
+Impact
+Potential
+Industry KPIs
+acquisition cost,
+Employee turnover
+Rate, Labor Cost
+Percentage
+Labor cost
+reduction, Error
+reduction
+Business Risk
+Value, Supplier Risk
+Score, Value at
+Risk, Freight Cost
+per Unit
+Perfect Order Rate,
+Fill Rate, Item
+Availability,
+Inventory Days of
+Supply, Cash
+Conversion Cycle
+Supplier Quality
+Performance
+Customer
+Acquisition Cost,
+ROI,
+Compliance Cost
+CLV,
+Revenue Growth,
+Ad Spend ROI
+Revenue Growth $,
+Margin %
+Revenue growth,
+Proﬁt Margin
+Reduced avg. customer onboarding
+by 29 days ($1.6M)
+2% COGS reduction for every 1% improvement in
+forecast accuracy ($200M+ for major CPG)
+2-5x ROI on campaigns
+30-40% contribution margin return
+1% price increase helping to drive
+5-10% in revenue
 
 ![image346.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image346.jpeg>)
 
@@ -1562,6 +2020,35 @@ by 20x
 
 ![image380.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image380.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+20
+Mfg & Energy Data Intelligence
+Outcome Maps
+Manufacturing
+Energy: Oil & Gas
+Energy: Power & Utilities
+Aviation
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+21
+# Data Intelligence Outcome Maps
+Connected Products
+**Improve Industrial Productivity**
+Customer Experience
+Digital Supply Chain
+CFO & FP&A
+Cybersecurity
+**Boost Revenue Growth**
+Industrial AI
+**Build Resilience**
+Manufacturing
+Engineering & R&D
+Transformation
+
 ![image381.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image381.jpeg>)
 
 ![image382.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image382.jpeg>)
@@ -1582,6 +2069,24 @@ by 20x
 
 ![image390.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image390.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+22
+# Data Intelligence Outcome Maps
+Asset Management and Safety
+**Streamline Functions**
+Process and Operations
+Efﬁciency
+Compliance Management and
+Reporting
+Customer Experience
+Cybersecurity
+**Optimize Operations**
+Enterprise Business Intelligence
+**Collaborate and Protect Data/IP**
+Energy & Utilities
+
 ![image391.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image391.jpeg>)
 
 ![image392.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image392.jpeg>)
@@ -1599,6 +2104,129 @@ by 20x
 ![image398.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image398.jpeg>)
 
 ![image399.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image399.jpeg>)
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+23
+## Build Resilience
+**CFO & FP&A**
+ROIC
+Cash Conversion
+Gross Proﬁt Margin
+**Industrial AI**
+**Engineering & R&D**
+**Transformation**
+**Supply Chain**
+**Visibility**
+**Connected**
+**Products**
+**Customer**
+**Experience**
+● Predictive Maintenance
+● Product Feature Usage
+Analytics
+● Warranty Cost
+Optimization
+● Predictive Field Service
+● Quality Event Forensics
+Security Audit Compliance
+Cyber Incident Rate
+Downtime and OEE
+Cost of Poor Quality
+Manufacturing Yield
+On-Time In-Full (OTIF)
+Inventory Turns
+Energy Use
+Services Growth, Customer
+Support TAT, Technician
+Productivity & Warranty
+Admin Costs
+Customer Churn,
+Cross-sell and Upsell,
+**Cybersecurity**
+Business
+Objective
+Impact
+Potential
+Functions
+& Use
+cases
+## Improve Industrial Productivity
+## Boost Revenue Growth
+● Customer 360
+● Marketing Analytics:
+CLV, Churn/Retention
+● Service Campaign
+Measurement
+● Next Best Commercial
+Offer
+● Integrated Business
+Planning
+● Order Processing
+Automation
+● Inventory Optimization
+● Logistics Control Tower
+● Demand Forecasting
+● Decarbonization
+● Pricing Analytics
+● Defect Detection
+● Production Monitoring
+● Production Scheduling
+● Safety Risk
+Identiﬁcation
+● Energy Efﬁciency
+● Design Space
+Exploration
+● Production Performance
+● Proprietary Coding
+Assistants
+● Pre-Competitive IP
+Research
+● Field Issue Triaging
+● Regulatory Risk ID
+● Financial Analytics &
+Reporting
+● Working Capital / Cash
+Flow Optimization
+● Scenario Modeling and
+Business Simulation
+● Automated Reporting
+● SIEM Augmentation
+● Incident classiﬁcation
+● Infrastructure
+monitoring
+Product Dev Cycle Time
+Engineering Productivity
+Regulatory Compliance
+Industry KPIs
+**$30-40M thru Predictive**
+Maintenance & Production
+Monitoring (ASML)
+Increased demand
+**accuracy saving $35M+**
+in inventory carrying
+costs
+**$50-60M in new revenue**
+from connected vehicle
+data & intelligent offers
+Direct improvements in
+NPS, Ancillary Revenue and
+CSAT
+**Up to 30X Reduction in**
+**design cycles through**
+GenAI drive design
+**$15-25M in SIEM costs,**
+and a 5x increase in
+operational query
+performance
+**$25M+ in annual value**
+through improvements in
+procurement savings,
+automation efﬁciencies
+and, warranty savings
+# Outcome Map
+## Manufacturing
 
 ![image400.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image400.jpeg>)
 
@@ -1658,6 +2286,127 @@ by 20x
 
 ![image428.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image428.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+24
+# Outcome Map
+## Energy & Utilities
+● Workplace Safety
+● Location and
+Condition Tracking of
+Installed Base
+● Predictive
+Maintenance for
+Uptime and Cost
+(CAPEX and OPEX)
+Optimization
+● Asset Lifecycle
+Management
+● Sustainability reports
+(incl. Scope 1, 2 and
+3)
+● Regulation and
+Compliance
+management
+● Internal and external
+ﬁlings
+Fossil Energy
+● Subsurface
+● Field Development
+● Mining/ Drilling & Completions
+● Production Optimization
+● Well Abandonment
+● CO2 Capture, EOR* and Storage
+● H2 Production and Storage
+Renewables & Alternatives
+● Design Innovation (gas/wind
+turbines, solar panels, H2
+electrolyzers)
+● Solar/Wind Optimization
+(angle/pitch/weather forecast)
+● H2 Electrolysis Optimization (T, P,
+Density)
+● Nuclear Safety
+● Asset end-of-life management
+Utilities and Infrastructure
+● Load Balancing/Smart Metering
+● Wildﬁre Protection
+● Grid Modernization / Simulation
+(incl. EV network planning)
+● Energy Mix management
+(integration of renewables)
+Field Operations
+● Skill-based scheduling
+● Field / Onsite Operations Assistance
+● Toolkit /Spare parts planning
+● Multi-stop route planning
+● Supply Chain
+● Functions (HR,
+FInance, Legal,
+Contracts, IT)
+● Real-time
+Demand-Supply
+Dynamics and risk
+● Transaction
+● Data providers /
+Marketplace / Energy
+Platforms
+● Contract
+● Customer 360 (incl.
+customer journey
+analytics and billing
+accuracy)
+● Contact Center
+Automation
+● Data Sovereignty and
+Privacy (linked to
+conﬁdentiality)
+● Industrial Control
+Systems Security
+(linked to Safety and
+Asset Integrity)
+## Collaborate and Protect
+## Data/IP
+## Streamline Functions
+## Optimize Operations
+**Customer**
+**Experience**
+**Management and**
+**Reporting**
+**Enterprise Business**
+**Intelligence**
+**Process and Operations**
+**Efﬁciency**
+**Asset Management**
+**and Safety**
+**Cybersecurity**
+Business
+Objective
+Functions
+& Use
+cases
+User Adoption Rate
+Net Promoter Score
+Time to Resolution
+MTTD* / MTTR*
+Cross-Border Data Transfer
+Carbon Intensity
+Renewable Energy Mix
+Capacity Factor (EIA*)
+Utility Reliability (EIA)
+Automation %/Time Saving
+Inventory Levels ($)
+Daily P&L
+Asset Uptime / MTBF*
+Repair Time / MTTR*
+Asset Turnover Ratio
+FE: e.g. CO2 per unit of activity
+U&I: e.g. $ / MWh or $ /Boe
+R&A: e.g. Grid Reliability
+FO: e.g. Utilization Rate (Work hrs/Total hrs)
+Industry KPIs
+
 ![image429.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image429.jpeg>)
 
 ![image430.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image430.jpeg>)
@@ -1712,6 +2461,30 @@ by 20x
 
 ![image455.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image455.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+25
+CME Data Intelligence Outcome Maps
+Media & Advertising
+Communications
+Gaming
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+26
+# Data Intelligence Outcome Maps
+Identity & Customer 360
+**Grow & Retain Your Audience**
+Customer Experience
+Monetization
+Content Supply Chain
+**Know Your Audience**
+Marketing
+**Monetize Your Audience & Content**
+Media & Advertising
+
 ![image456.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image456.jpeg>)
 
 ![image457.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image457.jpeg>)
@@ -1727,6 +2500,27 @@ by 20x
 ![image462.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image462.jpeg>)
 
 ![image463.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image463.jpeg>)
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+27
+# Data Intelligence Outcome Maps
+**Efﬁciency: Network & Field**
+**Operations**
+Field Operations
+**Enhance CX to drive revenue**
+Network Operations
+**Protect Telecom and Customers**
+**Reduce Threats & risk**
+Communications
+Service Delivery
+Consumer &  Customer
+Experience
+SMB & Enterprise Experience
+Fraud Prevention
+Regulatory Compliance
+Cybersecurity
 
 ![image464.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image464.jpeg>)
 
@@ -1750,6 +2544,24 @@ by 20x
 
 ![image474.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image474.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+28
+# Data Intelligence Outcome Maps
+**Build Great Games**
+Effective Live Operations
+**Player Centric Experience**
+De-risk Development
+**Efﬁcient Operations**
+Gaming
+Grow Your Revenue
+Know the Player
+Grow the Playerbase
+Optimize Operations
+Democratize
+Your Data
+
 ![image475.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image475.jpeg>)
 
 ![image476.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image476.jpeg>)
@@ -1769,6 +2581,96 @@ by 20x
 ![image483.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image483.jpeg>)
 
 ![image484.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image484.jpeg>)
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+29
+## Monetize Your Audience & Content
+**Monetization**
+**Identity & Customer 360**
+●
+Client Event Ingestion
+ID Spine: 1P, 3P, “Combined”
+Household Device Graphing
+Audience  Proﬁling
+Audience Segmentation
+Audience Activation
+CDP
+Increase revenue per minute of time
+spent engaging with content
+Increase in Advertising CPM &
+Inventory Yield
+Subscriber Churn Reduction
+Business
+Objective
+Functions
+& Use
+cases
+## Grow & Retain Your Audience
+## Know Your Audience
+Pricing, Inventory, Forecasting,
+Yield & Analytics
+Ad Portfolio Planning, Decisioning
+& Optimization
+Measurement & Attribution
+Audience Onboarding
+Contextual Targeting
+Ad Creative Generation
+Personalization & Localization
+Ad Experience Personalization
+Content Planning & Investment
+Content Distribution & Licensing
+Player / Performer Performance
+Impact
+Potential
+**Content Supply Chain**
+Reduce time to market for new
+content
+Automated Content Metadata
+Generation
+Content Localization
+Closed Captioning
+Editorial & Writer’s Room Assistant
+Content Repacking
+**Marketing**
+Increase marketing efﬁciency &
+effectiveness with superior planning,
+prediction,
+Life Cycle Marketing
+Campaign Planning & Optimization
+Media Mix Modeling
+Experimentation & Causal Analysis
+Market Research
+Subscriber Life Cycle: Churn, Win
+Backs
+**Customer Experience**
+Increase audience engagement,
+proactively predict & esolve
+experiential problems, increase
+customer retention.
+Personalization
+Search & Discovery
+Content Recommendations
+Quality of Experience
+Customer Care
+Industry KPIs
+**45-50% revenue increase**
+**50%+ increase in identity coverage**
+**of digital experiences**
+**45-50% revenue increase per**
+campaign through better C360
+**Increase content engagement,**
+discoverability while reducing costs.
+**30% increase in CLV by leveraging AI**
+to enhance all elements of customer
+lifecycle
+**10% - 40% increase in revenue**
+through improved personalization and
+better retention (10-40%
+improvement potential)
+# Outcome Map
+## Media & Advertising
 
 ![image485.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image485.jpeg>)
 
@@ -1811,6 +2713,164 @@ by 20x
 ![image504.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image504.jpeg>)
 
 ![image505.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image505.jpeg>)
+
+---
+
+## ©2025 Databricks Inc. — All rights reserved
+## 30
+## Protect the Telecom and Customers
+## reduce threats & risk
+## Network
+## Operations
+## Regulatory
+## Compliance
+## Fraud Prevention
+## Consumer &
+## Customer
+## Experience
+## SMB & Enterprise
+● Predictive Scripts –
+contact center - ﬁrst
+point resolution
+● Churn Prediction and
+customer retention
+● Intelligent Bill Analysis
+● Customer Onboarding
+● Contract Buyout
+● Hyper Personalized
+Offers/Campaign
+Development
+Improved response
+time to network issues
+**$100M**
+**cost avoidance**
+**80% reduction in fraud**
+through ML detection
+Care Cost Reduction,
+improved handling time
+**$235m Cost reduction**
+**20% increase in NPS**
+## Efﬁciency: Network &
+## Field Operations
+## Enhance CX to drive revenue
+● Pricing/quoting of new
+connections (Frontier
+broadband)
+● Processing of Moves,
+Adds and Changes
+● Order tracking and
+updates
+● Proactive Offers for SMB
+customers
+● Billing audits
+● Fraud detection
+● Autonomous monitoring
+for Denial of Service and
+Robo-calling
+● Brute force attacks
+● Bot detection
+● Sim swap prevention
+● Network / service
+performance monitoring
+● Anomaly detection
+● Predictive demand
+changes
+● SLA/managed network
+reporting
+● Network Slicing
+● Capacity tracking
+w/proactive offers
+● Fiber footprint updates
+with AI
+● Asset Management
+● Monetize network data
+and assets
+● Data Privacy
+Compliance:
+GDPR/CCPA compliance
+● Network Security and
+Resilience
+● Anti-Money Laundering
+(AML) and Know Your
+Customer (KYC)
+● Quality of Service (QoS)
+Reporting
+● Employee Offboarding
+● ESG
+Reduced network
+energy consumption
+**$33m annual savings**
+**Increased efﬁciency**
+**20% by optimizing**
+dispatch
+● Natural language
+Interface for Field
+● Retrieve customer
+insights and  network
+diagrams before site
+visits
+● Provide prior repair
+summaries
+● Voice/video updates
+following site visit
+● Procure to Pay
+● Onboarding and
+Offboarding employees
+● Predictive Maintenance
+## Cybersecurity
+● Network Anomaly
+Detection
+● Threat Intelligence
+Integration
+● Automated Incident
+Response
+● IoT Security Monitoring
+Reduced Operating
+cost and improved
+customer trust. Est. >
+**productivity**
+## Service Delivery
+● Order entry
+● Activation
+● Provisioning
+● Assurance
+● Managed Mobile
+Reports (new paid
+services)
+## Business
+## Objective
+## Functions
+## & Use
+## cases
+## Impact
+## Potential
+## Industry KPIs
+Network Experience Score,
+Asset Utilization rate
+Net Promoter Score Average
+Handling Time Churn Rate
+Serv. Level Agreement Issue
+Resolution Time
+Quote-to-Cash Cycle
+Fraud Detection Rate,
+SIM swap fraud %
+GDPR/CCPA
+Request Time
+First-time Fix rate,
+Average Response Time
+Incidents rates
+Mean Time to Detect Patch
+Management
+Order Accuracy
+Order-to-Cash Cycle
+Service Activation Time
+**20% improvement in**
+‘order to provisioning’
+cycle time
+**20% increase in new**
+logo sales for SMB
+# Outcome Map
+## Communications
 
 ![image506.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image506.jpeg>)
 
@@ -1878,6 +2938,124 @@ by 20x
 
 ![image538.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image538.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+31
+## Efﬁcient Operations
+**De-risk**
+**Development**
+**Democratize**
+**Your Data**
+**Optimize Operations**
+**Know the Player**
+**Grow the Playerbase**
+● Player360
+● Player Metrics
+● Segmentation
+● Churn Mitigation
+● Personalization
+● Identity Resolution
+● Player Journey Analytics
+Milestone completion rate,
+Bug resolution rate,
+Build Time
+Content ROI,
+Customer Acquisition Cost
+Player Lifetime Value,
+Player Retention
+Return on Ad Spend,
+Cost per Mille,
+Cost per Install
+Business
+Objective
+Industry KPIs
+Functions
+& Use
+cases
+## Build Great Games
+## Player Centric Experience
+● Cohort Analysis
+● (Multi-Touch)
+Ads Attribution
+● Ads Network
+Optimization
+● UA + Remarketing
+Personalization
+● Focused Advertising
+● Ads Creative Generation
+● Empower Your Team
+● Strategic Initiatives
+● Financial Reporting
+● Cross Publisher Data
+Sharing
+● Game Balance
+● Game Build Analytics
+● Feedback Analytics
+● Localization
+● Content Treadmill
+● Living NPCs
+● Self Service Analytics
+● AI Powered Analytics
+● Data Discovery
+● Data Sharing
+● Data Governance
+Time to Insight,
+Data Security Risk
+**Effective Live**
+**Operations**
+User Review Scores,
+Server Uptime,
+Meantime to Resolution
+● Game Health and
+Metrics
+● AB Testing
+● Toxicity
+● Anti-Cheat
+● Community Support
+● Community Safety
+● Game Server Operations
+● Content Impact Analysis
+**Grow Your Revenue**
+Avg Revenue per Daily
+Active User,
+Customer Lifetime Value
+● Next Best Offer
+● Purchase Optimization
+● Fraud Detection
+Validated
+Impact
+**Data to Insight**
+**< 15 minutes**
+**Game devs can now**
+**leverage 20PB of data**
+**to inform decisions**
+**5% increase in**
+**customer retention**
+**40M pre-registered**
+**players tracked with**
+**full analytics**
+**2X ROAS through**
+**personalized**
+**marketing efforts**
+**Systematic data**
+**governance ensures**
+**sensitive data is**
+**accessible only to**
+**authorized groups**
+**2,000 employees to**
+**generate insight from**
+**over 40 services**
+**400% faster**
+**feature launches**
+**Increased cLTV**
+**by increasing annual**
+**experiments from 10 to 50**
+**2.5X increased yield**
+**From recommendations**
+# Outcome Map
+## Gaming
+
 ![image539.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image539.jpeg>)
 
 ![image540.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image540.jpeg>)
@@ -1936,6 +3114,68 @@ by 20x
 
 ![image567.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image567.jpeg>)
 
+---
+
+©2025 Databricks Inc. — All rights reserved
+32
+Key Horizontal Solutions
+Marketing
+Cybersecurity
+Digital Natives
+
+---
+
+©2025 Databricks Inc. — All rights reserved
+33
+**Brand Management**
+**Customer 360**
+**Campaign Management**
+● Customer Data Platform
+○
+Data Collection
+Consent Management
+Identity & Data Enrichment
+Privacy & Governance
+Customer Modeling
+Activation
+● Marketplaces & Commerce Media Networks
+● Customer Insights
+● Customer Experiences
+Increase Brand Equity, CSAT, and NPS
+Drive Customer Engagement, Retention, and LTV
+Increase Return On Ad Spend
+Drive Engagement, Retention, and LTV
+## Outcome Map
+## Marketing Solutions
+Business
+Objective
+Impact
+Potential
+Functions
+& Use
+cases
+●
+Campaign Planning
+AI-Driven Content & Copy Creation
+Overlap Analysis
+Campaign Measurement
+Campaign Perf. Monitoring
+Attribution
+Closed Loop Measurement
+Campaign Optimization
+Media Mix Modeling
+Experimentation
+Market Research
+Sponsorship & Inﬂuencer Analysis
+Synthetic Market Analysis
+Brand Health & Reputation Management
+Social Listening
+Product Reviews
+NPS Tracking
+Customer Support Monitoring
+Share of Voice
+Earned Media Value Measurement
+
 ![image568.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image568.jpeg>)
 
 ![image569.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image569.jpeg>)
@@ -1955,6 +3195,120 @@ by 20x
 ![image576.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image576.jpeg>)
 
 ![image577.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image577.jpeg>)
+
+---
+
+©2024 Databricks Inc. — All rights reserved
+34
+## Open Ecosystem Approach
+**Democratized Analytics**
+**Innovative Product**
+**Development**
+**Data Sharing and**
+**Collaboration**
+**Low Latency**
+**Real-Time Apps and**
+**Analytics**
+**Accelerate Production**
+**ML/AI**
+**Data Platform Teams**
+● Customer Data Enrichment
+● Identity Resolution
+● Real-time Personalization
+● Resource Optimization
+● Improved collaboration
+● Increase self-service; reduce
+eng reliance
+● Accelerated new customer
+growth
+● Met governance and
+privacy mandates
+● Increased data/eng team
+productivity
+● Reduced data processing
+costs
+● Accelerated time to
+market
+● Increased incremental
+revenue
+## business objective
+## Digital Natives
+Business
+Objective
+Industry KPIs
+Functions &
+Use cases
+## Data and Intelligence for Everyone
+## Uniﬁed Data and AI
+**+ML/Data Science Teams**
+● Next-Best-Action Models
+● Ad Spend ROI
+● Campaign Optimization
+● Demand Forecasting
+**+ IT Teams**
+● Data Marketplace
+● Data Governance
+● BI Dashboards
+● Data Integrations
+**+All Teams**
+● Natural Language Insights
+● Quality Data Assurance
+● Metrics Standardization
+● Notebook Development
+**+ Product Teams**
+● Data Sharing
+● Embedded Analytics
+● Personalized UX
+● Cybersecurity
+● Accelerated innovation
+● Met openness &
+portability mandates
+**Customer 360**
+● Accelerated insights
+● Increased customer
+engagement
+**+GTM Teams**
+● Behavioral Segmentation
+● Lifetime Value Modeling
+● Retention Optimization
+● Campaign Attribution
+Validated
+Impact
+**→ Millions of gigabytes of data to**
+their dev and eng for faster insights
+and data democratization.
+**→ Scaled ML-powered features for**
+millions of users daily..
+**→ What used to take weeks to do**
+3-4 years ago, now you can do in
+a day.
+**→ A uniﬁed platform for real-time**
+streaming and analytics, improved
+performance 70% and reduced
+costs 40%.
+**→ 99%+ reduction in processing**
+time
+**→ accelerate Gen AI. deployment**
+by 20x
+**→ 10x performance improvement**
+in LLM inference acceleration.
+**→ 2PB of data managed and**
+governed.
+→  We built an NLP model on the
+Databricks Data Intelligence
+Platform that enabled our
+platform to be more efﬁcient
+**→ $37M+ from improved vehicle**
+reliability, improved battery and
+charging system efﬁciency and
+faster delivery of autonomous
+driving features.
+**→ 3+ petabytes efﬁciently stored**
+and processed into actionable
+insights.
+**→ 65% improved mktg execution**
+**→ 50% adoption rate of AI-powered**
+campaign optimization
 
 ![image578.jpeg](<images/Copy of FY26 Industry Data Intelligence Outcome Maps/image578.jpeg>)
 
