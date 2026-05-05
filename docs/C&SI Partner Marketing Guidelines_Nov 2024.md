@@ -126,7 +126,7 @@
 
 ## partner-marketing@databricks.
 
-## com . Please remember that you
+com. Please remember that you
 
 ## need Databricks’ permission to
 
@@ -134,7 +134,7 @@
 
 ## that any use is subject to our
 
-## Terms and Conditions .
+Terms and Conditions.
 
 
 ![image5.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image5.jpeg>)
@@ -865,7 +865,7 @@ Insights, 2023
 
 # Databricks Data Intelligence Platform
 
-# Mosaic AI
+## Mosaic AI
 
 ## Gen AI
 
@@ -979,7 +979,7 @@ Insights, 2023
 
 ©2024 Databricks Inc. — All rights reserved
 
-# Brand guidelines
+## Brand guidelines
 
 20
 
@@ -1064,7 +1064,7 @@ trademarks and that any permitted use is subject
 
 ## To add your logo to our partner page, you must ﬁrst have a completed partner
 
-## agreement. Once done, please ﬁll out this form . Please keep your company
+agreement. Once done, please ﬁll out this form. Please keep your company
 
 ## description to less than 50 words.
 
@@ -1268,7 +1268,7 @@ trademarks and that any permitted use is subject
 
 ## Please ﬁnd our logo folder and
 
-## brand guidelines .
+brand guidelines.
 
 # Call to action
 
@@ -1652,7 +1652,7 @@ trademarks and that any permitted use is subject
 
 ### Partner Press Release Google Form:
 
-### https://forms.gle/M1tNxPFXaX1F3gfm8 .
+https://forms.gle/M1tNxPFXaX1F3gfm8.
 
 ### Partners are responsible for distributing
 
@@ -1718,9 +1718,9 @@ trademarks and that any permitted use is subject
 
 ## solutions, events and news.
 
-## Please tag @Databricks ( X ,
+Please tag @Databricks (X,
 
-## LinkedIn ) in your posts.
+LinkedIn) in your posts.
 
 # Social media co-marketing
 
