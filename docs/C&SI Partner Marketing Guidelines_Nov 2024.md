@@ -4,21 +4,21 @@
 
 ©2024 Databricks Inc. — All rights reserved
 
-**C&SI**
+# C&SI
 
-**Partner**
+# Partner
 
-**Marketing**
+# Marketing
 
-**Guidelines**
+# Guidelines
 
-Your starting point for great
+# Your starting point for great
 
-partner marketing
+# partner marketing
 
-partner-marketing@databricks.com
+## partner-marketing@databricks.com
 
-Updated Nov 2024
+## Updated Nov 2024
 
 1
 
@@ -39,33 +39,33 @@ Updated Nov 2024
 
 2
 
-**Overview**
+# Overview
 
-Databricks is the lakehouse
+# Databricks is the lakehouse
 
-company. Pioneers of the
+# company. Pioneers of the
 
-lakehouse category and now the
+# lakehouse category and now the
 
-Data Intelligence Platform,
+# Data Intelligence Platform,
 
-Databricks combines the best of
+# Databricks combines the best of
 
-data warehouses and data lakes
+# data warehouses and data lakes
 
-to offer an open and uniﬁed
+# to offer an open and uniﬁed
 
-platform for data, analytics and AI.
+# platform for data, analytics and AI.
 
-Our partners are experts -  uniquely positioned
+## Our partners are experts -  uniquely positioned
 
-to help out customers implement and scale data
+## to help out customers implement and scale data
 
-engineering, collaborative data science,
+## engineering, collaborative data science,
 
-full-lifecycle machine learning and business
+## full-lifecycle machine learning and business
 
-analytics initiatives.
+## analytics initiatives.
 
 
 ![image4.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image4.jpeg>)
@@ -78,31 +78,31 @@ analytics initiatives.
 
 3
 
-**Overview**
+# Overview
 
-**The goal of this guide is to provide**
+# The goal of this guide is to provide
 
-**marketing inspiration and guidelines**
+# marketing inspiration and guidelines
 
-**for you, our partners.**
+# for you, our partners.
 
-Together we are creating the Data
+## Together we are creating the Data
 
-Intelligence Platform category, which is
+## Intelligence Platform category, which is
 
-helping data teams solve the world’s
+## helping data teams solve the world’s
 
-toughest problems.
+## toughest problems.
 
-We want you to share the Data
+## We want you to share the Data
 
-Intelligence Platform message with the
+## Intelligence Platform message with the
 
-**world! We look forward to hearing of**
+## world! We look forward to hearing of
 
-**your success and we’re excited to**
+## your success and we’re excited to
 
-**participate in your ampliﬁcation.**
+## participate in your ampliﬁcation.
 
 ---
 
@@ -112,29 +112,29 @@ Intelligence Platform message with the
 
 4
 
-**Overview**
+# Overview
 
-**The goal of this guide is to provide**
+# The goal of this guide is to provide
 
-**marketing inspiration and guidelines**
+# marketing inspiration and guidelines
 
-**for you, our partners.**
+# for you, our partners.
 
-If you have any questions, please
+## If you have any questions, please
 
-do not hesitate to reach out to
+## do not hesitate to reach out to
 
-**partner-marketing@databricks.**
+## partner-marketing@databricks.
 
-**com . Please remember that you**
+## com . Please remember that you
 
-need Databricks’ permission to
+## need Databricks’ permission to
 
-use our logo or trademarks and
+## use our logo or trademarks and
 
-that any use is subject to our
+## that any use is subject to our
 
-**Terms and Conditions .**
+## Terms and Conditions .
 
 
 ![image5.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image5.jpeg>)
@@ -147,17 +147,17 @@ that any use is subject to our
 
 5
 
-“As we jointly make more organizations successful in
+# “As we jointly make more organizations successful in
 
-their move to the cloud and accelerate adoption
+# their move to the cloud and accelerate adoption
 
-of the Lakehouse architecture, we’re excited to see our
+# of the Lakehouse architecture, we’re excited to see our
 
-partnerships—and the ecosystems formed
+# partnerships—and the ecosystems formed
 
-around them—continue to grow for decades to come.”
+# around them—continue to grow for decades to come.”
 
-**Ali Ghodsi, Co-founder and CEO, Databricks**
+# Ali Ghodsi, Co-founder and CEO, Databricks
 
 
 ![image6.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image6.jpeg>)
@@ -183,67 +183,67 @@ around them—continue to grow for decades to come.”
 
 7
 
-### Getting started
+# Getting started
 
-## When you become a partner,
+# When you become a partner,
 
-## we encourage you to follow
+# we encourage you to follow
 
-## these steps:
+# these steps:
 
-**Get noticed on databricks.com. Once your partner agreement is**
+### Get noticed on databricks.com. Once your partner agreement is
 
-signed, please ﬁll in this form to be added to databricks.com.
+### signed, please ﬁll in this form to be added to databricks.com.
 
-**Update your website. Build out your own Databricks partner page on**
+### Update your website. Build out your own Databricks partner page on
 
-your website. We will link to this from your partner logo on
+### your website. We will link to this from your partner logo on
 
-databricks.com.
+### databricks.com.
 
-**Share your status. Let the world know via social media that you are**
+### Share your status. Let the world know via social media that you are
 
-now in the Databricks Partner Program! Please make sure to tag
+### now in the Databricks Partner Program! Please make sure to tag
 
-Databricks.
+### Databricks.
 
-**Establish Databricks expertise. Create blogs, host webinars, and**
+### Establish Databricks expertise. Create blogs, host webinars, and
 
-build assets that tell the world about your Databricks expertise.
+### build assets that tell the world about your Databricks expertise.
 
-**Repeat! As you learn more and solve problems with customers,**
+### Repeat! As you learn more and solve problems with customers,
 
-publish your learnings and solutions. Customers will see your
+### publish your learnings and solutions. Customers will see your
 
-expertise in implementing and deploying a Data Intelligence Platfrom.
+### expertise in implementing and deploying a Data Intelligence Platfrom.
 
-Focus these assets on the value realized, industry solutions and
+### Focus these assets on the value realized, industry solutions and
 
-frameworks that enriched their business.
+### frameworks that enriched their business.
 
-**1**
+### 1
 
-**2**
+### 2
 
-**3**
+### 3
 
-**4**
+### 4
 
-**5**
+### 5
 
-## Our partners are an extension
+# Our partners are an extension
 
-## of our organization.
+# of our organization.
 
-The more that you share the power of Databricks, the
+### The more that you share the power of Databricks, the
 
-more the world can beneﬁt from the power of the
+### more the world can beneﬁt from the power of the
 
-Data Intelligence Platform.
+### Data Intelligence Platform.
 
-When you’re ready to promote your content on social,
+### When you’re ready to promote your content on social,
 
-be sure to tag @Databricks.
+### be sure to tag @Databricks.
 
 
 ![image8.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image8.jpeg>)
@@ -256,23 +256,23 @@ be sure to tag @Databricks.
 
 8
 
-**Getting started**
+# Getting started
 
-## C&SI partners have ofﬁcial badges
+# C&SI partners have ofﬁcial badges
 
-## for their partner level.
+# for their partner level.
 
-Use your tier badge in your marketing materials. It
+## Use your tier badge in your marketing materials. It
 
-looks great in email signatures, event banners and
+## looks great in email signatures, event banners and
 
-slide decks. The list goes on and on!
+## slide decks. The list goes on and on!
 
-Already achieved Select or Elite status? Email
+## Already achieved Select or Elite status? Email
 
-partners@databricks.com to get your badge.
+## partners@databricks.com to get your badge.
 
-## Share your status.
+# Share your status.
 
 
 ![image9.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image9.jpeg>)
@@ -286,9 +286,9 @@ partners@databricks.com to get your badge.
 
 ©2024 Databricks Inc. — All rights reserved
 
-Data Intelligence
+# Data Intelligence
 
-Platform Messaging
+# Platform Messaging
 
 9
 
@@ -298,9 +298,9 @@ Platform Messaging
 
 ©2023 Databricks Inc. — All rights reserved
 
-The winners in every industry will be
+# The winners in every industry will be
 
-data + AI companies
+# data + AI companies
 
 
 ![image11.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image11.jpeg>)
@@ -311,35 +311,35 @@ data + AI companies
 
 ©2023 Databricks Inc. — All rights reserved
 
-## Most organizations struggle
+# Most organizations struggle
 
-## to realize this vision
+# to realize this vision
 
-Data Lake
+## Data Lake
 
-Orchestration
+## Orchestration
 
-& ETL
+## & ETL
 
-Data
+## Data
 
-Warehouse
+## Warehouse
 
-Governance
+## Governance
 
-Machine
+## Machine
 
-Learning
+## Learning
 
-Streaming
+## Streaming
 
-BI
+## BI
 
-Data Science
+## Data Science
 
-Generative
+## Generative
 
-AI
+## AI
 
 
 ![image12.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image12.jpeg>)
@@ -398,43 +398,43 @@ AI
 
 ©2023 Databricks Inc. — All rights reserved
 
-Data Lake
+## Data Lake
 
-Orchestration
+## Orchestration
 
-& ETL
+## & ETL
 
-Data
+## Data
 
-Warehouse
+## Warehouse
 
-Governance
+## Governance
 
-Machine
+## Machine
 
-Learning
+## Learning
 
-Streaming
+## Streaming
 
-BI
+## BI
 
-Data Science
+## Data Science
 
-Generative
+## Generative
 
-AI
+## AI
 
-## Data and AI
+# Data and AI
 
-## are siloed
+# are siloed
 
-## Data privacy & control
+# Data privacy & control
 
-## are challenged
+# are challenged
 
-## Dependent on highly
+# Dependent on highly
 
-## technical staff
+# technical staff
 
 
 ![image29.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image29.jpeg>)
@@ -498,59 +498,59 @@ AI
 
 # The Data Lakehouse
 
-## An open, uniﬁed foundation for all your data
+# An open, uniﬁed foundation for all your data
 
-### Open Data Lake
+# Open Data Lake
 
-### All Raw Data
+# All Raw Data
 
-### (Logs, Texts, Audio, Video, Images)
+# (Logs, Texts, Audio, Video, Images)
 
-Databricks pioneered
+## Databricks pioneered
 
-the lakehouse
+## the lakehouse
 
-architecture
+## architecture
 
-## 2020
+# 2020
 
-Uniﬁed security, governance, and cataloging
+## Uniﬁed security, governance, and cataloging
 
-Uniﬁed data storage for reliability and sharing
+## Uniﬁed data storage for reliability and sharing
 
-ETL &
+### ETL &
 
-Real-time Analytics
+### Real-time Analytics
 
-Orchestration
+### Orchestration
 
-Data
+### Data
 
-Warehousing
+### Warehousing
 
-Data Science
+### Data Science
 
-& AI
+### & AI
 
-Mosaic AI
+## Mosaic AI
 
-Delta Live Tables
+## Delta Live Tables
 
-Workﬂows
+## Workﬂows
 
-Databricks SQL
+## Databricks SQL
 
-Unity Catalog
+## Unity Catalog
 
-Delta Lake UniForm
+## Delta Lake UniForm
 
-### 74% of global
+# 74% of global
 
-enterprises have
+## enterprises have
 
-adopted lakehouse
+## adopted lakehouse
 
-## Today
+# Today
 
 MIT Technology Review
 
@@ -565,23 +565,23 @@ Insights, 2023
 
 ©2023 Databricks Inc. — All rights reserved
 
-ORCHESTRATION
+## ORCHESTRATION
 
-DATA GOVERNANCE & SECURITY
+## DATA GOVERNANCE & SECURITY
 
-DATA SOURCE
+## DATA SOURCE
 
-BUSINESS INTELLIGENCE
+## BUSINESS INTELLIGENCE
 
 # Built on an open foundation
 
-DATA INTEGRATION
+## DATA INTEGRATION
 
-DATA PARTNERS
+## DATA PARTNERS
 
-## Easily integrate with the entire data and AI ecosystem
+# Easily integrate with the entire data and AI ecosystem
 
-DS/ML
+## DS/ML
 
 14
 
@@ -789,23 +789,23 @@ DS/ML
 
 ©2023 Databricks Inc. — All rights reserved
 
-An open, uniﬁed foundation
+# An open, uniﬁed foundation
 
-for all your data
+# for all your data
 
-## Data Lakehouse
+# Data Lakehouse
 
-Easily scale and use data and AI
+# Easily scale and use data and AI
 
-## Generative AI
+# Generative AI
 
-Democratize data + AI across
+# Democratize data + AI across
 
-your entire organization
+# your entire organization
 
-## Data Intelligence
+# Data Intelligence
 
-## Platform
+# Platform
 
 ---
 
@@ -813,49 +813,49 @@ your entire organization
 
 ©2023 Databricks Inc. — All rights reserved
 
-ETL &
+### ETL &
 
-Real-time Analytics
+### Real-time Analytics
 
-Orchestration
+### Orchestration
 
-Data
+### Data
 
-Warehousing
+### Warehousing
 
-Data Science
+### Data Science
 
-& AI
+### & AI
 
-### Mosaic AI
+## Mosaic AI
 
-### Delta Live
+## Delta Live
 
-### Tables
+## Tables
 
-### Workﬂows
+## Workﬂows
 
-### Databricks SQL
+## Databricks SQL
 
-Uniﬁed security, governance, and cataloging
+## Uniﬁed security, governance, and cataloging
 
-### Unity Catalog
+## Unity Catalog
 
 # Databricks Data Intelligence Platform
 
-Uniﬁed data storage for reliability and sharing
+## Uniﬁed data storage for reliability and sharing
 
-### Delta Lake UniForm
+## Delta Lake UniForm
 
-An AI powered data intelligence engine to understand the semantics of your data
+### An AI powered data intelligence engine to understand the semantics of your data
 
-### DatabricksIQ
+## DatabricksIQ
 
-## Open Data Lake
+# Open Data Lake
 
-### All Raw Data
+## All Raw Data
 
-### (Logs, Texts, Audio, Video, Images)
+## (Logs, Texts, Audio, Video, Images)
 
 ---
 
@@ -863,83 +863,83 @@ An AI powered data intelligence engine to understand the semantics of your data
 
 ©2023 Databricks Inc. — All rights reserved
 
-## Databricks Data Intelligence Platform
+# Databricks Data Intelligence Platform
+
+# Mosaic AI
+
+## Gen AI
+
+## •
+
+## Custom models
+
+## •
+
+## Model serving
+
+## •
+
+## RAG
+
+## End-to-end AI
+
+## •
+
+## MLOps/MLﬂow
+
+## •
+
+## AutoML
+
+## •
+
+## Monitoring
+
+## •
+
+## Governance
+
+### Use generative AI to understand the semantics of your data
+
+## Data Intelligence Engine
+
+# Open Data Lake
+
+## All Raw Data
+
+## (Logs, Texts, Audio, Video, Images)
+
+## Databricks SQL
+
+### Text-to-SQL
+
+### Text-to-Viz
+
+## Workﬂows
+
+### Job cost optimized
+
+### based on past runs
+
+## Delta Live Tables
+
+### Automated
+
+### data quality
 
 ## Mosaic AI
 
-**Gen AI**
+### Create, tune, and
 
-•
+### serve custom LLMs
 
-Custom models
+## Unity Catalog
 
-•
+### Securely get insights in natural language
 
-Model serving
+## Delta Lake UniForm
 
-•
-
-RAG
-
-**End-to-end AI**
-
-•
-
-MLOps/MLﬂow
-
-•
-
-AutoML
-
-•
-
-Monitoring
-
-•
-
-Governance
-
-Use generative AI to understand the semantics of your data
-
-**Data Intelligence Engine**
-
-### Open Data Lake
-
-All Raw Data
-
-(Logs, Texts, Audio, Video, Images)
-
-**Databricks SQL**
-
-Text-to-SQL
-
-Text-to-Viz
-
-**Workﬂows**
-
-Job cost optimized
-
-based on past runs
-
-**Delta Live Tables**
-
-Automated
-
-data quality
-
-**Mosaic AI**
-
-Create, tune, and
-
-serve custom LLMs
-
-**Unity Catalog**
-
-Securely get insights in natural language
-
-**Delta Lake UniForm**
-
-Data layout is automatically optimized based on usage patterns
+### Data layout is automatically optimized based on usage patterns
 
 ---
 
@@ -947,21 +947,21 @@ Data layout is automatically optimized based on usage patterns
 
 ©2023 Databricks Inc. — All rights reserved
 
-A Data Intelligence Platform enables
+# A Data Intelligence Platform enables
 
-you to truly democratize data and AI
+# you to truly democratize data and AI
 
-**ACCESSIBLE WITH NATURAL LANGUAGE**
+# ACCESSIBLE WITH NATURAL LANGUAGE
 
-Everyone can quickly and easily discover insights
+# Everyone can quickly and easily discover insights
 
-**SIMPLE TO OPERATE**
+# SIMPLE TO OPERATE
 
-AI removes complexity and heavy lifting
+# AI removes complexity and heavy lifting
 
-**STRONG GOVERNANCE AND SECURITY**
+# STRONG GOVERNANCE AND SECURITY
 
-Train and serve custom GenAI applications that maintain privacy
+# Train and serve custom GenAI applications that maintain privacy
 
 ---
 
@@ -979,23 +979,23 @@ Train and serve custom GenAI applications that maintain privacy
 
 ©2024 Databricks Inc. — All rights reserved
 
-## Brand guidelines
+# Brand guidelines
 
 20
 
-## We have a unique story to tell,
+# We have a unique story to tell,
 
-## from our origins to our
+# from our origins to our
 
-## technology to our mission. Our
+# technology to our mission. Our
 
-## brand is
+# brand is
 
-## the way we express that story—
+# the way we express that story—
 
-## in words, design, products
+# in words, design, products
 
-## and customer experience.
+# and customer experience.
 
 ## This Brand Hub is where you’ll
 
@@ -1017,7 +1017,7 @@ trademarks and that any permitted use is subject
 
 ## Logo folder
 
-### For your reference, please see:
+## For your reference, please see:
 
 
 ![image114.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image114.jpeg>)
@@ -1048,29 +1048,29 @@ trademarks and that any permitted use is subject
 
 22
 
-### We are excited to
+# We are excited to
 
-### highlight our partnership
+# highlight our partnership
 
-### by featuring your logo and
+# by featuring your logo and
 
-### proﬁle on the
+# proﬁle on the
 
-### databricks.com partner
+# databricks.com partner
 
-### page.
+# page.
 
-## All Partners
+# All Partners
 
-To add your logo to our partner page, you must ﬁrst have a completed partner
+## To add your logo to our partner page, you must ﬁrst have a completed partner
 
-**agreement. Once done, please ﬁll out this form . Please keep your company**
+## agreement. Once done, please ﬁll out this form . Please keep your company
 
-description to less than 50 words.
+## description to less than 50 words.
 
-Please allow at least 5 business days for your logo to appear on the Databricks
+## Please allow at least 5 business days for your logo to appear on the Databricks
 
-website.
+## website.
 
 
 ![image117.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image117.jpeg>)
@@ -1087,39 +1087,39 @@ website.
 
 23
 
-### We are excited to
+# We are excited to
 
-### highlight our partnership
+# highlight our partnership
 
-### by featuring your details
+# by featuring your details
 
-### in the Partner Locator
+# in the Partner Locator
 
-### Page.
+# Page.
 
-## Company logo
+# Company logo
 
-Provide a high-res, full-color
+## Provide a high-res, full-color
 
-logo on white or transparent
+## logo on white or transparent
 
-background.
+## background.
 
-## Databricks
+# Databricks
 
-## web page
+# web page
 
-Provide a link to a web page,
+## Provide a link to a web page,
 
-press release, blog, or offer on
+## press release, blog, or offer on
 
-your website that features
+## your website that features
 
-**Databricks. More information**
+## Databricks. More information
 
-**on the next page!**
+## on the next page!
 
-**EXAMPLE**
+### EXAMPLE
 
 
 ![image118.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image118.jpeg>)
@@ -1136,23 +1136,23 @@ your website that features
 
 ©2024 Databricks Inc. — All rights reserved
 
-## Create your Databricks webpage
+# Create your Databricks webpage
 
 24
 
-**The goal of a Databricks**
+# The goal of a Databricks
 
-**webpage on your website**
+# webpage on your website
 
-**is to highlight your**
+# is to highlight your
 
-**Databricks expertise.**
+# Databricks expertise.
 
-When customers are looking for Databricks expertise,
+# When customers are looking for Databricks expertise,
 
-your Databricks web page will share how your company
+# your Databricks web page will share how your company
 
-can help implement Databricks-based solutions.
+# can help implement Databricks-based solutions.
 
 
 ![image121.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image121.jpeg>)
@@ -1170,51 +1170,51 @@ can help implement Databricks-based solutions.
 
 25
 
-### Elements of a strong
+# Elements of a strong
 
-### Databricks webpage
+# Databricks webpage
 
-### include:
+# include:
 
-## Offer
+# Offer
 
-Let prospects know if you have a
+## Let prospects know if you have a
 
-Databricks workshop, accelerator or
+## Databricks workshop, accelerator or
 
-reference architecture to give
+## reference architecture to give
 
-them conﬁdence that they will be
+## them conﬁdence that they will be
 
-able to implement solutions quickly
+## able to implement solutions quickly
 
-and accurately.
+## and accurately.
 
-## Capabilities
+# Capabilities
 
-Whatever capabilities your team
+## Whatever capabilities your team
 
-has, highlight your value proposition
+## has, highlight your value proposition
 
-and what beneﬁts you will bring to
+## and what beneﬁts you will bring to
 
-the customer.
+## the customer.
 
-Are you an expert in data
+## Are you an expert in data
 
-engineering or machine learning?
+## engineering or machine learning?
 
-Has your team earned Databricks
+## Has your team earned Databricks
 
-Technical Badges? Have you done
+## Technical Badges? Have you done
 
-multiple Databricks deployments for
+## multiple Databricks deployments for
 
-a speciﬁc industry? Do you have
+## a speciﬁc industry? Do you have
 
-workshops or existing frameworks
+## workshops or existing frameworks
 
-that will cut time to production?
+## that will cut time to production?
 
 **1**
 
@@ -1236,47 +1236,47 @@ that will cut time to production?
 
 26
 
-### Elements of a strong
+# Elements of a strong
 
-### Databricks webpage
+# Databricks webpage
 
-### include:
+# include:
 
-## Featured work
+# Featured work
 
-Customer case studies or example
+## Customer case studies or example
 
-use cases are direct proof points
+## use cases are direct proof points
 
-that you are able to help customers.
+## that you are able to help customers.
 
-In cases where you are solving a
+## In cases where you are solving a
 
-very speciﬁc or unique challenge,
+## very speciﬁc or unique challenge,
 
-case studies highlight the fact that
+## case studies highlight the fact that
 
-you are willing to think outside of
+## you are willing to think outside of
 
-the box to help customers solve a
+## the box to help customers solve a
 
-problem. Please ensure you have
+## problem. Please ensure you have
 
-appropriate customer permissions.
+## appropriate customer permissions.
 
-## Databricks branding
+# Databricks branding
 
-**Please ﬁnd our logo folder and**
+## Please ﬁnd our logo folder and
 
-**brand guidelines .**
+## brand guidelines .
 
-## Call to action
+# Call to action
 
-Provide a form or contact
+## Provide a form or contact
 
-information so that prospects know
+## information so that prospects know
 
-how to learn more.
+## how to learn more.
 
 **3**
 
@@ -1309,29 +1309,29 @@ how to learn more.
 
 ©2024 Databricks Inc. — All rights reserved
 
-## Demand generation assets
+# Demand generation assets
 
-### Co-branded assets for use in partner-designed campaigns
+# Co-branded assets for use in partner-designed campaigns
 
 28
 
-**Staying front and center**
+# Staying front and center
 
-**with your customers and**
+# with your customers and
 
-**prospects requires**
+# prospects requires
 
-**coordinated connections at**
+# coordinated connections at
 
-**the perfect moment in time**
+# the perfect moment in time
 
-As a partner with an active demand generation
+# As a partner with an active demand generation
 
-strategy, we want to make sure you have assets to help
+# strategy, we want to make sure you have assets to help
 
-drive your larger messages and can be true foundational
+# drive your larger messages and can be true foundational
 
-resources to your customers and prospects.
+# resources to your customers and prospects.
 
 
 ![image128.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image128.jpeg>)
@@ -1345,55 +1345,55 @@ resources to your customers and prospects.
 
 ©2024 Databricks Inc. — All rights reserved
 
-## Demand generation assets
+# Demand generation assets
 
-### Co-branded assets for use in partner-designed campaigns
+# Co-branded assets for use in partner-designed campaigns
 
 29
 
-State of Data and
+# State of Data and
 
-AI Report
+# AI Report
 
-The Big Book of
+# The Big Book of
 
-Generative AI
+# Generative AI
 
-Big Book of Data
+# Big Book of Data
 
-Engineering -
+# Engineering -
 
-3rd Edition
+# 3rd Edition
 
-**Assets**
+## Assets
 
-To the right you will ﬁnd the
+## To the right you will ﬁnd the
 
-links to three assets that
+## links to three assets that
 
-we have made available to you to use
+## we have made available to you to use
 
-in your own demand generation. Click
+## in your own demand generation. Click
 
-the links to download the assets.
+## the links to download the assets.
 
-We can offer you co-branding if that is
+## We can offer you co-branding if that is
 
-of interest—please reach out to
+## of interest—please reach out to
 
-**partner-marketing@databricks.co**
+## partner-marketing@databricks.co
 
-**m**
+## m
 
-**Staying front and center**
+# Staying front and center
 
-**with your customers and**
+# with your customers and
 
-**prospects requires**
+# prospects requires
 
-**coordinated connections at**
+# coordinated connections at
 
-**the perfect moment in time**
+# the perfect moment in time
 
 
 ![image130.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image130.jpeg>)
@@ -1422,39 +1422,39 @@ of interest—please reach out to
 
 31
 
-## Highlight Happy Customers!
+# Highlight Happy Customers!
 
-Databricks has launched a Customer Success
+# Databricks has launched a Customer Success
 
-Story Submission Process in our Partner Portal.
+# Story Submission Process in our Partner Portal.
 
-•
+# •
 
-We’re collecting both internal (for
+# We’re collecting both internal (for
 
-enablement purposes) and external (will live
+# enablement purposes) and external (will live
 
-on DB.com) customer stories.
+# on DB.com) customer stories.
 
-•
+# •
 
-External stories must have customer approval
+# External stories must have customer approval
 
-•
+# •
 
-Topics we are looking for but not limited to:
+# Topics we are looking for but not limited to:
 
-Business Value, Data Intelligence Platform
+# Business Value, Data Intelligence Platform
 
-usage, Unity Catalog and Data Warehouse
+# usage, Unity Catalog and Data Warehouse
 
-usage.
+# usage.
 
-•
+# •
 
-Click here to visit the Partner Portal and ﬁnd
+# Click here to visit the Partner Portal and ﬁnd
 
-the form under the Marketing tab.
+# the form under the Marketing tab.
 
 
 ![image133.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image133.jpeg>)
@@ -1471,9 +1471,9 @@ the form under the Marketing tab.
 
 ©2024 Databricks Inc. — All rights reserved
 
-Press Releases and
+# Press Releases and
 
-Social Promotion
+# Social Promotion
 
 32
 
@@ -1483,45 +1483,45 @@ Social Promotion
 
 ©2024 Databricks Inc. — All rights reserved
 
-## Press releases
+# Press releases
 
-## Share your successes with the world
+# Share your successes with the world
 
 33
 
-**General guidance**
+# General guidance
 
-To make the press release
+## To make the press release
 
-newsworthy, partners
+## newsworthy, partners
 
-are encouraged to highlight
+## are encouraged to highlight
 
-a joint customer or to
+## a joint customer or to
 
-announce a new product/
+## announce a new product/
 
-service based on the
+## service based on the
 
-Databricks platform, a
+## Databricks platform, a
 
-joint Solution Accelerator
+## joint Solution Accelerator
 
-or Brickbuilder Solution,
+## or Brickbuilder Solution,
 
-new Partner Connect
+## new Partner Connect
 
-integration, etc.
+## integration, etc.
 
-The press release should not
+## The press release should not
 
-be positioned or distributed
+## be positioned or distributed
 
-as a joint press release; use
+## as a joint press release; use
 
-of the Databricks boilerplate
+## of the Databricks boilerplate
 
-is not permitted.
+## is not permitted.
 
 
 ![image136.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image136.jpeg>)
@@ -1538,35 +1538,35 @@ is not permitted.
 
 ©2024 Databricks Inc. — All rights reserved
 
-## Press releases
+# Press releases
 
-## Share your successes with the world
+# Share your successes with the world
 
 34
 
-**General guidance**
+# General guidance
 
-Databricks must approve all
+## Databricks must approve all
 
-press releases that mention
+## press releases that mention
 
-the company, its executives
+## the company, its executives
 
-and/or the Databricks Data
+## and/or the Databricks Data
 
-Intelligence Platform. Allow at
+## Intelligence Platform. Allow at
 
-least 10 business days for
+## least 10 business days for
 
-Databricks' review cycle.
+## Databricks' review cycle.
 
-Databricks reserves the right
+## Databricks reserves the right
 
-to alter and/or decline any
+## to alter and/or decline any
 
-proposed mentions or
+## proposed mentions or
 
-quotes per our guidelines.
+## quotes per our guidelines.
 
 
 ![image139.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image139.jpeg>)
@@ -1582,53 +1582,53 @@ quotes per our guidelines.
 
 # Press releases
 
-## Share your successes with the world
+# Share your successes with the world
 
 35
 
-## Approval process
+# Approval process
 
-To make it easier for Databricks’ partners
+### To make it easier for Databricks’ partners
 
-to develop press releases and streamline
+### to develop press releases and streamline
 
-the
+### the
 
-review
+### review
 
-process,
+### process,
 
-Databricks
+### Databricks
 
-has
+### has
 
-developed new partner press release
+### developed new partner press release
 
-**templates. Please log in to the Partner**
+### templates. Please log in to the Partner
 
-**Portal, download the template and**
+### Portal, download the template and
 
-**make a copy of it before editing. While**
+### make a copy of it before editing. While
 
-we expect partners to personalize the
+### we expect partners to personalize the
 
-release
+### release
 
-content
+### content
 
-based
+### based
 
-on
+### on
 
-their
+### their
 
-announcement and use case, the closer
+### announcement and use case, the closer
 
-you keep the release to the template
+### you keep the release to the template
 
-content, the faster we will be able to
+### content, the faster we will be able to
 
-review it.
+### review it.
 
 **1**
 
@@ -1636,33 +1636,33 @@ review it.
 
 **3**
 
-Databricks will consider providing
+### Databricks will consider providing
 
-supporting quotes on a case-by-case
+### supporting quotes on a case-by-case
 
-basis based on the context of the
+### basis based on the context of the
 
-announcement. Databricks does not
+### announcement. Databricks does not
 
-provide quotes for new partnership
+### provide quotes for new partnership
 
-announcements.
+### announcements.
 
-**Submit your press release via the new**
+### Submit your press release via the new
 
-Partner Press Release Google Form:
+### Partner Press Release Google Form:
 
-https://forms.gle/M1tNxPFXaX1F3gfm8 .
+### https://forms.gle/M1tNxPFXaX1F3gfm8 .
 
-Partners are responsible for distributing
+### Partners are responsible for distributing
 
-the press release to the media or over
+### the press release to the media or over
 
-a wire service.
+### a wire service.
 
-Allow at least 10 business days for
+### Allow at least 10 business days for
 
-Databricks' review cycle
+### Databricks' review cycle
 
 
 ![image141.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image141.jpeg>)
@@ -1684,45 +1684,45 @@ Databricks' review cycle
 
 # Social promotion
 
-## Amplifying to our network of 1M data engineers, architects, scientists and
+# Amplifying to our network of 1M data engineers, architects, scientists and
 
-## analysts
+# analysts
 
 36
 
-Databricks channels will publish:
+## Databricks channels will publish:
 
-We will promote major
+## We will promote major
 
-announcements, events, and
+## announcements, events, and
 
-product news on corporate
+## product news on corporate
 
-handles/proﬁles with
+## handles/proﬁles with
 
-co-branded assets.
+## co-branded assets.
 
-Work with your Databricks
+## Work with your Databricks
 
-Partner Manager on co-branded
+## Partner Manager on co-branded
 
-social media assets.
+## social media assets.
 
-Databricks channels will engage:
+## Databricks channels will engage:
 
-We will like/react and comment
+## We will like/react and comment
 
-on partner social media posts
+## on partner social media posts
 
-that promote jointly relevant
+## that promote jointly relevant
 
-solutions, events and news.
+## solutions, events and news.
 
-**Please tag @Databricks ( X ,**
+## Please tag @Databricks ( X ,
 
-**LinkedIn ) in your posts.**
+## LinkedIn ) in your posts.
 
-## Social media co-marketing
+# Social media co-marketing
 
 
 ![image145.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image145.jpeg>)
@@ -1741,63 +1741,63 @@ solutions, events and news.
 
 # Social promotion
 
-## Amplifying to our network of 1M data engineers, architects, scientists and
+# Amplifying to our network of 1M data engineers, architects, scientists and
 
-## analysts
+# analysts
 
 37
 
-Social media posts that reach
+## Social media posts that reach
 
-the greatest number of people,
+## the greatest number of people,
 
-have value or utility.
+## have value or utility.
 
-They offer an insight, best
+## They offer an insight, best
 
-practice, new way of
+## practice, new way of
 
-approaching a problem or a new
+## approaching a problem or a new
 
-perspective.
+## perspective.
 
-Content topics of interest to our
+## Content topics of interest to our
 
-audience:
+## audience:
 
-•
+## •
 
-Data engineering best
+## Data engineering best
 
-practices
+## practices
 
-•
+## •
 
-Data intelligence
+## Data intelligence
 
-•
+## •
 
-Data governance
+## Data governance
 
-•
+## •
 
-Data warehousing /
+## Data warehousing /
 
-lakehouse
+## lakehouse
 
-•
+## •
 
-Data collaboration
+## Data collaboration
 
-(streaming, sharing)
+## (streaming, sharing)
 
-•
+## •
 
-ML/AI ops for the
+## ML/AI ops for the
 
-enterprise
+## enterprise
 
-## Social media best practices
+# Social media best practices
 
 
 ![image148.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image148.jpeg>)
@@ -1813,49 +1813,49 @@ enterprise
 
 # Social promotion
 
-## Example
+# Example
 
 38
 
-Good
+## Good
 
-•
+## •
 
-Pragmatic visual asset
+## Pragmatic visual asset
 
-•
+## •
 
-Timely topic (related to GA)
+## Timely topic (related to GA)
 
-Better
+## Better
 
-•
+## •
 
-Could offer a best practice
+## Could offer a best practice
 
-or learning from multiple
+## or learning from multiple
 
-implementations
+## implementations
 
-•
+## •
 
-Could offer a perspective
+## Could offer a perspective
 
-about how to get the most
+## about how to get the most
 
-from a serverless
+## from a serverless
 
-deployment
+## deployment
 
-•
+## •
 
-Could offer a list of use
+## Could offer a list of use
 
-cases that are best suited
+## cases that are best suited
 
-for this platform
+## for this platform
 
-## Social media best practices
+# Social media best practices
 
 
 ![image150.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image150.jpeg>)
@@ -1876,45 +1876,45 @@ for this platform
 
 # Brickbuilder Solution launches
 
-## We love integrations
+# We love integrations
 
 39
 
-### For partners who have built a new
+# For partners who have built a new
 
-### Brickbuilder Solution, Marketplace
+# Brickbuilder Solution, Marketplace
 
-### offering or new product integration
+# offering or new product integration
 
-### with Databricks Partner Connect,
+# with Databricks Partner Connect,
 
-### Databricks Comms encourages you
+# Databricks Comms encourages you
 
-### to announce these new offerings via
+# to announce these new offerings via
 
-### your own press release or blog post.
+# your own press release or blog post.
 
-We will support these announcements with a quote
+## We will support these announcements with a quote
 
-from a Databricks spokesperson, and we are happy
+## from a Databricks spokesperson, and we are happy
 
-to amplify your launch announcements via
+## to amplify your launch announcements via
 
-Databricks’ social channels.
+## Databricks’ social channels.
 
-When possible, consider timing these
+## When possible, consider timing these
 
-announcements to align with relevant events like
+## announcements to align with relevant events like
 
-Databricks Data + AI Summit, your own customer
+## Databricks Data + AI Summit, your own customer
 
-conference, or other industry-speciﬁc
+## conference, or other industry-speciﬁc
 
-opportunities where both your company and
+## opportunities where both your company and
 
-Databricks will be participating (e.g., NRF, NAB,
+## Databricks will be participating (e.g., NRF, NAB,
 
-HIMSS).
+## HIMSS).
 
 
 ![image153.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image153.jpeg>)
@@ -1940,23 +1940,23 @@ HIMSS).
 
 40
 
-## Share your thought leadership
+# Share your thought leadership
 
-We’ve launched our Partner Blog
+# We’ve launched our Partner Blog
 
-Program. We’d love your thought
+# Program. We’d love your thought
 
-leadership on topics like DBSQL, Unity
+# leadership on topics like DBSQL, Unity
 
-Catalog & Open Formats, Gen AI, and
+# Catalog & Open Formats, Gen AI, and
 
-Novel Data Applications. You can submit
+# Novel Data Applications. You can submit
 
-your blogs via the Databricks Portal,
+# your blogs via the Databricks Portal,
 
-under marketing. Fully approved blogs
+# under marketing. Fully approved blogs
 
-earn $250.
+# earn $250.
 
 
 ![image157.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image157.jpeg>)
@@ -2076,17 +2076,17 @@ Only
 
 42
 
-**Get in touch**
+# Get in touch
 
-## Have questions about
+# Have questions about
 
-## messaging or looking
+# messaging or looking
 
-## for something speciﬁc?
+# for something speciﬁc?
 
-Get in touch at
+# Get in touch at
 
-**partner-marketing@databricks.com**
+# partner-marketing@databricks.com
 
 
 ![image161.jpeg](<images/C&SI Partner Marketing Guidelines_Nov 2024/image161.jpeg>)
@@ -2107,8 +2107,8 @@ Get in touch at
 
 43
 
-For questions not covered in this guide, please
+## For questions not covered in this guide, please
 
-**contact your Partner Marketing Manager**
+## contact your Partner Marketing Manager
 
-**or email partner-marketing@databricks.com**
+## or email partner-marketing@databricks.com
