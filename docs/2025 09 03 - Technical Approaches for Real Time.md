@@ -82,7 +82,7 @@ expose real-time data.
 
 There are two main scenarios for real-time data consumption:
 
-1. Event driven: “Notify me whenever a new data point is generated and give it to me.”
+1. Event driven: “ Notify me whenever a new data point is generated and give it to me.”
 
 2. Request/response: “Give me the most up-to-date data when I request it.”
 
@@ -90,7 +90,7 @@ Scenario 1 requires publisher-subscriber solutions in place.
 
 Scenario 2 follows the request/response pattern and can be implemented using a variety of approaches.
 
-Note: in this document, “real-time” data refers to information that is made available to consumers as soon as
+**Note : in this document, “real-time” data refers to information that is made available to consumers as soon as**
 
 it is generated in a given system (scenario 1), or to the capability for consumers to consume the most recent
 
