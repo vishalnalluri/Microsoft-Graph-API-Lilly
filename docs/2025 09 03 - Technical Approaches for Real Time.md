@@ -14,7 +14,7 @@ Francesco Gabbanini
 
 Devesh Agrawal, Marco Capirossi, Francesco Gabbanini, Vikas Pareek, Rahul Singhal
 
-## Summary
+# Summary
 
 This document evaluates and recommends architectural patterns and technologies for exposing real-time data
 
@@ -74,7 +74,7 @@ assess whether speciﬁc application use cases truly need to consume real time d
 
 ## Page 2
 
-## Introduction
+# Introduction
 
 This document outlines various technical approaches that Data Integration and Analytics can implement to
 
@@ -100,7 +100,7 @@ According to the above statement, a system that refreshes data at given ﬁxed f
 
 an example of a real-time system (even if the refresh frequency is very high).
 
-## Scenario 1 - Event Driven
+# Scenario 1 - Event Driven
 
 In order to manage this scenario, publisher/subscriber architectures need to be put in place.
 
@@ -156,7 +156,7 @@ capabilities, while integration with Azure Event Hubs is available for additiona
 
 enables to meet both lightweight IoT requirements and broader enterprise messaging needs.
 
-## Scenario 2 – Request/Response
+# Scenario 2 – Request/Response
 
 ## Lakehouse federation
 
@@ -210,7 +210,7 @@ used include Azure Functions or AWS Lambda.
 
 Lilly recently adopted MuleSoft in MQ as a platform to manage APIs.
 
-## Position Data Integration Strategies
+# Position Data Integration Strategies
 
 For event-driven scenarios, only the publisher-subscriber model is suitable, ensuring real-time updates via
 
@@ -488,7 +488,7 @@ developed that retrieves data from both systems using LHF. It then applies in-me
 
 and process the data, ultimately returning the combined results in the API response.
 
-## Recommendation and next steps
+# Recommendation and next steps
 
 •
 
