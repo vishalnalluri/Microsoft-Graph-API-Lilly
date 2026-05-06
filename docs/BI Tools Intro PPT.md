@@ -2,176 +2,40 @@
 
 ## Slide 1
 
-INTRO TO BI TOOLS
-
-Databricks 
-
-Power BI
-
-![](<images/BI Tools Intro PPT/image4.png>)
-
-![Power BI Logo, symbol, meaning, history, PNG, brand](<images/BI Tools Intro PPT/image5.png>)
+![Slide 1](<images/BI Tools Intro PPT/slide_1.png>)
 
 ## Slide 2
 
-What are BI Tools?
-
-BI (Business Intelligence) tools help convert data into reports and dashboards so users can monitor performance, find trends, and make decisions.
-
-                                        Data + AI platform for
-
-                                    engineering, analytics & ML
-
-                                      Business intelligence tool for
-
-                                reports, dashboards & sharing
-
-![A black background with white text Description automatically generated](<images/BI Tools Intro PPT/image6.png>)
-
-![Power BI Logo, symbol, meaning, history, PNG, brand](<images/BI Tools Intro PPT/image7.png>)
-
-Today we will cover: what problem they solve, key features, how they fit in a typical stack, and the business value. 
+![Slide 2](<images/BI Tools Intro PPT/slide_2.png>)
 
 ## Slide 3
 
-Agenda
-
-- Problem Statement
-- Features & Capabilities
-- Technology Stack / Data Flow
-- Business Value Proposition
+![Slide 3](<images/BI Tools Intro PPT/slide_3.png>)
 
 ## Slide 4
 
-Problem   Statement
-
-Common   challenges   organizations   face :
-
-- Data is scattered across many sources (files, apps, databases) and is hard to trust.
-- Manual reporting takes time and leads to inconsistent numbers across teams.
-- Large data volumes slow down analysis and make it difficult to scale.
-- Teams want faster insights (trends, anomalies, forecasting) to make decisions.
-
-![Why Using BI Tools for Your Small/Medium IT Company](<images/BI Tools Intro PPT/image8.png>)
+![Slide 4](<images/BI Tools Intro PPT/slide_4.png>)
 
 ## Slide 5
 
-Databricks :   Features   &   Capabilities
-
-What it is
-
-- 
-- 
-- Ingest and store raw + curated data at scale.
-- Transform and clean data using notebooks and jobs.
-- Run SQL analytics and data engineering pipelines.
-- Build ML/AI workflows (training, tracking, deployment).
-
-Data + AI platform (lakehouse)
-
-Key strengths
-
-Speed, scale, governance
-
-- Handles large datasets efficiently (batch + streaming).
-- Collaboration for data engineers, analysts, and data scientists.
-- Central governance & access control (e.g., catalogs, policies).
-- Automations: scheduled jobs, monitoring, and alerts.
+![Slide 5](<images/BI Tools Intro PPT/slide_5.png>)
 
 ## Slide 6
 
-Power BI  :   Features   &   Capabilities
-
-What it is
-
-- 
-- 
-
-Business intelligence & visualization
-
-Key strengths
-
-Storytelling, adoption, sharing
-
-- Create interactive dashboards and reports.
-- Model data with relationships + measures (DAX).
-- Self-service analysis with filters, drill-downs, and slicers.
-- Share insights securely with teams and leadership.
-
-<!-- -->
-
-- Fast report building with reusable visuals and templates.
-- Enterprise sharing: workspaces, apps, row-level security.
-- Scheduled refresh + subscriptions/alerts.
-- Strong integration with Microsoft ecosystem (Teams, Excel, etc.).
+![Slide 6](<images/BI Tools Intro PPT/slide_6.png>)
 
 ## Slide 7
 
-Technology   Stack   /  Data   Flow
-
-Where each tool fits in a typical analytics stack:
-
-Data Sources
-
-Databricks
-
-(Data + AI Layer)
-
-Semantic / BI Model
-
-Power BI
-
-(Reporting Layer)
-
-Databricks typically supports:
-
-- Ingestion (batch/streaming)
-- Data cleaning & transformations
-- Scalable analytics + ML/AI
-- Governance + monitoring
-
-Power BI typically supports:
-
-- Dashboards + reports
-- Business-friendly metrics (DAX)
-- Sharing & access control
-- Subscriptions and refresh
+![Slide 7](<images/BI Tools Intro PPT/slide_7.png>)
 
 ## Slide 8
 
-Business   Value / Benefits
-
-6
-
-- Faster decision-making: teams get trusted metrics quickly.
-- Less manual effort: automated pipelines and scheduled reporting.
-- Consistency: one governed source of truth reduces conflicting numbers.
-- Scalability: tools handle growing data and more users without slowing down.
-- Better visibility: dashboards make trends, anomalies, and KPIs easy to spot.
-- Security & compliance: role-based access and controlled sharing.
-
-In simple words: Databricks helps prepare and understand the data; Power BI helps communicate insights and track KPIs.
+![Slide 8](<images/BI Tools Intro PPT/slide_8.png>)
 
 ## Slide 9
 
-Questions?
+![Slide 9](<images/BI Tools Intro PPT/slide_9.png>)
 
 ## Slide 10
 
-![A computer generated image of several buildings Description automatically generated](<images/BI Tools Intro PPT/image9.png>)
-
-Address
-
-1119 Keystone Way #302
-
-Carmel, IN 46032
-
-Phone & Email
-
-317-456-7560 info@radcube.com
-
-www.radcube.com
-
-THANK
-
-YOU
+![Slide 10](<images/BI Tools Intro PPT/slide_10.png>)
