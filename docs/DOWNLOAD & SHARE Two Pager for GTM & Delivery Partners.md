@@ -1,500 +1,157 @@
 # DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners
 
-## Page 1
+Partner Enablement 
 
-Partner Enablement
+**==> picture [129 x 21] intentionally omitted <==**
 
-# Partner GTM
+## **Partner GTM Enablement Training** 
 
-# Enablement Training
+Foundation, Leadership, Sales/PreSales GTM expertise + industry expertise, Verified Badges 
 
-**Supplemented Learning: Hot topics +**
+## SCAN ME 
 
-conversations with our thought leaders and SMEs,
+**==> picture [104 x 105] intentionally omitted <==**
 
-**available on Brick by Brick podcasts (3 seasons,**
+## **Learn about unique ways to monetize your practice on** 
 
-15-30 min / episode). Highly recommended content
+**==> picture [86 x 87] intentionally omitted <==**
 
-for Leaders, Sales, and Pre Sales!
+A robust training and accreditation program available on **Partner Academy GTM** courses for partners. All GTM badges are available free of charge to Databricks Partners. 
 
-### Foundation, Leadership, Sales/PreSales GTM expertise
+**Supplemented Learning:** Hot topics + conversations with our thought leaders and SMEs, available on **Brick by Brick podcasts** (3 seasons, 15-30 min / episode). Highly recommended content for Leaders, Sales, and Pre Sales! 
 
-### + industry expertise, Verified Badges
+## **FOUNDATIONS LEADERSHIP** 
 
-Executives, Practitioners,
+## **SALES/PRESALES** 
 
-Managing Directors,
+## **TECH PRESALES** 
 
-Client Account Leads
+All customer facing roles 
 
-## LEADERSHIP
+SET THE **FOUNDATION** 1-3 hours each 
 
-Consultants, Sales, Field
+Executives, Practitioners, Managing Directors, Client Account Leads 
 
-Engineering, Architect
+STRATEGIC **INSIGHTS** 45 min each 
 
-## SALES/PRESALES
+Consultants, Sales, Field Engineering, Architect 
 
-Solution Architects, Sales
+DEEPEN **KNOWLEDGE** 2-3 hours each 
 
-Engineers, Field Engineers,
+Solution Architects, Sales Engineers, Field Engineers, Architects 
 
-Architects
+VERIFIED **EXPERTISE** 2-3 hours each 
 
-## TECH PRESALES
+Wondering with which course started your GTM enablement journey? You are in the right column. 
 
-## ENABLING YOU TO FILL THE TOP OF THE FUNNEL
+**==> picture [86 x 88] intentionally omitted <==**
 
-## Learn about unique ways to monetize your practice on
+**----- Start of picture text -----**<br>
+GTM Foundations<br>**----- End of picture text -----**<br>
 
-Strategic Points of View
 
-that are forward-thinking
+Partner Essentials On Demand Sales Ready Generative AI Fundamentals SAP Foundations badge 
 
-and visionary.
+Foundational Learning, Migrations Strategies, GTM Expertise and Industry. 
 
-Foundational Learning,
+Strategic Points of View that are forward-thinking and visionary. 
 
-Migrations Strategies, GTM
+**Strategic POV GTM Expertise Industry Expertise “Advantages of” Leadership** Data & AI ( **Industry) GenAI + LLM Series:** Governance with **for:** Adv. of the Lakehouse Unity Catalog Retail + Consumer Adv. of Being GTM Ready Cloud Native SPARK Goods Adv. of Tech Readiness & Migration Healthcare & Life Data Intelligence EDW ETL Migration Sciences Adv. of Data & AI Gov. Hadoop Migration Manufacturing + Adv. of Azure DB & Fabric GenAI & LLM on DB Transportation Adv. of EDW with Data Energy Intelligence Financial Services Adv. of GenAI with Data Communications, Intelligence Media & Entertainment 
 
-Expertise and Industry.
+( **Industry) GenAI + LLM for:** 
 
-PreSales Verified technical
+**Leadership in Action:** Advantages of Data Interoperability with SAP 
 
-expertise needed to lead scoping
+PreSales Verified technical expertise needed to lead scoping and architectural calls with clients. 
 
-and architectural calls with
+**Tech Presales expertise** Sol. Architect Essentials Lakehouse Fundamentals EDW/ETL Migration Hadoop Migration Data & AI Gov w/UC Cloud Native SPARK Migrations GenAI & LLM on DB 
 
-clients.
+**==> picture [31 x 51] intentionally omitted <==**
 
-A robust training and accreditation
+**ENABLING YOU TO FILL THE TOP OF THE FUNNEL** 
 
-**program available on Partner Academy !**
+_partners@databricks.com_ 
 
-**GTM courses for partners.**
+Partner Enablement 
 
-All GTM badges are available free of
+**==> picture [129 x 21] intentionally omitted <==**
 
-charge to Databricks Partners.
+## **Partner Delivery Enablement Training** 
 
-partners@databricks.com
+Associate & Professional Certifications, Specialization Accreditations 
 
-SCAN ME
+**==> picture [126 x 131] intentionally omitted <==**
 
-## FOUNDATIONS
+**----- Start of picture text -----**<br>
+SCAN ME<br>**----- End of picture text -----**<br>
 
-SET THE
 
-**FOUNDATION**
+## **Be Better at** 
 
-1-3 hours each
+6 Certifications & 3 Delivery Specialization accreditations. Role based learning paths (GenAI Engineer, Data Engineer, ML/Data Scientist ML engineer, Data Analyst) 
 
-STRATEGIC
+NB: Learners who take ILT courses qualify for free certification vouchers! 
 
-**INSIGHTS**
+## **Databricks Partner Academy Labs:** 
 
-45 min each
+Starting February 1, 2025, partners get hands-on, guided lab experiences at no cost. Navigate to _Partner Academy Labs_ , and start learning! 
 
-DEEPEN
+**==> picture [596 x 499] intentionally omitted <==**
 
-**KNOWLEDGE**
+**----- Start of picture text -----**<br>
+DATA DATA GENAI ML/DATA<br>DATA DATA GENAI ML DATA<br>ENGINEERENGINEER ANALYSTANALYST ENGINEERENGINEER SCIENTISTSCIENTIST<br>Generative AI<br>Fundamentals Data Engineering Data Analyst with Machine Learning<br>Engineering with 16 hrs<br>Training with Databricks  Databricks with Databricks<br>Databricks courses<br>Associate<br>Exam<br>Associate<br>$100 per<br>Assessment<br>attempt<br>Certification<br>(discounted<br>50%)<br>Advanced GenAI<br>Advanced Data Advanced Machine<br>Advanced Engineering with<br>Engineering with NOT APPLICABLE Learning with 16 hrs courses<br>Training Databricks<br>Databricks Databricks<br>(coming soon)<br>Professional<br>Exam<br>Professional<br>$100 per<br>Assessment NOT APPLICABLE      TBD<br>attempt<br>Certification<br>(discounted<br>50%)<br>Delivery UC Upgrade  UC Upgrade  Products Spe.<br>Specialization EDW Migration  EDW Migration  3 courses<br>courses CDW Migration CDW Migration ~ 3 hours each<br>Delivery<br>Need an active<br>Specialization<br>certification<br>Accreditation<br>**----- End of picture text -----**<br>
 
-2-3 hours each
 
-VERIFIED
+**==> picture [31 x 51] intentionally omitted <==**
 
-**EXPERTISE**
+**DELIVER SUCCESSFUL PROJECTS** 
 
-2-3 hours each
+_partners@databricks.com_ 
 
-Wondering with which course
-
-started your GTM enablement
-
-journey? You are in the right
-
-column.
-
-All customer facing roles
-
-**“Advantages of” Leadership**
-
-**Series:**
-
-Adv. of the Lakehouse
-
-Adv. of Being GTM Ready
-
-Adv. of Tech Readiness &
-
-Data Intelligence
-
-Adv. of Data & AI Gov.
-
-Adv. of Azure DB & Fabric
-
-Adv. of EDW with Data
-
-Intelligence
-
-Adv. of GenAI with Data
-
-Intelligence
-
-**Leadership in Action:**
-
-Advantages of Data
-
-Interoperability with SAP
-
-Partner Essentials
-
-On Demand Sales
-
-Ready
-
-Generative AI
-
-Fundamentals
-
-SAP Foundations
-
-badge
-
-Data & AI
-
-Governance with
-
-Unity Catalog
-
-Cloud Native SPARK
-
-Migration
-
-EDW ETL Migration
-
-Hadoop Migration
-
-GenAI & LLM on DB
-
-**( Industry) GenAI + LLM**
-
-**for:**
-
-Retail + Consumer
-
-Goods
-
-Healthcare & Life
-
-Sciences
-
-Manufacturing +
-
-Transportation
-
-Energy
-
-Financial Services
-
-Communications,
-
-Media &
-
-Entertainment
-
-Sol. Architect Essentials
-
-Lakehouse Fundamentals
-
-EDW/ETL Migration
-
-Hadoop Migration
-
-Data & AI Gov w/UC
-
-Cloud Native SPARK
-
-Migrations
-
-GenAI & LLM on DB
-
-**Tech Presales expertise**
-
-**Industry Expertise**
-
-**GTM Expertise**
-
-**Strategic POV**
-
-**GTM Foundations**
 
 
 ![image1.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image1.png>)
 
-
 ![image2.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image2.png>)
-
 
 ![image3.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image3.png>)
 
-
 ![image4.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image4.png>)
-
 
 ![image5.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image5.png>)
 
-
 ![image6.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image6.png>)
-
 
 ![image7.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image7.png>)
 
-
 ![image8.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image8.png>)
-
 
 ![image9.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image9.png>)
 
-
 ![image10.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image10.png>)
-
----
-
-## Page 2
-
-**DATA**
-
-**ENGINEER**
-
-**DATA**
-
-**ANALYST**
-
-**GENAI**
-
-**ENGINEER**
-
-**ML DATA**
-
-**SCIENTIST**
-
-**Fundamentals**
-
-**Training**
-
-Data Engineering
-
-with Databricks
-
-Data Analyst with
-
-Databricks
-
-Generative AI
-
-Engineering with
-
-Databricks
-
-Machine Learning
-
-with Databricks
-
-**16 hrs**
-
-**courses**
-
-**Associate**
-
-**Assessment**
-
-**Certification**
-
-**Associate**
-
-**Exam**
-
-**$100 per**
-
-**attempt**
-
-**(discounted**
-
-**50%)**
-
-**Advanced**
-
-**Training**
-
-Advanced Data
-
-Engineering with
-
-Databricks
-
-Advanced GenAI
-
-Engineering with
-
-Databricks
-
-(coming soon)
-
-Advanced Machine
-
-Learning with
-
-Databricks
-
-**16 hrs courses**
-
-**Professional**
-
-**Assessment**
-
-**Certification**
-
-**Professional**
-
-**Exam**
-
-**$100 per**
-
-**attempt**
-
-**(discounted**
-
-**50%)**
-
-**Delivery**
-
-**Specialization**
-
-**courses**
-
-UC Upgrade
-
-EDW Migration
-
-CDW Migration
-
-**Products Spe.**
-
-**3 courses**
-
-**~ 3 hours each**
-
-**Delivery**
-
-**Specialization**
-
-**Accreditation**
-
-**Need an active**
-
-**certification**
-
-# Partner Delivery
-
-# Enablement Training
-
-**TBD**
-
-Partner Enablement
-
-**Databricks Partner Academy Labs:**
-
-Starting February 1, 2025, partners get
-
-hands-on, guided lab experiences at no
-
-cost. Navigate to Partner Academy Labs ,
-
-and start learning!
-
-### Associate & Professional Certifications, Specialization
-
-### Accreditations
-
-## DELIVER SUCCESSFUL PROJECTS
-
-## Be Better at
-
-6 Certifications & 3 Delivery Specialization accreditations.
-
-Role based learning paths (GenAI Engineer, Data Engineer, ML/Data
-
-Scientist ML engineer, Data Analyst)
-
-NB: Learners who take ILT courses qualify for free certification vouchers!
-
-partners@databricks.com
-
-## DATA
-
-## ENGINEER
-
-## DATA
-
-## ANALYST
-
-## GENAI
-
-## ENGINEER
-
-## ML/DATA
-
-## SCIENTIST
-
-**NOT APPLICABLE**
-
-**NOT APPLICABLE**
-
-SCAN ME
-
-UC Upgrade
-
-EDW Migration
-
-CDW Migration
-
 
 ![image11.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image11.png>)
 
-
 ![image12.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image12.png>)
-
 
 ![image13.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image13.png>)
 
-
 ![image14.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image14.png>)
-
 
 ![image15.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image15.png>)
 
-
 ![image16.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image16.png>)
-
 
 ![image17.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image17.png>)
 
-
 ![image18.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image18.png>)
-
 
 ![image19.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image19.png>)
 
-
 ![image20.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image20.png>)
-
 
 ![image21.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image21.png>)
 
-
 ![image22.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image22.png>)
-
 
 ![image23.png](<images/DOWNLOAD & SHARE Two Pager for GTM & Delivery Partners/image23.png>)
