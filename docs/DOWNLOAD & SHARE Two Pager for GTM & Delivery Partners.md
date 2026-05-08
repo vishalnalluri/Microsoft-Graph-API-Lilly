@@ -2,7 +2,7 @@
 
 Partner Enablement 
 
-**==> picture [129 x 21] intentionally omitted <==**
+****
 
 ## **Partner GTM Enablement Training** 
 
@@ -10,11 +10,11 @@ Foundation, Leadership, Sales/PreSales GTM expertise + industry expertise, Verif
 
 ## SCAN ME 
 
-**==> picture [104 x 105] intentionally omitted <==**
+****
 
 ## **Learn about unique ways to monetize your practice on** 
 
-**==> picture [86 x 87] intentionally omitted <==**
+****
 
 A robust training and accreditation program available on **Partner Academy GTM** courses for partners. All GTM badges are available free of charge to Databricks Partners. 
 
@@ -44,7 +44,7 @@ VERIFIED **EXPERTISE** 2-3 hours each
 
 Wondering with which course started your GTM enablement journey? You are in the right column. 
 
-**==> picture [86 x 88] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 GTM Foundations<br>**----- End of picture text -----**<br>
@@ -66,7 +66,7 @@ PreSales Verified technical expertise needed to lead scoping and architectural c
 
 **Tech Presales expertise** Sol. Architect Essentials Lakehouse Fundamentals EDW/ETL Migration Hadoop Migration Data & AI Gov w/UC Cloud Native SPARK Migrations GenAI & LLM on DB 
 
-**==> picture [31 x 51] intentionally omitted <==**
+****
 
 **ENABLING YOU TO FILL THE TOP OF THE FUNNEL** 
 
@@ -74,13 +74,13 @@ _partners@databricks.com_
 
 Partner Enablement 
 
-**==> picture [129 x 21] intentionally omitted <==**
+****
 
 ## **Partner Delivery Enablement Training** 
 
 Associate & Professional Certifications, Specialization Accreditations 
 
-**==> picture [126 x 131] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 SCAN ME<br>**----- End of picture text -----**<br>
@@ -96,13 +96,13 @@ NB: Learners who take ILT courses qualify for free certification vouchers!
 
 Starting February 1, 2025, partners get hands-on, guided lab experiences at no cost. Navigate to _Partner Academy Labs_ , and start learning! 
 
-**==> picture [596 x 499] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 DATA DATA GENAI ML/DATA<br>DATA DATA GENAI ML DATA<br>ENGINEERENGINEER ANALYSTANALYST ENGINEERENGINEER SCIENTISTSCIENTIST<br>Generative AI<br>Fundamentals Data Engineering Data Analyst with Machine Learning<br>Engineering with 16 hrs<br>Training with Databricks  Databricks with Databricks<br>Databricks courses<br>Associate<br>Exam<br>Associate<br>$100 per<br>Assessment<br>attempt<br>Certification<br>(discounted<br>50%)<br>Advanced GenAI<br>Advanced Data Advanced Machine<br>Advanced Engineering with<br>Engineering with NOT APPLICABLE Learning with 16 hrs courses<br>Training Databricks<br>Databricks Databricks<br>(coming soon)<br>Professional<br>Exam<br>Professional<br>$100 per<br>Assessment NOT APPLICABLE      TBD<br>attempt<br>Certification<br>(discounted<br>50%)<br>Delivery UC Upgrade  UC Upgrade  Products Spe.<br>Specialization EDW Migration  EDW Migration  3 courses<br>courses CDW Migration CDW Migration ~ 3 hours each<br>Delivery<br>Need an active<br>Specialization<br>certification<br>Accreditation<br>**----- End of picture text -----**<br>
 
 
-**==> picture [31 x 51] intentionally omitted <==**
+****
 
 **DELIVER SUCCESSFUL PROJECTS** 
 

@@ -1,16 +1,16 @@
 # RHTP All Region Data
 
-**==> picture [74 x 405] intentionally omitted <==**
+****
 
-**==> picture [315 x 81] intentionally omitted <==**
+****
 
 # **Rural Health Regional Data Summaries** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 **Data Trends: Health topics of potential impact** 
 
-**==> picture [453 x 288] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 Chronic Disease & Primary Care<br>Maternal & Child Health<br>Trauma & Injury Prevention<br>ED Hospital Discharge<br>Vitality<br>Medical Workforce<br>Geospatial Analysis<br>**----- End of picture text -----**<br>
@@ -24,7 +24,7 @@ www.growruralhealth.in.gov
 
 # **REGION 1** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Region 1** 
 
@@ -44,7 +44,7 @@ This region includes the following or **fully rural partially rural*** designate
 
 - Starke 
 
-**==> picture [323 x 232] intentionally omitted <==**
+****
 
 growruralhealth@health.in.gov 
 
@@ -52,7 +52,7 @@ www.growruralhealth.in.gov
 
 **4** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medicaid Patient Enrollment Profile** 
 
@@ -62,7 +62,7 @@ www.growruralhealth.in.gov
 
 **5** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -76,7 +76,7 @@ growruralhealth@health.in.gov
 
 **6** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -104,7 +104,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -118,7 +118,7 @@ growruralhealth@health.in.gov
 
 **8** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -146,7 +146,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -174,7 +174,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -202,7 +202,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -230,7 +230,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -244,7 +244,7 @@ growruralhealth@health.in.gov
 
 **13** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -272,7 +272,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -300,7 +300,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -328,7 +328,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -340,7 +340,7 @@ growruralhealth@health.in.gov
 
 **17** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -368,7 +368,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -396,7 +396,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -408,7 +408,7 @@ growruralhealth@health.in.gov
 
 **20** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -436,7 +436,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -464,7 +464,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -478,7 +478,7 @@ www.growruralhealth.in.gov
 
 **23** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -506,7 +506,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -534,7 +534,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -550,7 +550,7 @@ growruralhealth@health.in.gov
 
 **26** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -578,7 +578,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -592,7 +592,7 @@ growruralhealth@health.in.gov
 
 **Maternal & Child Health** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Low Birthweight Rate** 
 
@@ -620,7 +620,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -634,7 +634,7 @@ growruralhealth@health.in.gov
 
 **30** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -662,7 +662,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -674,7 +674,7 @@ growruralhealth@health.in.gov
 
 **32** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -702,7 +702,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -714,7 +714,7 @@ growruralhealth@health.in.gov
 
 **34** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -742,7 +742,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -770,7 +770,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -798,7 +798,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -810,7 +810,7 @@ growruralhealth@health.in.gov
 
 **38** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -838,7 +838,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -866,7 +866,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -894,7 +894,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -908,7 +908,7 @@ growruralhealth@health.in.gov
 
 **42** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -936,7 +936,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -964,7 +964,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1008,7 +1008,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1020,7 +1020,7 @@ growruralhealth@health.in.gov
 
 **46** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1048,7 +1048,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1076,7 +1076,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1120,7 +1120,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1136,7 +1136,7 @@ growruralhealth@health.in.gov
 
 **50** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1180,7 +1180,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1208,7 +1208,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1236,7 +1236,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1248,7 +1248,7 @@ growruralhealth@health.in.gov
 
 **54** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1276,7 +1276,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1304,7 +1304,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1332,7 +1332,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1360,7 +1360,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1388,7 +1388,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1416,7 +1416,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1428,7 +1428,7 @@ www.growruralhealth.in.gov
 
 **61** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1456,7 +1456,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1468,7 +1468,7 @@ growruralhealth@health.in.gov
 
 **63** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1496,7 +1496,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1524,7 +1524,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -1552,7 +1552,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -1566,7 +1566,7 @@ growruralhealth@health.in.gov
 
 **67** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -1594,7 +1594,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -1606,7 +1606,7 @@ growruralhealth@health.in.gov
 
 **69** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -1634,7 +1634,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -1648,7 +1648,7 @@ growruralhealth@health.in.gov
 
 **71** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -1676,7 +1676,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
@@ -1690,13 +1690,13 @@ www.growruralhealth.in.gov
 
 **73** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 **Geospatial Analysis** Drive-time to emergency departments 
 
-**==> picture [336 x 239] intentionally omitted <==**
+****
 
-**==> picture [75 x 104] intentionally omitted <==**
+****
 
 Key takeaways: Parts of Newtown and Jasper demonstrate the highest estimated drive-times to emergency care within the region, often exceeding 30 minutes. 
 
@@ -1706,15 +1706,15 @@ www.growruralhealth.in.gov
 
 **74** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to birthing hospitals 
 
-**==> picture [336 x 235] intentionally omitted <==**
+****
 
-**==> picture [100 x 113] intentionally omitted <==**
+****
 
 Key takeaways: Parts of Newtown, Jasper, Pulaski, Marshall and Starke demonstrate the highest estimated drivetimes to the nearest Indiana birthing hospital, within the region. Residents of these counties may travel up to 75 minutes to receive care. 
 
@@ -1726,7 +1726,7 @@ www.growruralhealth.in.gov
 
 # **REGION 2** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Region 2** 
 
@@ -1740,7 +1740,7 @@ This region includes the following **fully rural** or **partially rural*** desig
 
 - • Wells • Adams 
 
-**==> picture [301 x 255] intentionally omitted <==**
+****
 
 growruralhealth@health.in.gov 
 
@@ -1748,13 +1748,13 @@ www.growruralhealth.in.gov
 
 **77** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medicaid Patient Enrollment Profile** 
 
 growruralhealth@health.in.gov 
 
-**==> picture [159 x 13] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
@@ -1762,7 +1762,7 @@ www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
 
 **78** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -1776,7 +1776,7 @@ growruralhealth@health.in.gov
 
 **79** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -1809,7 +1809,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -1823,7 +1823,7 @@ growruralhealth@health.in.gov
 
 **81** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -1856,7 +1856,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -1889,7 +1889,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -1922,7 +1922,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -1955,7 +1955,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -1969,7 +1969,7 @@ growruralhealth@health.in.gov
 
 **86** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2002,7 +2002,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2035,7 +2035,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2068,7 +2068,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2082,7 +2082,7 @@ growruralhealth@health.in.gov
 
 **90** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2115,7 +2115,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2148,7 +2148,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2160,7 +2160,7 @@ growruralhealth@health.in.gov
 
 **93** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2193,7 +2193,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2226,7 +2226,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2240,7 +2240,7 @@ growruralhealth@health.in.gov
 
 **96** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2273,7 +2273,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -2306,7 +2306,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -2322,7 +2322,7 @@ growruralhealth@health.in.gov
 
 **99** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -2355,7 +2355,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -2367,7 +2367,7 @@ growruralhealth@health.in.gov
 
 **101** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -2400,7 +2400,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -2414,7 +2414,7 @@ growruralhealth@health.in.gov
 
 **103** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -2447,7 +2447,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -2459,7 +2459,7 @@ growruralhealth@health.in.gov
 
 **105** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -2492,7 +2492,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2504,7 +2504,7 @@ growruralhealth@health.in.gov
 
 **107** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2537,7 +2537,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2570,7 +2570,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2603,7 +2603,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2615,7 +2615,7 @@ growruralhealth@health.in.gov
 
 **111** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2648,7 +2648,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2681,7 +2681,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2714,7 +2714,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2728,7 +2728,7 @@ growruralhealth@health.in.gov
 
 **115** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2761,7 +2761,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2794,7 +2794,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2827,7 +2827,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2839,7 +2839,7 @@ growruralhealth@health.in.gov
 
 **119** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2872,7 +2872,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2905,7 +2905,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2938,7 +2938,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2954,7 +2954,7 @@ growruralhealth@health.in.gov
 
 **123** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -2987,7 +2987,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3020,7 +3020,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3053,7 +3053,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3065,7 +3065,7 @@ growruralhealth@health.in.gov
 
 **127** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3098,7 +3098,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3131,7 +3131,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3164,7 +3164,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3197,7 +3197,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3230,7 +3230,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3263,7 +3263,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3275,7 +3275,7 @@ www.growruralhealth.in.gov
 
 **134** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3308,7 +3308,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3320,7 +3320,7 @@ www.growruralhealth.in.gov
 
 **136** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3353,7 +3353,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3386,7 +3386,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -3419,7 +3419,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -3433,7 +3433,7 @@ growruralhealth@health.in.gov
 
 **140** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -3466,7 +3466,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -3478,7 +3478,7 @@ www.growruralhealth.in.gov
 
 **142** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -3511,7 +3511,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -3525,7 +3525,7 @@ growruralhealth@health.in.gov
 
 **144** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -3558,7 +3558,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
@@ -3572,15 +3572,15 @@ www.growruralhealth.in.gov
 
 **146** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to emergency departments 
 
-**==> picture [288 x 257] intentionally omitted <==**
+****
 
-**==> picture [75 x 104] intentionally omitted <==**
+****
 
 Key takeaways: Most residents in this region can access emergency care within a 15 or 30 minute drive. 
 
@@ -3590,15 +3590,15 @@ www.growruralhealth.in.gov
 
 **147** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to birthing hospitals 
 
-**==> picture [276 x 232] intentionally omitted <==**
+****
 
-**==> picture [100 x 113] intentionally omitted <==**
+****
 
 Key takeaways: Most residents in this region can access an Indiana birthing hospital within a 30 minute drive. Portions of Wells, DeKalb, LaGrange, Wabash and Miami counties exhibit drive-times of 45 minutes to receive this care. 
 
@@ -3610,7 +3610,7 @@ www.growruralhealth.in.gov
 
 # **REGION 3** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Region 3** 
 
@@ -3632,7 +3632,7 @@ This region includes the following or **fully rural partially rural*** designate
 
 - • Boone* 
 
-**==> picture [266 x 281] intentionally omitted <==**
+****
 
 growruralhealth@health.in.gov 
 
@@ -3640,13 +3640,13 @@ www.growruralhealth.in.gov
 
 **150** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medicaid Patient Enrollment Profile** 
 
 growruralhealth@health.in.gov 
 
-**==> picture [159 x 13] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
@@ -3654,7 +3654,7 @@ www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
 
 **151** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3668,7 +3668,7 @@ growruralhealth@health.in.gov
 
 **152** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3697,7 +3697,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3711,7 +3711,7 @@ growruralhealth@health.in.gov
 
 **154** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3740,7 +3740,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3769,7 +3769,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3798,7 +3798,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3829,7 +3829,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3843,7 +3843,7 @@ growruralhealth@health.in.gov
 
 **159** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3872,7 +3872,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3901,7 +3901,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3930,7 +3930,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3942,7 +3942,7 @@ growruralhealth@health.in.gov
 
 **163** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -3971,7 +3971,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -4000,7 +4000,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -4012,7 +4012,7 @@ growruralhealth@health.in.gov
 
 **166** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -4041,7 +4041,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -4070,7 +4070,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -4084,7 +4084,7 @@ growruralhealth@health.in.gov
 
 **169** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -4113,7 +4113,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -4159,7 +4159,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -4175,7 +4175,7 @@ growruralhealth@health.in.gov
 
 **172** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -4204,7 +4204,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -4218,7 +4218,7 @@ growruralhealth@health.in.gov
 
 **Maternal & Child Health** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Low Birthweight Rate** 
 
@@ -4245,7 +4245,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -4259,7 +4259,7 @@ growruralhealth@health.in.gov
 
 **176** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -4288,7 +4288,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -4300,7 +4300,7 @@ growruralhealth@health.in.gov
 
 **178** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -4329,7 +4329,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4341,7 +4341,7 @@ growruralhealth@health.in.gov
 
 **180** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4370,7 +4370,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4399,7 +4399,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4428,7 +4428,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4440,7 +4440,7 @@ growruralhealth@health.in.gov
 
 **184** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4469,7 +4469,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4498,7 +4498,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4527,7 +4527,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4541,7 +4541,7 @@ growruralhealth@health.in.gov
 
 **188** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4587,7 +4587,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4633,7 +4633,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4662,7 +4662,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4674,7 +4674,7 @@ growruralhealth@health.in.gov
 
 **192** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4703,7 +4703,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4732,7 +4732,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4761,7 +4761,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4777,7 +4777,7 @@ growruralhealth@health.in.gov
 
 **196** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4806,7 +4806,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4835,7 +4835,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4881,7 +4881,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4893,7 +4893,7 @@ growruralhealth@health.in.gov
 
 **200** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4939,7 +4939,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -4985,7 +4985,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5014,7 +5014,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5043,7 +5043,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5072,7 +5072,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5118,7 +5118,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5130,7 +5130,7 @@ www.growruralhealth.in.gov
 
 **207** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5159,7 +5159,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5171,7 +5171,7 @@ www.growruralhealth.in.gov
 
 **209** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5200,7 +5200,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5229,7 +5229,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -5258,7 +5258,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -5272,7 +5272,7 @@ growruralhealth@health.in.gov
 
 **213** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -5301,7 +5301,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -5313,7 +5313,7 @@ www.growruralhealth.in.gov
 
 **215** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -5342,7 +5342,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -5356,7 +5356,7 @@ growruralhealth@health.in.gov
 
 **217** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -5385,7 +5385,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
@@ -5399,15 +5399,15 @@ www.growruralhealth.in.gov
 
 **219** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to emergency departments 
 
-**==> picture [214 x 234] intentionally omitted <==**
+****
 
-**==> picture [75 x 104] intentionally omitted <==**
+****
 
 Key takeaways: Most of Benton county, as well as parts of Fountain, Montgomery and Carroll counties exhibit drivetimes of 45 minutes to access emergency care within Indiana. 
 
@@ -5417,15 +5417,15 @@ www.growruralhealth.in.gov
 
 **220** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to birthing hospitals 
 
-**==> picture [221 x 237] intentionally omitted <==**
+****
 
-**==> picture [100 x 113] intentionally omitted <==**
+****
 
 Key takeaways: Substantial portions of Benton, Warren, White, Fountain and Mongomery county exhibit drive-times of 60+ minutes to access care at an Indiana birthing hospital. Fountain, Montgomery and Warren county contain areas that are more than 75 minutes from the nearest Indiana facility. 
 
@@ -5437,7 +5437,7 @@ www.growruralhealth.in.gov
 
 # **REGION 4** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Region 4** 
 
@@ -5459,7 +5459,7 @@ This region includes the following **fully rural** or **partially rural*** desig
 
 - • Union 
 
-**==> picture [305 x 304] intentionally omitted <==**
+****
 
 growruralhealth@health.in.gov 
 
@@ -5467,13 +5467,13 @@ www.growruralhealth.in.gov
 
 **223** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medicaid Patient Enrollment Profile** 
 
 growruralhealth@health.in.gov 
 
-**==> picture [159 x 13] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
@@ -5481,7 +5481,7 @@ www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
 
 **224** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5495,7 +5495,7 @@ growruralhealth@health.in.gov
 
 **225** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5526,7 +5526,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5540,7 +5540,7 @@ growruralhealth@health.in.gov
 
 **227** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5571,7 +5571,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5602,7 +5602,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5633,7 +5633,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5664,7 +5664,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5678,7 +5678,7 @@ growruralhealth@health.in.gov
 
 **232** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5709,7 +5709,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5740,7 +5740,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5771,7 +5771,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5783,7 +5783,7 @@ growruralhealth@health.in.gov
 
 **236** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5814,7 +5814,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5845,7 +5845,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5857,7 +5857,7 @@ growruralhealth@health.in.gov
 
 **239** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5888,7 +5888,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5919,7 +5919,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5933,7 +5933,7 @@ www.growruralhealth.in.gov
 
 **242** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5964,7 +5964,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -5995,7 +5995,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -6011,7 +6011,7 @@ growruralhealth@health.in.gov
 
 **245** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -6042,7 +6042,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -6056,7 +6056,7 @@ growruralhealth@health.in.gov
 
 **Maternal & Child Health** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Low Birthweight Rate** 
 
@@ -6085,7 +6085,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -6099,7 +6099,7 @@ growruralhealth@health.in.gov
 
 **249** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -6130,7 +6130,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -6142,7 +6142,7 @@ growruralhealth@health.in.gov
 
 **251** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -6173,7 +6173,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6185,7 +6185,7 @@ growruralhealth@health.in.gov
 
 **253** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6216,7 +6216,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6247,7 +6247,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6278,7 +6278,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6290,7 +6290,7 @@ growruralhealth@health.in.gov
 
 **257** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6321,7 +6321,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6352,7 +6352,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6383,7 +6383,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6397,7 +6397,7 @@ growruralhealth@health.in.gov
 
 **261** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6428,7 +6428,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6459,7 +6459,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6490,7 +6490,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6502,7 +6502,7 @@ growruralhealth@health.in.gov
 
 **265** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6533,7 +6533,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6564,7 +6564,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6595,7 +6595,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6611,7 +6611,7 @@ growruralhealth@health.in.gov
 
 **269** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6642,7 +6642,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6673,7 +6673,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6704,7 +6704,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6716,7 +6716,7 @@ growruralhealth@health.in.gov
 
 **273** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6747,7 +6747,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6778,7 +6778,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6809,7 +6809,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6840,7 +6840,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6871,7 +6871,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6902,7 +6902,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6914,7 +6914,7 @@ www.growruralhealth.in.gov
 
 **280** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6945,7 +6945,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6957,7 +6957,7 @@ growruralhealth@health.in.gov
 
 **282** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -6988,7 +6988,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -7019,7 +7019,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -7050,7 +7050,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -7064,7 +7064,7 @@ growruralhealth@health.in.gov
 
 **286** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -7095,7 +7095,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -7107,7 +7107,7 @@ growruralhealth@health.in.gov
 
 **288** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -7138,7 +7138,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -7152,7 +7152,7 @@ growruralhealth@health.in.gov
 
 **290** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -7183,7 +7183,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
@@ -7197,15 +7197,15 @@ www.growruralhealth.in.gov
 
 **292** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 ## Drive-time to emergency departments 
 
-**==> picture [236 x 241] intentionally omitted <==**
+****
 
-**==> picture [75 x 103] intentionally omitted <==**
+****
 
 Key takeaways: Most residents in this region can access emergency care within a 15 or 30 minute drive. **Parts of Union county exhibit longer drive-times, up to 45 minutes.** 
 
@@ -7215,15 +7215,15 @@ www.growruralhealth.in.gov
 
 **293** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 ## Drive-time to birthing hospitals 
 
-**==> picture [246 x 255] intentionally omitted <==**
+****
 
-**==> picture [101 x 114] intentionally omitted <==**
+****
 
 Key takeaways: Most counties in this region exhibit drive-times of 30 minutes or less to an Indiana birthing facility. However, some residents of Blackford, Jay, Tipton, Fayette and Union **may travel between 45 and 60 minutes to receive care at an Indiana facility.** 
 
@@ -7235,7 +7235,7 @@ www.growruralhealth.in.gov
 
 # **REGION 5** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Region 5** 
 
@@ -7255,7 +7255,7 @@ This region includes the following **fully rural** designated counties:
 
 - Greene 
 
-**==> picture [205 x 332] intentionally omitted <==**
+****
 
 growruralhealth@health.in.gov 
 
@@ -7263,7 +7263,7 @@ www.growruralhealth.in.gov
 
 **296** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medicaid Patient Enrollment Profile** 
 
@@ -7273,7 +7273,7 @@ www.growruralhealth.in.gov
 
 **297** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7287,7 +7287,7 @@ growruralhealth@health.in.gov
 
 **298** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7315,7 +7315,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7329,7 +7329,7 @@ growruralhealth@health.in.gov
 
 **300** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7357,7 +7357,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7385,7 +7385,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7413,7 +7413,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7445,7 +7445,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7459,7 +7459,7 @@ growruralhealth@health.in.gov
 
 **305** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7487,7 +7487,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7515,7 +7515,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7543,7 +7543,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7555,7 +7555,7 @@ growruralhealth@health.in.gov
 
 **309** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7585,7 +7585,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7613,7 +7613,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7625,7 +7625,7 @@ growruralhealth@health.in.gov
 
 **312** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7669,7 +7669,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7697,7 +7697,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7711,7 +7711,7 @@ www.growruralhealth.in.gov
 
 **315** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7739,7 +7739,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -7767,7 +7767,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -7783,7 +7783,7 @@ growruralhealth@health.in.gov
 
 **318** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -7811,7 +7811,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -7823,7 +7823,7 @@ growruralhealth@health.in.gov
 
 **320** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -7851,7 +7851,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -7865,7 +7865,7 @@ growruralhealth@health.in.gov
 
 **322** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -7893,7 +7893,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -7905,7 +7905,7 @@ growruralhealth@health.in.gov
 
 **324** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -7933,7 +7933,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -7945,7 +7945,7 @@ growruralhealth@health.in.gov
 
 **326** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -7973,7 +7973,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8001,7 +8001,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8045,7 +8045,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8057,7 +8057,7 @@ growruralhealth@health.in.gov
 
 **330** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8085,7 +8085,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8113,7 +8113,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8141,7 +8141,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8155,7 +8155,7 @@ growruralhealth@health.in.gov
 
 **334** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8183,7 +8183,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8211,7 +8211,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8255,7 +8255,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8267,7 +8267,7 @@ www.growruralhealth.in.gov
 
 **338** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8311,7 +8311,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8339,7 +8339,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8367,7 +8367,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8383,7 +8383,7 @@ growruralhealth@health.in.gov
 
 **342** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8427,7 +8427,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8473,7 +8473,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8501,7 +8501,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8513,7 +8513,7 @@ www.growruralhealth.in.gov
 
 **346** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8541,7 +8541,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8571,7 +8571,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8599,7 +8599,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8627,7 +8627,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8655,7 +8655,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8683,7 +8683,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8695,7 +8695,7 @@ www.growruralhealth.in.gov
 
 **353** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8723,7 +8723,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8735,7 +8735,7 @@ growruralhealth@health.in.gov
 
 **355** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8763,7 +8763,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8791,7 +8791,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -8819,7 +8819,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -8833,7 +8833,7 @@ growruralhealth@health.in.gov
 
 **359** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -8861,7 +8861,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -8873,7 +8873,7 @@ www.growruralhealth.in.gov
 
 **361** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -8901,7 +8901,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -8915,7 +8915,7 @@ growruralhealth@health.in.gov
 
 **363** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -8943,7 +8943,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
@@ -8957,15 +8957,15 @@ www.growruralhealth.in.gov
 
 **365** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to emergency departments 
 
-**==> picture [172 x 261] intentionally omitted <==**
+****
 
-**==> picture [74 x 104] intentionally omitted <==**
+****
 
 Key takeaways: Parts of all counties in these region exhibit drive-times of 30-45 minutes to the nearest Indiana emergency care facility. 
 
@@ -8975,13 +8975,13 @@ www.growruralhealth.in.gov
 
 **366** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 ## Drive-time to birthing hospitals 
 
-**==> picture [167 x 253] intentionally omitted <==**
+****
 
 Key takeaways: Vermillion, Parke, Putnam, Clay, Owen and Greene counties exhibit drive-times of 60 minutes to the nearest Indiana birthing hospital. Northeast Parke county contains **the highest drive-time in this region, at 75 minutes.** 
 
@@ -8993,7 +8993,7 @@ www.growruralhealth.in.gov
 
 # **REGION 6** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Region 6** 
 
@@ -9021,7 +9021,7 @@ This region includes the following **fully rural** or **partially rural*** desig
 
 - Ohio 
 
-**==> picture [231 x 289] intentionally omitted <==**
+****
 
 growruralhealth@health.in.gov 
 
@@ -9029,13 +9029,13 @@ www.growruralhealth.in.gov
 
 **369** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medicaid Patient Enrollment Profile** 
 
 growruralhealth@health.in.gov 
 
-**==> picture [159 x 13] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
@@ -9043,7 +9043,7 @@ www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
 
 **370** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9057,7 +9057,7 @@ growruralhealth@health.in.gov
 
 **371** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9089,7 +9089,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9103,7 +9103,7 @@ growruralhealth@health.in.gov
 
 **373** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9135,7 +9135,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9167,7 +9167,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9199,7 +9199,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9231,7 +9231,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9245,7 +9245,7 @@ growruralhealth@health.in.gov
 
 **378** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9277,7 +9277,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9309,7 +9309,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9341,7 +9341,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9353,7 +9353,7 @@ growruralhealth@health.in.gov
 
 **382** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9385,7 +9385,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9417,7 +9417,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9429,7 +9429,7 @@ growruralhealth@health.in.gov
 
 **385** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9461,7 +9461,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9493,7 +9493,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9507,7 +9507,7 @@ growruralhealth@health.in.gov
 
 **388** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9539,7 +9539,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -9571,7 +9571,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -9587,7 +9587,7 @@ growruralhealth@health.in.gov
 
 **391** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -9619,7 +9619,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -9631,7 +9631,7 @@ growruralhealth@health.in.gov
 
 **393** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -9663,7 +9663,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -9677,7 +9677,7 @@ growruralhealth@health.in.gov
 
 **395** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -9709,7 +9709,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -9721,7 +9721,7 @@ growruralhealth@health.in.gov
 
 **397** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -9753,7 +9753,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -9765,7 +9765,7 @@ growruralhealth@health.in.gov
 
 **399** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -9797,7 +9797,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -9849,7 +9849,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -9881,7 +9881,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -9893,7 +9893,7 @@ growruralhealth@health.in.gov
 
 **403** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -9925,7 +9925,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -9957,7 +9957,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -9989,7 +9989,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10003,7 +10003,7 @@ growruralhealth@health.in.gov
 
 **407** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10035,7 +10035,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10067,7 +10067,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10099,7 +10099,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10111,7 +10111,7 @@ growruralhealth@health.in.gov
 
 **411** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10143,7 +10143,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10175,7 +10175,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10207,7 +10207,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10223,7 +10223,7 @@ growruralhealth@health.in.gov
 
 **415** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10255,7 +10255,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10287,7 +10287,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10319,7 +10319,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10331,7 +10331,7 @@ growruralhealth@health.in.gov
 
 **419** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10363,7 +10363,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10395,7 +10395,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10427,7 +10427,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10459,7 +10459,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10493,7 +10493,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10525,7 +10525,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10537,7 +10537,7 @@ www.growruralhealth.in.gov
 
 **426** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10569,7 +10569,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10581,7 +10581,7 @@ growruralhealth@health.in.gov
 
 **428** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10613,7 +10613,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10645,7 +10645,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -10677,7 +10677,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -10691,7 +10691,7 @@ growruralhealth@health.in.gov
 
 **432** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -10723,7 +10723,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -10735,7 +10735,7 @@ growruralhealth@health.in.gov
 
 **434** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -10767,7 +10767,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -10781,7 +10781,7 @@ growruralhealth@health.in.gov
 
 **436** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -10813,7 +10813,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
@@ -10827,15 +10827,15 @@ growruralhealth@health.in.gov
 
 **438** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to emergency departments 
 
-**==> picture [204 x 249] intentionally omitted <==**
+****
 
-**==> picture [75 x 104] intentionally omitted <==**
+****
 
 Key takeaways: Parts of Franklin, Ripley, Jennings, Jefferson, Dearborn, Ohio and Switzerland county exhibit drive-times of **45+ minutes to receive emergency care within Indiana** . Both Jefferson and Switzerland contain portions that are **75 minutes from the nearest Indiana emergency care facility** . 
 
@@ -10845,15 +10845,15 @@ www.growruralhealth.in.gov
 
 **439** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to birthing hospitals 
 
-**==> picture [203 x 253] intentionally omitted <==**
+****
 
-**==> picture [101 x 112] intentionally omitted <==**
+****
 
 Key takeaways: The majority of this region exhibits drivetimes of 30-45 minutes to the nearest Indiana birthing hospital. Nearly all of Ohio and portions of Franklin, Dearborn, Switzerland and Jefferson county **exhibit drive-times of 60+ minutes** . 
 
@@ -10865,7 +10865,7 @@ www.growruralhealth.in.gov
 
 # **REGION 7** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Region 7** 
 
@@ -10885,7 +10885,7 @@ www.growruralhealth.in.gov
 
    - Harrison 
 
-**==> picture [157 x 299] intentionally omitted <==**
+****
 
 growruralhealth@health.in.gov 
 
@@ -10893,13 +10893,13 @@ www.growruralhealth.in.gov
 
 **442** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medicaid Patient Enrollment Profile** 
 
 growruralhealth@health.in.gov 
 
-**==> picture [159 x 13] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
@@ -10907,7 +10907,7 @@ www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
 
 **443** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -10921,7 +10921,7 @@ growruralhealth@health.in.gov
 
 **444** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -10950,7 +10950,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -10964,7 +10964,7 @@ growruralhealth@health.in.gov
 
 **446** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -10993,7 +10993,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11022,7 +11022,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11051,7 +11051,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11080,7 +11080,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11094,7 +11094,7 @@ growruralhealth@health.in.gov
 
 **451** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11123,7 +11123,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11152,7 +11152,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11181,7 +11181,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11193,7 +11193,7 @@ growruralhealth@health.in.gov
 
 **455** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11222,7 +11222,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11251,7 +11251,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11263,7 +11263,7 @@ growruralhealth@health.in.gov
 
 **458** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11292,7 +11292,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11321,7 +11321,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11335,7 +11335,7 @@ growruralhealth@health.in.gov
 
 **461** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11381,7 +11381,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -11427,7 +11427,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -11443,7 +11443,7 @@ growruralhealth@health.in.gov
 
 **464** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -11472,7 +11472,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -11486,7 +11486,7 @@ growruralhealth@health.in.gov
 
 **Maternal & Child Health** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Low Birthweight Rate** 
 
@@ -11513,7 +11513,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -11527,7 +11527,7 @@ growruralhealth@health.in.gov
 
 **468** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -11556,7 +11556,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -11568,7 +11568,7 @@ growruralhealth@health.in.gov
 
 **470** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -11597,7 +11597,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11609,7 +11609,7 @@ growruralhealth@health.in.gov
 
 **472** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11638,7 +11638,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11667,7 +11667,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11696,7 +11696,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11708,7 +11708,7 @@ growruralhealth@health.in.gov
 
 **476** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11737,7 +11737,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11766,7 +11766,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11795,7 +11795,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11809,7 +11809,7 @@ www.growruralhealth.in.gov
 
 **480** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11838,7 +11838,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11884,7 +11884,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11913,7 +11913,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11925,7 +11925,7 @@ www.growruralhealth.in.gov
 
 **484** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11954,7 +11954,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -11983,7 +11983,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12012,7 +12012,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12028,7 +12028,7 @@ www.growruralhealth.in.gov
 
 **488** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12057,7 +12057,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12086,7 +12086,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12132,7 +12132,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12144,7 +12144,7 @@ growruralhealth@health.in.gov
 
 **492** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12173,7 +12173,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12219,7 +12219,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12265,7 +12265,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12294,7 +12294,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12325,7 +12325,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12354,7 +12354,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12366,7 +12366,7 @@ www.growruralhealth.in.gov
 
 **499** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12395,7 +12395,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12407,7 +12407,7 @@ growruralhealth@health.in.gov
 
 **501** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12436,7 +12436,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12465,7 +12465,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -12494,7 +12494,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -12508,7 +12508,7 @@ growruralhealth@health.in.gov
 
 **505** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -12537,7 +12537,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -12549,7 +12549,7 @@ www.growruralhealth.in.gov
 
 **507** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -12578,7 +12578,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -12592,7 +12592,7 @@ www.growruralhealth.in.gov
 
 **509** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -12621,7 +12621,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
@@ -12635,15 +12635,15 @@ www.growruralhealth.in.gov
 
 **511** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to emergency departments 
 
-**==> picture [134 x 249] intentionally omitted <==**
+****
 
-**==> picture [74 x 104] intentionally omitted <==**
+****
 
 Key takeaways: All counties in this region exhibit drive-times of 15 to 45 minutes to receive emergency care in Indiana. Some residents in Brown, Jackson, Lawrence, Crawford, Perry and Harrison counties **may travel substantially longer, with drive-times of 60 to 75 minutes.** 
 
@@ -12653,15 +12653,15 @@ www.growruralhealth.in.gov
 
 **512** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to birthing hospitals 
 
-**==> picture [148 x 260] intentionally omitted <==**
+****
 
-**==> picture [101 x 113] intentionally omitted <==**
+****
 
 Key takeaways: All counties in this region exhibit drive-times of 30 to 45 minutes to an Indiana birthing hospital, with some residents in Brown, Lawrence, Jackson, Perry and Crawford **traveling 60 minutes by car** . Perry and Harrison counties demonstrate the highest drive-times in this region, with portions of the counties **exhibiting 75+ minutes of travel.** 
 
@@ -12673,7 +12673,7 @@ www.growruralhealth.in.gov
 
 # **REGION 8** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Region 8** 
 
@@ -12699,7 +12699,7 @@ This region includes the following **fully rural** or **partially rural*** desig
 
 - Spencer 
 
-**==> picture [273 x 266] intentionally omitted <==**
+****
 
 growruralhealth@health.in.gov 
 
@@ -12707,13 +12707,13 @@ www.growruralhealth.in.gov
 
 **515** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medicaid Patient Enrollment Profile** 
 
 growruralhealth@health.in.gov 
 
-**==> picture [159 x 13] intentionally omitted <==**
+****
 
 **----- Start of picture text -----**<br>
 www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
@@ -12721,7 +12721,7 @@ www.growruralhealth.in.gov<br>**----- End of picture text -----**<br>
 
 **516** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12735,7 +12735,7 @@ growruralhealth@health.in.gov
 
 **517** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12766,7 +12766,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12780,7 +12780,7 @@ growruralhealth@health.in.gov
 
 **519** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12811,7 +12811,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12842,7 +12842,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12873,7 +12873,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12904,7 +12904,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12918,7 +12918,7 @@ growruralhealth@health.in.gov
 
 **524** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12949,7 +12949,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -12980,7 +12980,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13011,7 +13011,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13023,7 +13023,7 @@ growruralhealth@health.in.gov
 
 **528** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13054,7 +13054,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13085,7 +13085,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13097,7 +13097,7 @@ growruralhealth@health.in.gov
 
 **531** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13128,7 +13128,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13159,7 +13159,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13173,7 +13173,7 @@ growruralhealth@health.in.gov
 
 **534** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13204,7 +13204,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Chronic Disease & Primary Care** 
 
@@ -13235,7 +13235,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -13251,7 +13251,7 @@ growruralhealth@health.in.gov
 
 **537** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -13282,7 +13282,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -13296,7 +13296,7 @@ growruralhealth@health.in.gov
 
 **Maternal & Child Health** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Low Birthweight Rate** 
 
@@ -13325,7 +13325,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -13339,7 +13339,7 @@ growruralhealth@health.in.gov
 
 **541** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -13370,7 +13370,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -13382,7 +13382,7 @@ growruralhealth@health.in.gov
 
 **543** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Maternal & Child Health** 
 
@@ -13413,7 +13413,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13425,7 +13425,7 @@ growruralhealth@health.in.gov
 
 **545** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13456,7 +13456,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13487,7 +13487,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13518,7 +13518,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13530,7 +13530,7 @@ growruralhealth@health.in.gov
 
 **549** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13561,7 +13561,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13592,7 +13592,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13623,7 +13623,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13637,7 +13637,7 @@ growruralhealth@health.in.gov
 
 **553** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13668,7 +13668,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13699,7 +13699,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13730,7 +13730,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13742,7 +13742,7 @@ growruralhealth@health.in.gov
 
 **557** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13773,7 +13773,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13804,7 +13804,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13835,7 +13835,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13851,7 +13851,7 @@ growruralhealth@health.in.gov
 
 **561** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13882,7 +13882,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13932,7 +13932,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13963,7 +13963,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -13975,7 +13975,7 @@ www.growruralhealth.in.gov
 
 **565** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14006,7 +14006,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14037,7 +14037,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14068,7 +14068,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14099,7 +14099,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14130,7 +14130,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14161,7 +14161,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14173,7 +14173,7 @@ www.growruralhealth.in.gov
 
 **572** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14204,7 +14204,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14216,7 +14216,7 @@ growruralhealth@health.in.gov
 
 **574** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14247,7 +14247,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14278,7 +14278,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Trauma & Injury Prevention** 
 
@@ -14309,7 +14309,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -14323,7 +14323,7 @@ growruralhealth@health.in.gov
 
 **578** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Syndromic Surveillance** 
 
@@ -14354,7 +14354,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -14366,7 +14366,7 @@ growruralhealth@health.in.gov
 
 **580** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Vitality** 
 
@@ -14397,7 +14397,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -14411,7 +14411,7 @@ growruralhealth@health.in.gov
 
 **582** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Medical Workforce** 
 
@@ -14442,7 +14442,7 @@ growruralhealth@health.in.gov
 
 www.growruralhealth.in.gov 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
@@ -14456,15 +14456,15 @@ growruralhealth@health.in.gov
 
 **584** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 Drive-time to emergency departments 
 
-**==> picture [263 x 231] intentionally omitted <==**
+****
 
-**==> picture [74 x 104] intentionally omitted <==**
+****
 
 Key takeaways: Large parts of Martin, Pike and Posey county exhibit drive-times of 45 minutes to emergency care in Indiana. Residents in portions of Posey, Martin and Knox counties **may drive 60-75 minutes to receive care at an Indiana facility.** 
 
@@ -14474,15 +14474,15 @@ www.growruralhealth.in.gov
 
 **585** 
 
-**==> picture [720 x 35] intentionally omitted <==**
+****
 
 ## **Geospatial Analysis** 
 
 ## Drive-time to birthing hospitals 
 
-**==> picture [277 x 261] intentionally omitted <==**
+****
 
-**==> picture [99 x 113] intentionally omitted <==**
+****
 
 Key takeaways: All counties in this region exhibit drive-times of 30 to 45 minutes to an Indiana birthing hospital. Some residents in Spencer, Martin, Knox, Gibson and Posey counties **will travel 60 minutes** . Posey county exhibits the **highest drive-times in this region, of 75 minutes to the nearest facility** . 
 
