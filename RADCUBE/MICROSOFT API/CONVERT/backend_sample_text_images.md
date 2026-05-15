@@ -59,8 +59,8 @@ End of sample PDF. This final sentence is included to confirm that the parser re
 
 
 
-![image1.png](<images/RADCUBE/MICROSOFT API/CONVERT/backend_sample_text_images/image1.png>)
+![image1.png](<../../../images/backend_sample_text_images/image1.png>)
 
-![image2.png](<images/RADCUBE/MICROSOFT API/CONVERT/backend_sample_text_images/image2.png>)
+![image2.png](<../../../images/backend_sample_text_images/image2.png>)
 
-![image3.png](<images/RADCUBE/MICROSOFT API/CONVERT/backend_sample_text_images/image3.png>)
+![image3.png](<../../../images/backend_sample_text_images/image3.png>)
