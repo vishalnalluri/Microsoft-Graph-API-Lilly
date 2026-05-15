@@ -6,13 +6,13 @@
 Architecture Diagram :**
 
 **\**
-![image1.png](<../../images/GDM New Version Documentation/image1.png>)
+![image1.png](<images/GDM New Version Documentation/image1.png>)
 
 1.  **S3 setup:** Create an External Location in Databricks Unity Catalog using an IAM role. This is the official, secure way to mount S3 without hardcoding credentials**.**
 
 2.  **Use Auto Loader** (cloud Files format) in a Databricks notebook or DLT pipeline. It watches your S3 path and ingests new files automatically into a Delta table — handles CSV, XLSX (via pandas), JSON, and Parquet.
 
-![image2.png](<../../images/GDM New Version Documentation/image2.png>)
+![image2.png](<images/GDM New Version Documentation/image2.png>)
 
 3.  
 
@@ -42,7 +42,7 @@ AI/BI Dashboard
 
 ****
 
-**For the one genie_space**![image3.png](<../../images/GDM New Version Documentation/image3.png>)
+**For the one genie_space**![image3.png](<images/GDM New Version Documentation/image3.png>)
 
 > **API:**
 
@@ -52,7 +52,7 @@ AI/BI Dashboard
 
 > **Fresh new Genie Space every time(not reuse)**
 
-![image4.png](<../../images/GDM New Version Documentation/image4.png>)
+![image4.png](<images/GDM New Version Documentation/image4.png>)
 
 **To Create the Dashboard API**
 
@@ -126,4 +126,4 @@ All endpoints at a glance
 </tbody>
 </table>
 
-![image5.png](<../../images/GDM New Version Documentation/image5.png>)
+![image5.png](<images/GDM New Version Documentation/image5.png>)

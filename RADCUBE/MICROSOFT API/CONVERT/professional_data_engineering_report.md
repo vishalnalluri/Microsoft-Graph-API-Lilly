@@ -34,6 +34,6 @@ Modern data engineering platforms are designed to handle high-volume, high-veloc
 
 
 
-![image1.png](<../../../images/professional_data_engineering_report/image1.png>)
+![image1.png](<images/professional_data_engineering_report/image1.png>)
 
-![image2.png](<../../../images/professional_data_engineering_report/image2.png>)
+![image2.png](<images/professional_data_engineering_report/image2.png>)
