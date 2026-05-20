@@ -20,6 +20,18 @@ Date:04/02/2025
 
 Task Completed and Deliverables
 
+| Name | Completed | Deliverables |
+
+| --- | --- | --- |
+
+| Rakesh | 100% | Report for PMO by using PBI , Adobe Xdm and salesforce Presentation |
+
+| Khader | 100% | Hypothesis Testing , Netflix Dash Board |
+
+| Aravinth | 100% | SQL ER Diag , DDL scripted |
+
+|   |   |   |
+
 ![slide_2_img_10.png](<images/Super Store Data Set/slide_2_img_10.png>)
 
 ## Slide 3
@@ -217,5 +229,61 @@ Thank You!
 ## Slide 13
 
 ![slide_13_img_6.png](<images/Super Store Data Set/slide_13_img_6.png>)
+
+| Groups | Count | Sum | Average | Variance |
+
+| --- | --- | --- | --- | --- |
+
+| January | 24 | 44259.21 | 1844.134 | 2762126 |
+
+| February | 20 | 20301.13 | 1015.057 | 760657.4 |
+
+| March | 28 | 60728.48 | 2168.874 | 8339318 |
+
+| April | 27 | 36779.04 | 1362.187 | 2513145 |
+
+| May | 27 | 45155.48 | 1672.425 | 2165215 |
+
+| June | 26 | 53056.08 | 2040.618 | 2357296 |
+
+| July | 29 | 45989.5 | 1585.845 | 2035487 |
+
+| August | 28 | 64129.76 | 2290.349 | 6982869 |
+
+| September | 28 | 88064.53 | 3145.162 | 7300017 |
+
+| October | 28 | 83474.78 | 2981.242 | 13531442 |
+
+| November | 30 | 117910.1 | 3930.338 | 9662778 |
+
+| December | 29 | 85072.7 | 2933.541 | 6424776 |
+
+| Groups | Count | Sum | Average | Variance |
+
+| Source of Variation | SS | df | MS | F | P-value | F crit |
+
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Between Groups | 213787757.8 | 11 | 19435251 | 3.461452 | 0.000143 | 1.819406 |
+
+| Within Groups | 1751807496 | 312 | 5614768 |   |   |   |
+
+|   |   |   |   |   |   |   |
+
+| Total | 1965595253 | 323 |   |   |   |   |
+
+| SUMMARY |
+
+| --- |
+
+| ANOVA SINGLE FACTOR |
+
+| --- |
+
+| P-Value = 0.00143 < 0.05 →reject H₀
+
+F-Statistic < F crit → 3.461> 1.819 |
+
+| --- |
 
 Appendix:1
