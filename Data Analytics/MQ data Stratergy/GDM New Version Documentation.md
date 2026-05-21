@@ -6,13 +6,13 @@
 Architecture Diagram :**
 
 **\**
-<img src="/tmp/docx_6o2v96v9/media/media/image1.png" style="width:6.3279in;height:3.52226in" />
+<img src="/tmp/docx_q6x3cnvg/media/media/image1.png" style="width:6.3279in;height:3.52226in" />
 
 1.  **S3 setup:** Create an External Location in Databricks Unity Catalog using an IAM role. This is the official, secure way to mount S3 without hardcoding credentials**.**
 
 2.  **Use Auto Loader** (cloud Files format) in a Databricks notebook or DLT pipeline. It watches your S3 path and ingests new files automatically into a Delta table — handles CSV, XLSX (via pandas), JSON, and Parquet.
 
-<img src="/tmp/docx_6o2v96v9/media/media/image2.png" style="width:6.5in;height:3.98264in" />
+<img src="/tmp/docx_q6x3cnvg/media/media/image2.png" style="width:6.5in;height:3.98264in" />
 
 3.  
 
@@ -42,7 +42,7 @@ AI/BI Dashboard
 
 ****
 
-**For the one genie_space**<img src="/tmp/docx_6o2v96v9/media/media/image3.png" style="width:6.5in;height:3.82639in" />
+**For the one genie_space**<img src="/tmp/docx_q6x3cnvg/media/media/image3.png" style="width:6.5in;height:3.82639in" />
 
 > **API:**
 
@@ -52,7 +52,7 @@ AI/BI Dashboard
 
 > **Fresh new Genie Space every time(not reuse)**
 
-<img src="/tmp/docx_6o2v96v9/media/media/image4.png" style="width:6.5in;height:4.21319in" />
+<img src="/tmp/docx_q6x3cnvg/media/media/image4.png" style="width:6.5in;height:4.21319in" />
 
 **To Create the Dashboard API**
 
@@ -126,4 +126,4 @@ All endpoints at a glance
 </tbody>
 </table>
 
-<img src="/tmp/docx_6o2v96v9/media/media/image5.png" style="width:6.5in;height:4.60069in" />
+<img src="/tmp/docx_q6x3cnvg/media/media/image5.png" style="width:6.5in;height:4.60069in" />
