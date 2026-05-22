@@ -10,8 +10,7 @@ You're building an automated pipeline that syncs enterprise architecture documen
 
 **The Flow:**
 
-SharePoint/Teams → Your Pipeline → GitHub → Downstream Systems
-                   (Monitor, Convert, Publish)
+SharePoint/Teams → Your Pipeline → GitHub → Downstream Systems                   (Monitor, Convert, Publish)
 
 # 📋 The Problem We're Solving
 
@@ -93,17 +92,7 @@ SharePoint/Teams → Your Pipeline → GitHub → Downstream Systems
 
 **GITHUB REPOSITORY**
 
-architecture-docs/
-├── sharepoint/
-│   ├── it-architecture/
-│   │   ├── design-patterns.md
-│   │   └── api-guidelines.md
-│   └── enterprise-docs/
-│       └── security-standards.md
-└── teams/
-    └── engineering/
-        └── architecture/
-            └── meeting-notes-2026-02-13.md
+architecture-docs/├── sharepoint/│   ├── it-architecture/│   │   ├── design-patterns.md│   │   └── api-guidelines.md│   └── enterprise-docs/│       └── security-standards.md└── teams/    └── engineering/        └── architecture/            └── meeting-notes-2026-02-13.md
 
 **DOWNSTREAM SYSTEMS (Already exist - You just validate they still work)**
 
@@ -175,22 +164,7 @@ architecture-docs/
 
 **Key Libraries**
 
-# Microsoft integrations
-npm install @microsoft/microsoft-graph-client  # SharePoint/Teams API
-
-# GitHub integration
-npm install @octokit/rest  # GitHub API client
-
-# Document conversion
-npm install mammoth         # DOCX → Markdown
-npm install pdf-to-markdown # PDF → Markdown
-
-# Database
-npm install better-sqlite3  # Lightweight SQL database
-
-# Utilities
-npm install dotenv          # Environment variables
-npm install winston         # Logging
+# Microsoft integrationsnpm install @microsoft/microsoft-graph-client  # SharePoint/Teams API# GitHub integrationnpm install @octokit/rest  # GitHub API client# Document conversionnpm install mammoth         # DOCX → Markdownnpm install pdf-to-markdown # PDF → Markdown# Databasenpm install better-sqlite3  # Lightweight SQL database# Utilitiesnpm install dotenv          # Environment variablesnpm install winston         # Logging
 
 **System Tools**
 
@@ -202,36 +176,7 @@ npm install winston         # Logging
 
 # 📂 Project Structure (What You'll Build)
 
-architecture-ingestion/
-├── src/
-│   ├── main.js                      # ← Start here (orchestrator)
-│   ├── sources/
-│   │   ├── SharePointMonitor.js     # Poll SharePoint for files
-│   │   └── TeamsMonitor.js          # Poll Teams for files
-│   ├── detection/
-│   │   ├── ChangeDetector.js        # MD5 checksum logic
-│   │   └── StateManager.js          # SQLite database operations
-│   ├── conversion/
-│   │   ├── JobConverter.js          # Route to right converter
-│   │   ├── DocxConverter.js         # DOCX → Markdown
-│   │   ├── PdfConverter.js          # PDF → Markdown
-│   │   └── PptxConverter.js         # PPTX → Markdown
-│   ├── publishing/
-│   │   ├── GitHubPublisher.js       # Push to GitHub
-│   │   └── PathMapper.js            # Generate GitHub paths
-│   └── utils/
-│       ├── logger.js                # Winston logger setup
-│       └── retry.js                 # Retry failed operations
-├── tests/
-│   ├── unit/                        # Test individual components
-│   └── integration/                 # Test full pipeline
-├── data/
-│   ├── state.db                     # SQLite database
-│   └── logs/                        # Log files
-├── .env                             # Secrets (don't commit!)
-├── config.json                      # Configuration
-├── package.json
-└── README.md
+architecture-ingestion/├── src/│   ├── main.js                      # ← Start here (orchestrator)│   ├── sources/│   │   ├── SharePointMonitor.js     # Poll SharePoint for files│   │   └── TeamsMonitor.js          # Poll Teams for files│   ├── detection/│   │   ├── ChangeDetector.js        # MD5 checksum logic│   │   └── StateManager.js          # SQLite database operations│   ├── conversion/│   │   ├── JobConverter.js          # Route to right converter│   │   ├── DocxConverter.js         # DOCX → Markdown│   │   ├── PdfConverter.js          # PDF → Markdown│   │   └── PptxConverter.js         # PPTX → Markdown│   ├── publishing/│   │   ├── GitHubPublisher.js       # Push to GitHub│   │   └── PathMapper.js            # Generate GitHub paths│   └── utils/│       ├── logger.js                # Winston logger setup│       └── retry.js                 # Retry failed operations├── tests/│   ├── unit/                        # Test individual components│   └── integration/                 # Test full pipeline├── data/│   ├── state.db                     # SQLite database│   └── logs/                        # Log files├── .env                             # Secrets (don't commit!)├── config.json                      # Configuration├── package.json└── README.md
 
 # 🔑 Key Concepts You Need to Know
 
@@ -303,51 +248,19 @@ architecture-ingestion/
 
 **1. Clone the starter repo (or create new):**
 
-mkdir architecture-ingestion
-cd architecture-ingestion
-npm init -y
+mkdir architecture-ingestioncd architecture-ingestionnpm init -y
 
 **2. Install dependencies:**
 
-npm install @microsoft/microsoft-graph-client @octokit/rest
-npm install mammoth better-sqlite3 dotenv winston
+npm install @microsoft/microsoft-graph-client @octokit/restnpm install mammoth better-sqlite3 dotenv winston
 
 **3. Create .env file (get these from Lilly team):**
 
-# Microsoft Graph API
-MICROSOFT_TENANT_ID=xxx
-MICROSOFT_CLIENT_ID=xxx
-MICROSOFT_CLIENT_SECRET=xxx
-
-# GitHub
-GITHUB_TOKEN=ghp_xxx
-GITHUB_OWNER=eli-lilly
-GITHUB_REPO=architecture-docs
-
-# SharePoint Sites (comma-separated)
-SHAREPOINT_SITES=site-id-1,site-id-2
+# Microsoft Graph APIMICROSOFT_TENANT_ID=xxxMICROSOFT_CLIENT_ID=xxxMICROSOFT_CLIENT_SECRET=xxx# GitHubGITHUB_TOKEN=ghp_xxxGITHUB_OWNER=eli-lillyGITHUB_REPO=architecture-docs# SharePoint Sites (comma-separated)SHAREPOINT_SITES=site-id-1,site-id-2
 
 **4. Test Microsoft Graph connection:**
 
-// test-graph.js
-const client = require('@microsoft/microsoft-graph-client');
-require('isomorphic-fetch');
-
-// Get token using client credentials flow
-const getAccessToken = async () => {
-  // You'll implement this with MSAL library
-};
-
-const graphClient = Client.init({
-  authProvider: async (done) => {
-    const token = await getAccessToken();
-    done(null, token);
-  }
-});
-
-// List SharePoint sites
-const sites = await graphClient.api('/sites').get();
-console.log('Sites:', sites.value);
+// test-graph.jsconst client = require('@microsoft/microsoft-graph-client');require('isomorphic-fetch');// Get token using client credentials flowconst getAccessToken = async () => {  // You'll implement this with MSAL library};const graphClient = Client.init({  authProvider: async (done) => {    const token = await getAccessToken();    done(null, token);  }});// List SharePoint sitesconst sites = await graphClient.api('/sites').get();console.log('Sites:', sites.value);
 
 # 🎯 Success Criteria (How You Know It Works)
 
