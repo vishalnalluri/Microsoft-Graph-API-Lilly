@@ -2,27 +2,27 @@
 
 **Onboarding Process**
 
-**People Involved:**
+**People Involved:** 
 
-**Syra –**Sely-Ann (Project Manager), Ekaterina (Reporting Team), Ajay (Support Team), Anusha (Learning Paths Content Creator)
+**Syra –** Sely-Ann (Project Manager), Ekaterina (Reporting Team), Ajay (Support Team), Anusha (Learning Paths Content Creator)
 
 **Yes LMS** – **Felipe**/Doug
 
-**State****–** Jessica, **Kathy**, Richard
+**State** **–** Jessica, **Kathy**, Richard
 
 **Steps of Onboarding Process:**
 
-**Step1:**Ajay Sends Survey through email.
+**Step1:** Ajay Sends Survey through email.
 
-**Step 2:**Download Survey and make sure Provider Names have any special characters like the apostrophe. If found, remove it.
+**Step 2:** Download Survey and make sure Provider Names have any special characters like the apostrophe. If found, remove it.
 
-**Step 3:****Open**
+**Step 3:** **Open** 
 
-**Lambda Function:**Onboarding-List-Creation - > Change List number in the Lambda function code and deploy. Ex: List-43
+**Lambda Function:** Onboarding-List-Creation - > Change List number in the Lambda function code and deploy. Ex: List-43 
 
-**S3:**onboarding-list-creation-data
+**S3:** onboarding-list-creation-data
 
-**Step 4:****In S3****bucket,**onboarding-list-creation-data - > Input
+**Step 4:** **In S3** **bucket,** onboarding-list-creation-data - > Input 
 
 Delete old Survey from onboarding-list-creation-data - > Input.
 
@@ -32,7 +32,8 @@ Upload New Survey in onboarding-list-creation-data - > Input.
 
 ![img_2.png](<images/HCSP Onboarding KT Document/img_2.png>)
 
-Group Code Creation Lambda Function: **Group-Code-Creation**
+Group Code Creation Lambda Function: 
+**Group-Code-Creation**
 
 Once we get Group Code, we need to recheck if it is unique:
 
@@ -42,12 +43,12 @@ Once we get Group Code, we need to recheck if it is unique:
 
 **Send Emails to Providers:**
 
-**Lambda Function:**send_bulk_ses_emails
+**Lambda Function:** send_bulk_ses_emails
 
-**S3 Bucket:**ses-email-info
+**S3 Bucket:** ses-email-info
 
 **Inserting List into RDS:**
 
-**Lambda Function:**List-Insertions-Into-RDS
+**Lambda Function:** List-Insertions-Into-RDS
 
-**S3:**list-insertion-into-rds-storage
+**S3:** list-insertion-into-rds-storage
